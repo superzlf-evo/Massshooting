@@ -1,0 +1,433 @@
+Code,State,Year,Num
+AL,Alabama,2014,2
+AL,Alabama,2015,4
+AL,Alabama,2016,15
+AL,Alabama,2017,7
+AL,Alabama,2018,14
+AL,Alabama,2019,12
+AL,Alabama,2020,11
+AL,Alabama,2021,23
+AL,Alabama,2022,16
+AK,Alaska,2014,1
+AK,Alaska,2015,0
+AK,Alaska,2016,0
+AK,Alaska,2017,0
+AK,Alaska,2018,0
+AK,Alaska,2019,0
+AK,Alaska,2020,3
+AK,Alaska,2021,1
+AK,Alaska,2022,0
+AZ,Arizona,2014,1
+AZ,Arizona,2015,6
+AZ,Arizona,2016,4
+AZ,Arizona,2017,5
+AZ,Arizona,2018,2
+AZ,Arizona,2019,5
+AZ,Arizona,2020,4
+AZ,Arizona,2021,5
+AZ,Arizona,2022,13
+AR,Arkansas,2014,2
+AR,Arkansas,2015,2
+AR,Arkansas,2016,3
+AR,Arkansas,2017,3
+AR,Arkansas,2018,6
+AR,Arkansas,2019,5
+AR,Arkansas,2020,14
+AR,Arkansas,2021,5
+AR,Arkansas,2022,5
+CA,California,2014,41
+CA,California,2015,27
+CA,California,2016,46
+CA,California,2017,38
+CA,California,2018,35
+CA,California,2019,49
+CA,California,2020,39
+CA,California,2021,45
+CA,California,2022,49
+CO,Colorado,2014,2
+CO,Colorado,2015,3
+CO,Colorado,2016,4
+CO,Colorado,2017,2
+CO,Colorado,2018,8
+CO,Colorado,2019,5
+CO,Colorado,2020,11
+CO,Colorado,2021,13
+CO,Colorado,2022,13
+CT,Connecticut,2014,1
+CT,Connecticut,2015,2
+CT,Connecticut,2016,6
+CT,Connecticut,2017,2
+CT,Connecticut,2018,2
+CT,Connecticut,2019,3
+CT,Connecticut,2020,7
+CT,Connecticut,2021,2
+CT,Connecticut,2022,3
+DE,Delaware,2014,0
+DE,Delaware,2015,1
+DE,Delaware,2016,2
+DE,Delaware,2017,1
+DE,Delaware,2018,1
+DE,Delaware,2019,2
+DE,Delaware,2020,3
+DE,Delaware,2021,6
+DE,Delaware,2022,1
+FL,Florida,2014,17
+FL,Florida,2015,26
+FL,Florida,2016,30
+FL,Florida,2017,24
+FL,Florida,2018,30
+FL,Florida,2019,15
+FL,Florida,2020,34
+FL,Florida,2021,31
+FL,Florida,2022,31
+GA,Georgia,2014,17
+GA,Georgia,2015,20
+GA,Georgia,2016,17
+GA,Georgia,2017,9
+GA,Georgia,2018,8
+GA,Georgia,2019,19
+GA,Georgia,2020,17
+GA,Georgia,2021,22
+GA,Georgia,2022,29
+ID,Idaho,2014,0
+ID,Idaho,2015,0
+ID,Idaho,2016,0
+ID,Idaho,2017,0
+ID,Idaho,2018,0
+ID,Idaho,2019,0
+ID,Idaho,2020,1
+ID,Idaho,2021,1
+ID,Idaho,2022,0
+IL,Illinois,2014,26
+IL,Illinois,2015,25
+IL,Illinois,2016,42
+IL,Illinois,2017,37
+IL,Illinois,2018,35
+IL,Illinois,2019,41
+IL,Illinois,2020,68
+IL,Illinois,2021,86
+IL,Illinois,2022,57
+IN,Indiana,2014,8
+IN,Indiana,2015,9
+IN,Indiana,2016,8
+IN,Indiana,2017,7
+IN,Indiana,2018,6
+IN,Indiana,2019,10
+IN,Indiana,2020,7
+IN,Indiana,2021,14
+IN,Indiana,2022,15
+IA,Iowa,2014,0
+IA,Iowa,2015,2
+IA,Iowa,2016,0
+IA,Iowa,2017,2
+IA,Iowa,2018,0
+IA,Iowa,2019,3
+IA,Iowa,2020,4
+IA,Iowa,2021,5
+IA,Iowa,2022,2
+KS,Kansas,2014,0
+KS,Kansas,2015,1
+KS,Kansas,2016,5
+KS,Kansas,2017,4
+KS,Kansas,2018,2
+KS,Kansas,2019,4
+KS,Kansas,2020,2
+KS,Kansas,2021,2
+KS,Kansas,2022,3
+KY,Kentucky,2014,4
+KY,Kentucky,2015,4
+KY,Kentucky,2016,2
+KY,Kentucky,2017,6
+KY,Kentucky,2018,4
+KY,Kentucky,2019,5
+KY,Kentucky,2020,10
+KY,Kentucky,2021,4
+KY,Kentucky,2022,9
+LA,Louisiana,2014,11
+LA,Louisiana,2015,15
+LA,Louisiana,2016,14
+LA,Louisiana,2017,15
+LA,Louisiana,2018,13
+LA,Louisiana,2019,26
+LA,Louisiana,2020,27
+LA,Louisiana,2021,32
+LA,Louisiana,2022,28
+ME,Maine,2014,1
+ME,Maine,2015,0
+ME,Maine,2016,0
+ME,Maine,2017,1
+ME,Maine,2018,0
+ME,Maine,2019,0
+ME,Maine,2020,1
+ME,Maine,2021,0
+ME,Maine,2022,0
+MD,Maryland,2014,1
+MD,Maryland,2015,13
+MD,Maryland,2016,11
+MD,Maryland,2017,8
+MD,Maryland,2018,9
+MD,Maryland,2019,20
+MD,Maryland,2020,18
+MD,Maryland,2021,20
+MD,Maryland,2022,19
+MA,Massachusetts,2014,4
+MA,Massachusetts,2015,5
+MA,Massachusetts,2016,3
+MA,Massachusetts,2017,1
+MA,Massachusetts,2018,1
+MA,Massachusetts,2019,5
+MA,Massachusetts,2020,8
+MA,Massachusetts,2021,4
+MA,Massachusetts,2022,3
+MI,Michigan,2014,10
+MI,Michigan,2015,11
+MI,Michigan,2016,11
+MI,Michigan,2017,8
+MI,Michigan,2018,8
+MI,Michigan,2019,9
+MI,Michigan,2020,21
+MI,Michigan,2021,26
+MI,Michigan,2022,25
+MN,Minnesota,2014,1
+MN,Minnesota,2015,5
+MN,Minnesota,2016,5
+MN,Minnesota,2017,4
+MN,Minnesota,2018,3
+MN,Minnesota,2019,2
+MN,Minnesota,2020,6
+MN,Minnesota,2021,11
+MN,Minnesota,2022,12
+MS,Mississippi,2014,5
+MS,Mississippi,2015,2
+MS,Mississippi,2016,6
+MS,Mississippi,2017,12
+MS,Mississippi,2018,3
+MS,Mississippi,2019,6
+MS,Mississippi,2020,17
+MS,Mississippi,2021,13
+MS,Mississippi,2022,14
+MO,Missouri,2014,8
+MO,Missouri,2015,13
+MO,Missouri,2016,10
+MO,Missouri,2017,10
+MO,Missouri,2018,14
+MO,Missouri,2019,18
+MO,Missouri,2020,22
+MO,Missouri,2021,16
+MO,Missouri,2022,14
+MT,Montana,2014,0
+MT,Montana,2015,1
+MT,Montana,2016,0
+MT,Montana,2017,1
+MT,Montana,2018,0
+MT,Montana,2019,2
+MT,Montana,2020,0
+MT,Montana,2021,0
+MT,Montana,2022,0
+NE,Nebraska,2014,0
+NE,Nebraska,2015,3
+NE,Nebraska,2016,0
+NE,Nebraska,2017,0
+NE,Nebraska,2018,3
+NE,Nebraska,2019,1
+NE,Nebraska,2020,2
+NE,Nebraska,2021,1
+NE,Nebraska,2022,5
+NV,Nevada,2014,4
+NV,Nevada,2015,1
+NV,Nevada,2016,3
+NV,Nevada,2017,2
+NV,Nevada,2018,4
+NV,Nevada,2019,3
+NV,Nevada,2020,4
+NV,Nevada,2021,5
+NV,Nevada,2022,5
+NH,New Hampshire,2014,0
+NH,New Hampshire,2015,0
+NH,New Hampshire,2016,0
+NH,New Hampshire,2017,0
+NH,New Hampshire,2018,0
+NH,New Hampshire,2019,0
+NH,New Hampshire,2020,0
+NH,New Hampshire,2021,1
+NH,New Hampshire,2022,0
+NJ,New Jersey,2014,6
+NJ,New Jersey,2015,9
+NJ,New Jersey,2016,9
+NJ,New Jersey,2017,13
+NJ,New Jersey,2018,10
+NJ,New Jersey,2019,11
+NJ,New Jersey,2020,12
+NJ,New Jersey,2021,14
+NJ,New Jersey,2022,9
+NM,New Mexico,2014,1
+NM,New Mexico,2015,2
+NM,New Mexico,2016,4
+NM,New Mexico,2017,2
+NM,New Mexico,2018,2
+NM,New Mexico,2019,4
+NM,New Mexico,2020,2
+NM,New Mexico,2021,1
+NM,New Mexico,2022,4
+NY,New York,2014,14
+NY,New York,2015,21
+NY,New York,2016,15
+NY,New York,2017,13
+NY,New York,2018,13
+NY,New York,2019,9
+NY,New York,2020,38
+NY,New York,2021,36
+NY,New York,2022,31
+NC,North Carolina,2014,3
+NC,North Carolina,2015,12
+NC,North Carolina,2016,9
+NC,North Carolina,2017,7
+NC,North Carolina,2018,10
+NC,North Carolina,2019,11
+NC,North Carolina,2020,20
+NC,North Carolina,2021,22
+NC,North Carolina,2022,21
+OH,Ohio,2014,7
+OH,Ohio,2015,13
+OH,Ohio,2016,11
+OH,Ohio,2017,21
+OH,Ohio,2018,10
+OH,Ohio,2019,14
+OH,Ohio,2020,25
+OH,Ohio,2021,32
+OH,Ohio,2022,19
+OK,Oklahoma,2014,2
+OK,Oklahoma,2015,5
+OK,Oklahoma,2016,1
+OK,Oklahoma,2017,1
+OK,Oklahoma,2018,5
+OK,Oklahoma,2019,4
+OK,Oklahoma,2020,2
+OK,Oklahoma,2021,2
+OK,Oklahoma,2022,8
+OR,Oregon,2014,2
+OR,Oregon,2015,2
+OR,Oregon,2016,2
+OR,Oregon,2017,0
+OR,Oregon,2018,0
+OR,Oregon,2019,1
+OR,Oregon,2020,2
+OR,Oregon,2021,7
+OR,Oregon,2022,6
+PA,Pennsylvania,2014,10
+PA,Pennsylvania,2015,14
+PA,Pennsylvania,2016,10
+PA,Pennsylvania,2017,16
+PA,Pennsylvania,2018,19
+PA,Pennsylvania,2019,19
+PA,Pennsylvania,2020,34
+PA,Pennsylvania,2021,35
+PA,Pennsylvania,2022,34
+RI,Rhode Island,2014,1
+RI,Rhode Island,2015,1
+RI,Rhode Island,2016,0
+RI,Rhode Island,2017,0
+RI,Rhode Island,2018,0
+RI,Rhode Island,2019,0
+RI,Rhode Island,2020,0
+RI,Rhode Island,2021,2
+RI,Rhode Island,2022,0
+SC,South Carolina,2014,7
+SC,South Carolina,2015,11
+SC,South Carolina,2016,5
+SC,South Carolina,2017,7
+SC,South Carolina,2018,4
+SC,South Carolina,2019,10
+SC,South Carolina,2020,22
+SC,South Carolina,2021,17
+SC,South Carolina,2022,20
+SD,South Dakota,2014,1
+SD,South Dakota,2015,1
+SD,South Dakota,2016,0
+SD,South Dakota,2017,0
+SD,South Dakota,2018,0
+SD,South Dakota,2019,0
+SD,South Dakota,2020,1
+SD,South Dakota,2021,1
+SD,South Dakota,2022,0
+TN,Tennessee,2014,13
+TN,Tennessee,2015,11
+TN,Tennessee,2016,12
+TN,Tennessee,2017,14
+TN,Tennessee,2018,18
+TN,Tennessee,2019,7
+TN,Tennessee,2020,19
+TN,Tennessee,2021,15
+TN,Tennessee,2022,16
+TX,Texas,2014,17
+TX,Texas,2015,17
+TX,Texas,2016,31
+TX,Texas,2017,21
+TX,Texas,2018,15
+TX,Texas,2019,29
+TX,Texas,2020,34
+TX,Texas,2021,57
+TX,Texas,2022,50
+UT,Utah,2014,2
+UT,Utah,2015,0
+UT,Utah,2016,0
+UT,Utah,2017,1
+UT,Utah,2018,1
+UT,Utah,2019,0
+UT,Utah,2020,1
+UT,Utah,2021,1
+UT,Utah,2022,0
+VT,Vermont,2014,0
+VT,Vermont,2015,1
+VT,Vermont,2016,0
+VT,Vermont,2017,0
+VT,Vermont,2018,0
+VT,Vermont,2019,0
+VT,Vermont,2020,0
+VT,Vermont,2021,0
+VT,Vermont,2022,0
+VA,Virginia,2014,8
+VA,Virginia,2015,5
+VA,Virginia,2016,11
+VA,Virginia,2017,12
+VA,Virginia,2018,4
+VA,Virginia,2019,10
+VA,Virginia,2020,11
+VA,Virginia,2021,16
+VA,Virginia,2022,20
+WA,Washington,2014,3
+WA,Washington,2015,1
+WA,Washington,2016,8
+WA,Washington,2017,3
+WA,Washington,2018,3
+WA,Washington,2019,4
+WA,Washington,2020,5
+WA,Washington,2021,8
+WA,Washington,2022,11
+WV,West Virginia,2014,0
+WV,West Virginia,2015,0
+WV,West Virginia,2016,1
+WV,West Virginia,2017,0
+WV,West Virginia,2018,0
+WV,West Virginia,2019,0
+WV,West Virginia,2020,3
+WV,West Virginia,2021,1
+WV,West Virginia,2022,0
+WI,Wisconsin,2014,2
+WI,Wisconsin,2015,3
+WI,Wisconsin,2016,2
+WI,Wisconsin,2017,2
+WI,Wisconsin,2018,4
+WI,Wisconsin,2019,3
+WI,Wisconsin,2020,10
+WI,Wisconsin,2021,11
+WI,Wisconsin,2022,16
+WY,Wyoming,2014,0
+WY,Wyoming,2015,0
+WY,Wyoming,2016,0
+WY,Wyoming,2017,0
+WY,Wyoming,2018,0
+WY,Wyoming,2019,1
+WY,Wyoming,2020,0
+WY,Wyoming,2021,0
+WY,Wyoming,2022,0

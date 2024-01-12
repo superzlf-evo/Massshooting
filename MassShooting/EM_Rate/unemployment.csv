@@ -1,0 +1,6202 @@
+State and area,Year,Month,Total,Rate
+Alabama,2014,1,155029 ,7.2
+Alabama,2014,2,154223 ,7.1
+Alabama,2014,3,153166 ,7.1
+Alabama,2014,4,151835 ,7
+Alabama,2014,5,150017 ,6.9
+Alabama,2014,6,147853 ,6.8
+Alabama,2014,7,145597 ,6.7
+Alabama,2014,8,143429 ,6.6
+Alabama,2014,9,141250 ,6.5
+Alabama,2014,10,138693 ,6.4
+Alabama,2014,11,135813 ,6.3
+Alabama,2014,12,133393 ,6.2
+Alabama,2015,1,131985 ,6.1
+Alabama,2015,2,131673 ,6.1
+Alabama,2015,3,132024 ,6.1
+Alabama,2015,4,132614 ,6.1
+Alabama,2015,5,133049 ,6.1
+Alabama,2015,6,132988 ,6.2
+Alabama,2015,7,132483 ,6.2
+Alabama,2015,8,131805 ,6.2
+Alabama,2015,9,131083 ,6.1
+Alabama,2015,10,130565 ,6.1
+Alabama,2015,11,130370 ,6.1
+Alabama,2015,12,130175 ,6.1
+Alabama,2016,1,129747 ,6.1
+Alabama,2016,2,129076 ,6
+Alabama,2016,3,128044 ,6
+Alabama,2016,4,126915 ,5.9
+Alabama,2016,5,126223 ,5.9
+Alabama,2016,6,126105 ,5.9
+Alabama,2016,7,126331 ,5.9
+Alabama,2016,8,126719 ,5.9
+Alabama,2016,9,127128 ,5.9
+Alabama,2016,10,126983 ,5.9
+Alabama,2016,11,125661 ,5.8
+Alabama,2016,12,122937 ,5.7
+Alabama,2017,1,120103 ,5.5
+Alabama,2017,2,115408 ,5.2
+Alabama,2017,3,110588 ,5
+Alabama,2017,4,105981 ,4.8
+Alabama,2017,5,101609 ,4.6
+Alabama,2017,6,97770 ,4.4
+Alabama,2017,7,94743 ,4.3
+Alabama,2017,8,92374 ,4.2
+Alabama,2017,9,90569 ,4.1
+Alabama,2017,10,89320 ,4
+Alabama,2017,11,88709 ,4
+Alabama,2017,12,88497 ,4
+Alabama,2018,1,88075 ,4
+Alabama,2018,2,88440 ,4
+Alabama,2018,3,88903 ,4
+Alabama,2018,4,89251 ,4
+Alabama,2018,5,89436 ,4
+Alabama,2018,6,89286 ,4
+Alabama,2018,7,88697 ,4
+Alabama,2018,8,87982 ,3.9
+Alabama,2018,9,87344 ,3.9
+Alabama,2018,10,86770 ,3.9
+Alabama,2018,11,86179 ,3.8
+Alabama,2018,12,85331 ,3.8
+Alabama,2019,1,83814 ,3.7
+Alabama,2019,2,81294 ,3.6
+Alabama,2019,3,78061 ,3.4
+Alabama,2019,4,74592 ,3.3
+Alabama,2019,5,71409 ,3.1
+Alabama,2019,6,68994 ,3
+Alabama,2019,7,67665 ,3
+Alabama,2019,8,67316 ,3
+Alabama,2019,9,67468 ,3
+Alabama,2019,10,68160 ,3
+Alabama,2019,11,69260 ,3
+Alabama,2019,12,70683 ,3.1
+Alabama,2020,1,72359 ,3.2
+Alabama,2020,2,74179 ,3.3
+Alabama,2020,3,75627 ,3.4
+Alabama,2020,4,302879 ,13.8
+Alabama,2020,5,236201 ,10.4
+Alabama,2020,6,195239 ,8.6
+Alabama,2020,7,171646 ,7.5
+Alabama,2020,8,144864 ,6.3
+Alabama,2020,9,135325 ,5.9
+Alabama,2020,10,120015 ,5.3
+Alabama,2020,11,110565 ,4.9
+Alabama,2020,12,102843 ,4.5
+Alabama,2021,1,93933 ,4.2
+Alabama,2021,2,88279 ,3.9
+Alabama,2021,3,84349 ,3.7
+Alabama,2021,4,82277 ,3.6
+Alabama,2021,5,79789 ,3.5
+Alabama,2021,6,78099 ,3.5
+Alabama,2021,7,75298 ,3.3
+Alabama,2021,8,72222 ,3.2
+Alabama,2021,9,68968 ,3.1
+Alabama,2021,10,66369 ,2.9
+Alabama,2021,11,63786 ,2.8
+Alabama,2021,12,61832 ,2.7
+Alabama,2022,1,60270 ,2.6
+Alabama,2022,2,58943 ,2.6
+Alabama,2022,3,58074 ,2.5
+Alabama,2022,4,57712 ,2.5
+Alabama,2022,5,57866 ,2.5
+Alabama,2022,6,58505 ,2.6
+Alabama,2022,7,59409 ,2.6
+Alabama,2022,8,60200 ,2.6
+Alabama,2022,9,60488 ,2.6
+Alabama,2022,10,60443 ,2.6
+Alabama,2022,11,60169 ,2.6
+Alabama,2022,12,59986 ,2.6
+Alabama,2023,1,58392 ,2.6
+Alabama,2023,2,56166 ,2.5
+Alabama,2023,3,53017 ,2.3
+Alabama,2023,4,51448 ,2.2
+Alabama,2023,5,51419 ,2.2
+Alabama,2023,6,50377 ,2.2
+Alabama,2023,7,48789 ,2.1
+Alabama,2023,8,48590 ,2.1
+Alabama,2023,9,50179 ,2.2
+Alaska,2014,1,25231 ,6.9
+Alaska,2014,2,25176 ,6.9
+Alaska,2014,3,25138 ,6.9
+Alaska,2014,4,25153 ,6.9
+Alaska,2014,5,25156 ,6.9
+Alaska,2014,6,25084 ,6.9
+Alaska,2014,7,24924 ,6.8
+Alaska,2014,8,24668 ,6.8
+Alaska,2014,9,24290 ,6.7
+Alaska,2014,10,23794 ,6.5
+Alaska,2014,11,23268 ,6.4
+Alaska,2014,12,22868 ,6.3
+Alaska,2015,1,22688 ,6.2
+Alaska,2015,2,22719 ,6.3
+Alaska,2015,3,22831 ,6.3
+Alaska,2015,4,22879 ,6.3
+Alaska,2015,5,22821 ,6.3
+Alaska,2015,6,22690 ,6.3
+Alaska,2015,7,22576 ,6.2
+Alaska,2015,8,22544 ,6.2
+Alaska,2015,9,22586 ,6.2
+Alaska,2015,10,22697 ,6.3
+Alaska,2015,11,22877 ,6.3
+Alaska,2015,12,23088 ,6.4
+Alaska,2016,1,23272 ,6.4
+Alaska,2016,2,23424 ,6.5
+Alaska,2016,3,23542 ,6.5
+Alaska,2016,4,23662 ,6.5
+Alaska,2016,5,23805 ,6.6
+Alaska,2016,6,23939 ,6.6
+Alaska,2016,7,24029 ,6.6
+Alaska,2016,8,24091 ,6.7
+Alaska,2016,9,24175 ,6.7
+Alaska,2016,10,24242 ,6.7
+Alaska,2016,11,24231 ,6.7
+Alaska,2016,12,24131 ,6.7
+Alaska,2017,1,23906 ,6.6
+Alaska,2017,2,23710 ,6.6
+Alaska,2017,3,23560 ,6.5
+Alaska,2017,4,23491 ,6.5
+Alaska,2017,5,23470 ,6.5
+Alaska,2017,6,23481 ,6.5
+Alaska,2017,7,23513 ,6.5
+Alaska,2017,8,23516 ,6.5
+Alaska,2017,9,23468 ,6.5
+Alaska,2017,10,23350 ,6.5
+Alaska,2017,11,23172 ,6.5
+Alaska,2017,12,22910 ,6.4
+Alaska,2018,1,22836 ,6.4
+Alaska,2018,2,22475 ,6.3
+Alaska,2018,3,22075 ,6.2
+Alaska,2018,4,21669 ,6.1
+Alaska,2018,5,21332 ,6
+Alaska,2018,6,21092 ,5.9
+Alaska,2018,7,20923 ,5.9
+Alaska,2018,8,20853 ,5.9
+Alaska,2018,9,20907 ,5.9
+Alaska,2018,10,21055 ,5.9
+Alaska,2018,11,21201 ,6
+Alaska,2018,12,21213 ,6
+Alaska,2019,1,21029 ,6
+Alaska,2019,2,20657 ,5.9
+Alaska,2019,3,20234 ,5.7
+Alaska,2019,4,19898 ,5.6
+Alaska,2019,5,19722 ,5.6
+Alaska,2019,6,19702 ,5.6
+Alaska,2019,7,19766 ,5.6
+Alaska,2019,8,19771 ,5.6
+Alaska,2019,9,19531 ,5.5
+Alaska,2019,10,19156 ,5.4
+Alaska,2019,11,18851 ,5.3
+Alaska,2019,12,18771 ,5.3
+Alaska,2020,1,18930 ,5.4
+Alaska,2020,2,19194 ,5.4
+Alaska,2020,3,19306 ,5.5
+Alaska,2020,4,39903 ,11.8
+Alaska,2020,5,41323 ,11.9
+Alaska,2020,6,39690 ,11.4
+Alaska,2020,7,39824 ,11.3
+Alaska,2020,8,26036 ,7.6
+Alaska,2020,9,26113 ,7.6
+Alaska,2020,10,25208 ,7.3
+Alaska,2020,11,25028 ,7.2
+Alaska,2020,12,25318 ,7.3
+Alaska,2021,1,24765 ,7.1
+Alaska,2021,2,24661 ,7.1
+Alaska,2021,3,24722 ,7
+Alaska,2021,4,24780 ,7
+Alaska,2021,5,24045 ,6.8
+Alaska,2021,6,24060 ,6.8
+Alaska,2021,7,22903 ,6.5
+Alaska,2021,8,22175 ,6.3
+Alaska,2021,9,21003 ,5.9
+Alaska,2021,10,20462 ,5.8
+Alaska,2021,11,19605 ,5.5
+Alaska,2021,12,19124 ,5.4
+Alaska,2022,1,18290 ,5.1
+Alaska,2022,2,16732 ,4.7
+Alaska,2022,3,15367 ,4.3
+Alaska,2022,4,14547 ,4.1
+Alaska,2022,5,14039 ,3.9
+Alaska,2022,6,13769 ,3.9
+Alaska,2022,7,13425 ,3.8
+Alaska,2022,8,12932 ,3.6
+Alaska,2022,9,13327 ,3.7
+Alaska,2022,10,13451 ,3.8
+Alaska,2022,11,13344 ,3.7
+Alaska,2022,12,13249 ,3.7
+Alaska,2023,1,13443 ,3.8
+Alaska,2023,2,13576 ,3.8
+Alaska,2023,3,13244 ,3.7
+Alaska,2023,4,13076 ,3.7
+Alaska,2023,5,12931 ,3.6
+Alaska,2023,6,13089 ,3.7
+Alaska,2023,7,13433 ,3.8
+Alaska,2023,8,14081 ,3.9
+Alaska,2023,9,14806 ,4.1
+Arizona,2014,1,223010 ,7.2
+Arizona,2014,2,219927 ,7.1
+Arizona,2014,3,217335 ,7
+Arizona,2014,4,215233 ,6.9
+Arizona,2014,5,213351 ,6.9
+Arizona,2014,6,211695 ,6.8
+Arizona,2014,7,210421 ,6.7
+Arizona,2014,8,209636 ,6.7
+Arizona,2014,9,209117 ,6.7
+Arizona,2014,10,207979 ,6.6
+Arizona,2014,11,205975 ,6.5
+Arizona,2014,12,203675 ,6.4
+Arizona,2015,1,201312 ,6.4
+Arizona,2015,2,199308 ,6.3
+Arizona,2015,3,197683 ,6.2
+Arizona,2015,4,196399 ,6.2
+Arizona,2015,5,195429 ,6.1
+Arizona,2015,6,194620 ,6.1
+Arizona,2015,7,193875 ,6.1
+Arizona,2015,8,192937 ,6
+Arizona,2015,9,191415 ,6
+Arizona,2015,10,189396 ,5.9
+Arizona,2015,11,187313 ,5.8
+Arizona,2015,12,185261 ,5.8
+Arizona,2016,1,183398 ,5.7
+Arizona,2016,2,181935 ,5.6
+Arizona,2016,3,180739 ,5.6
+Arizona,2016,4,179836 ,5.6
+Arizona,2016,5,179269 ,5.5
+Arizona,2016,6,178813 ,5.5
+Arizona,2016,7,178110 ,5.5
+Arizona,2016,8,177217 ,5.4
+Arizona,2016,9,176498 ,5.4
+Arizona,2016,10,175848 ,5.4
+Arizona,2016,11,174890 ,5.3
+Arizona,2016,12,173594 ,5.3
+Arizona,2017,1,167446 ,5.2
+Arizona,2017,2,165647 ,5.2
+Arizona,2017,3,163838 ,5.1
+Arizona,2017,4,162116 ,5
+Arizona,2017,5,160339 ,5
+Arizona,2017,6,158787 ,4.9
+Arizona,2017,7,157870 ,4.9
+Arizona,2017,8,157569 ,4.8
+Arizona,2017,9,157784 ,4.9
+Arizona,2017,10,158229 ,4.9
+Arizona,2017,11,158712 ,4.9
+Arizona,2017,12,158690 ,4.9
+Arizona,2018,1,159220 ,4.9
+Arizona,2018,2,158351 ,4.8
+Arizona,2018,3,156976 ,4.8
+Arizona,2018,4,155454 ,4.7
+Arizona,2018,5,154544 ,4.7
+Arizona,2018,6,154634 ,4.7
+Arizona,2018,7,155804 ,4.7
+Arizona,2018,8,158324 ,4.7
+Arizona,2018,9,161899 ,4.8
+Arizona,2018,10,165663 ,4.9
+Arizona,2018,11,168668 ,5
+Arizona,2018,12,170285 ,5
+Arizona,2019,1,170397 ,5
+Arizona,2019,2,169073 ,5
+Arizona,2019,3,167148 ,4.9
+Arizona,2019,4,165170 ,4.8
+Arizona,2019,5,163654 ,4.8
+Arizona,2019,6,163095 ,4.8
+Arizona,2019,7,163456 ,4.8
+Arizona,2019,8,164044 ,4.8
+Arizona,2019,9,163834 ,4.7
+Arizona,2019,10,163551 ,4.7
+Arizona,2019,11,163824 ,4.7
+Arizona,2019,12,164756 ,4.7
+Arizona,2020,1,166063 ,4.8
+Arizona,2020,2,168057 ,4.8
+Arizona,2020,3,170629 ,4.9
+Arizona,2020,4,468096 ,13.8
+Arizona,2020,5,384157 ,11.2
+Arizona,2020,6,335659 ,9.7
+Arizona,2020,7,309938 ,8.9
+Arizona,2020,8,276498 ,8
+Arizona,2020,9,264193 ,7.6
+Arizona,2020,10,246319 ,7
+Arizona,2020,11,237060 ,6.8
+Arizona,2020,12,231503 ,6.6
+Arizona,2021,1,223663 ,6.4
+Arizona,2021,2,218253 ,6.2
+Arizona,2021,3,211055 ,6
+Arizona,2021,4,203765 ,5.8
+Arizona,2021,5,194398 ,5.5
+Arizona,2021,6,185648 ,5.2
+Arizona,2021,7,175273 ,5
+Arizona,2021,8,164478 ,4.7
+Arizona,2021,9,153890 ,4.4
+Arizona,2021,10,145142 ,4.1
+Arizona,2021,11,138106 ,3.9
+Arizona,2021,12,132970 ,3.7
+Arizona,2022,1,130015 ,3.6
+Arizona,2022,2,128291 ,3.6
+Arizona,2022,3,128099 ,3.6
+Arizona,2022,4,129360 ,3.6
+Arizona,2022,5,131973 ,3.7
+Arizona,2022,6,135976 ,3.8
+Arizona,2022,7,140677 ,3.9
+Arizona,2022,8,144807 ,4
+Arizona,2022,9,147163 ,4
+Arizona,2022,10,147760 ,4.1
+Arizona,2022,11,146723 ,4
+Arizona,2022,12,145861 ,4
+Arizona,2023,1,140410 ,3.8
+Arizona,2023,2,134816 ,3.7
+Arizona,2023,3,129439 ,3.5
+Arizona,2023,4,125705 ,3.4
+Arizona,2023,5,125407 ,3.4
+Arizona,2023,6,128139 ,3.5
+Arizona,2023,7,134610 ,3.6
+Arizona,2023,8,141617 ,3.8
+Arizona,2023,9,147804 ,4
+Arkansas,2014,1,85449 ,6.5
+Arkansas,2014,2,83382 ,6.3
+Arkansas,2014,3,81539 ,6.2
+Arkansas,2014,4,80083 ,6
+Arkansas,2014,5,78890 ,6
+Arkansas,2014,6,77864 ,5.9
+Arkansas,2014,7,76982 ,5.8
+Arkansas,2014,8,76296 ,5.7
+Arkansas,2014,9,75726 ,5.7
+Arkansas,2014,10,75026 ,5.6
+Arkansas,2014,11,74203 ,5.6
+Arkansas,2014,12,73525 ,5.5
+Arkansas,2015,1,73083 ,5.5
+Arkansas,2015,2,72785 ,5.4
+Arkansas,2015,3,72283 ,5.4
+Arkansas,2015,4,71310 ,5.3
+Arkansas,2015,5,69846 ,5.2
+Arkansas,2015,6,67999 ,5.1
+Arkansas,2015,7,65985 ,4.9
+Arkansas,2015,8,63983 ,4.8
+Arkansas,2015,9,62078 ,4.6
+Arkansas,2015,10,60403 ,4.5
+Arkansas,2015,11,58954 ,4.4
+Arkansas,2015,12,57606 ,4.3
+Arkansas,2016,1,56352 ,4.2
+Arkansas,2016,2,55291 ,4.1
+Arkansas,2016,3,54445 ,4
+Arkansas,2016,4,53912 ,4
+Arkansas,2016,5,53678 ,4
+Arkansas,2016,6,53578 ,4
+Arkansas,2016,7,53448 ,4
+Arkansas,2016,8,53234 ,4
+Arkansas,2016,9,53000 ,3.9
+Arkansas,2016,10,52660 ,3.9
+Arkansas,2016,11,52152 ,3.9
+Arkansas,2016,12,51526 ,3.8
+Arkansas,2017,1,50637 ,3.8
+Arkansas,2017,2,50016 ,3.7
+Arkansas,2017,3,49600 ,3.7
+Arkansas,2017,4,49438 ,3.7
+Arkansas,2017,5,49472 ,3.7
+Arkansas,2017,6,49712 ,3.7
+Arkansas,2017,7,50109 ,3.7
+Arkansas,2017,8,50518 ,3.7
+Arkansas,2017,9,50818 ,3.8
+Arkansas,2017,10,50956 ,3.8
+Arkansas,2017,11,51019 ,3.8
+Arkansas,2017,12,50948 ,3.8
+Arkansas,2018,1,51014 ,3.8
+Arkansas,2018,2,50729 ,3.8
+Arkansas,2018,3,50183 ,3.7
+Arkansas,2018,4,49350 ,3.7
+Arkansas,2018,5,48463 ,3.6
+Arkansas,2018,6,47748 ,3.6
+Arkansas,2018,7,47366 ,3.5
+Arkansas,2018,8,47510 ,3.5
+Arkansas,2018,9,48214 ,3.6
+Arkansas,2018,10,49178 ,3.7
+Arkansas,2018,11,49938 ,3.7
+Arkansas,2018,12,50149 ,3.7
+Arkansas,2019,1,49673 ,3.7
+Arkansas,2019,2,48611 ,3.6
+Arkansas,2019,3,47386 ,3.5
+Arkansas,2019,4,46344 ,3.4
+Arkansas,2019,5,45752 ,3.4
+Arkansas,2019,6,45766 ,3.4
+Arkansas,2019,7,46353 ,3.4
+Arkansas,2019,8,47181 ,3.5
+Arkansas,2019,9,47704 ,3.5
+Arkansas,2019,10,47903 ,3.5
+Arkansas,2019,11,47905 ,3.5
+Arkansas,2019,12,47841 ,3.5
+Arkansas,2020,1,47831 ,3.5
+Arkansas,2020,2,48068 ,3.6
+Arkansas,2020,3,67110 ,4.9
+Arkansas,2020,4,137037 ,10.1
+Arkansas,2020,5,119618 ,8.9
+Arkansas,2020,6,105896 ,7.9
+Arkansas,2020,7,98244 ,7.3
+Arkansas,2020,8,85765 ,6.4
+Arkansas,2020,9,80474 ,6
+Arkansas,2020,10,73157 ,5.5
+Arkansas,2020,11,69792 ,5.2
+Arkansas,2020,12,67769 ,5.1
+Arkansas,2021,1,65309 ,4.9
+Arkansas,2021,2,63832 ,4.8
+Arkansas,2021,3,62154 ,4.7
+Arkansas,2021,4,60286 ,4.5
+Arkansas,2021,5,57868 ,4.3
+Arkansas,2021,6,55906 ,4.2
+Arkansas,2021,7,53035 ,4
+Arkansas,2021,8,50567 ,3.8
+Arkansas,2021,9,48175 ,3.6
+Arkansas,2021,10,46500 ,3.5
+Arkansas,2021,11,45088 ,3.3
+Arkansas,2021,12,44158 ,3.3
+Arkansas,2022,1,43801 ,3.2
+Arkansas,2022,2,43366 ,3.2
+Arkansas,2022,3,43062 ,3.1
+Arkansas,2022,4,43104 ,3.1
+Arkansas,2022,5,43523 ,3.2
+Arkansas,2022,6,44377 ,3.2
+Arkansas,2022,7,45564 ,3.3
+Arkansas,2022,8,46810 ,3.4
+Arkansas,2022,9,47598 ,3.5
+Arkansas,2022,10,47962 ,3.5
+Arkansas,2022,11,47676 ,3.5
+Arkansas,2022,12,47352 ,3.4
+Arkansas,2023,1,46604 ,3.4
+Arkansas,2023,2,43670 ,3.2
+Arkansas,2023,3,40868 ,3
+Arkansas,2023,4,39021 ,2.8
+Arkansas,2023,5,37133 ,2.7
+Arkansas,2023,6,35880 ,2.6
+Arkansas,2023,7,35624 ,2.6
+Arkansas,2023,8,37339 ,2.7
+Arkansas,2023,9,39900 ,2.9
+California,2014,1,1529097 ,8.2
+California,2014,2,1504882 ,8.1
+California,2014,3,1481678 ,8
+California,2014,4,1460302 ,7.8
+California,2014,5,1438754 ,7.7
+California,2014,6,1417330 ,7.6
+California,2014,7,1397599 ,7.5
+California,2014,8,1380808 ,7.4
+California,2014,9,1365439 ,7.3
+California,2014,10,1346860 ,7.2
+California,2014,11,1323788 ,7.1
+California,2014,12,1300776 ,6.9
+California,2015,1,1280942 ,6.8
+California,2015,2,1265047 ,6.7
+California,2015,3,1249688 ,6.6
+California,2015,4,1231739 ,6.5
+California,2015,5,1209970 ,6.4
+California,2015,6,1184713 ,6.3
+California,2015,7,1158791 ,6.2
+California,2015,8,1135396 ,6
+California,2015,9,1115327 ,5.9
+California,2015,10,1099919 ,5.8
+California,2015,11,1089888 ,5.8
+California,2015,12,1082097 ,5.7
+California,2016,1,1074186 ,5.7
+California,2016,2,1066317 ,5.6
+California,2016,3,1058236 ,5.6
+California,2016,4,1051594 ,5.5
+California,2016,5,1048270 ,5.5
+California,2016,6,1047392 ,5.5
+California,2016,7,1047018 ,5.5
+California,2016,8,1046432 ,5.5
+California,2016,9,1046026 ,5.5
+California,2016,10,1043344 ,5.5
+California,2016,11,1035290 ,5.4
+California,2016,12,1021682 ,5.4
+California,2017,1,1002904 ,5.2
+California,2017,2,983594 ,5.1
+California,2017,3,966105 ,5
+California,2017,4,952330 ,5
+California,2017,5,941208 ,4.9
+California,2017,6,932076 ,4.9
+California,2017,7,924084 ,4.8
+California,2017,8,914397 ,4.8
+California,2017,9,902106 ,4.7
+California,2017,10,887471 ,4.6
+California,2017,11,872287 ,4.5
+California,2017,12,857119 ,4.5
+California,2018,1,844210 ,4.4
+California,2018,2,834737 ,4.3
+California,2018,3,826268 ,4.3
+California,2018,4,817547 ,4.2
+California,2018,5,809966 ,4.2
+California,2018,6,804603 ,4.2
+California,2018,7,801807 ,4.2
+California,2018,8,804087 ,4.2
+California,2018,9,812030 ,4.2
+California,2018,10,823522 ,4.3
+California,2018,11,835034 ,4.3
+California,2018,12,841563 ,4.3
+California,2019,1,839508 ,4.3
+California,2019,2,827951 ,4.3
+California,2019,3,811043 ,4.2
+California,2019,4,792788 ,4.1
+California,2019,5,777531 ,4
+California,2019,6,769152 ,4
+California,2019,7,768941 ,4
+California,2019,8,774078 ,4
+California,2019,9,778843 ,4
+California,2019,10,785793 ,4
+California,2019,11,797181 ,4.1
+California,2019,12,814359 ,4.2
+California,2020,1,836213 ,4.3
+California,2020,2,860763 ,4.4
+California,2020,3,1064166 ,5.5
+California,2020,4,3018611 ,16.1
+California,2020,5,2922491 ,15.7
+California,2020,6,2626144 ,13.8
+California,2020,7,2513656 ,13.2
+California,2020,8,2252905 ,11.9
+California,2020,9,1866909 ,10
+California,2020,10,1738494 ,9.3
+California,2020,11,1695472 ,9.1
+California,2020,12,1695633 ,9.1
+California,2021,1,1634650 ,8.7
+California,2021,2,1604604 ,8.5
+California,2021,3,1582228 ,8.4
+California,2021,4,1560629 ,8.2
+California,2021,5,1495656 ,7.9
+California,2021,6,1482661 ,7.8
+California,2021,7,1401690 ,7.4
+California,2021,8,1340235 ,7
+California,2021,9,1244003 ,6.5
+California,2021,10,1178048 ,6.2
+California,2021,11,1097196 ,5.8
+California,2021,12,1047919 ,5.5
+California,2022,1,994165 ,5.2
+California,2022,2,909437 ,4.7
+California,2022,3,837088 ,4.4
+California,2022,4,791466 ,4.1
+California,2022,5,760435 ,4
+California,2022,6,743821 ,3.9
+California,2022,7,732210 ,3.8
+California,2022,8,723589 ,3.8
+California,2022,9,769532 ,4
+California,2022,10,798481 ,4.1
+California,2022,11,797702 ,4.1
+California,2022,12,790262 ,4.1
+California,2023,1,813818 ,4.2
+California,2023,2,841703 ,4.4
+California,2023,3,860202 ,4.4
+California,2023,4,868102 ,4.5
+California,2023,5,883375 ,4.5
+California,2023,6,889335 ,4.6
+California,2023,7,884871 ,4.6
+California,2023,8,895044 ,4.6
+California,2023,9,913628 ,4.7
+Colorado,2014,1,165614 ,6
+Colorado,2014,2,161872 ,5.8
+Colorado,2014,3,157441 ,5.6
+Colorado,2014,4,152260 ,5.4
+Colorado,2014,5,146211 ,5.2
+Colorado,2014,6,139731 ,5
+Colorado,2014,7,133711 ,4.8
+Colorado,2014,8,128935 ,4.6
+Colorado,2014,9,125349 ,4.5
+Colorado,2014,10,122535 ,4.4
+Colorado,2014,11,120023 ,4.3
+Colorado,2014,12,117857 ,4.2
+Colorado,2015,1,116435 ,4.1
+Colorado,2015,2,115506 ,4.1
+Colorado,2015,3,114337 ,4.1
+Colorado,2015,4,112510 ,4
+Colorado,2015,5,109954 ,3.9
+Colorado,2015,6,106790 ,3.8
+Colorado,2015,7,103480 ,3.7
+Colorado,2015,8,100491 ,3.6
+Colorado,2015,9,98064 ,3.5
+Colorado,2015,10,96382 ,3.4
+Colorado,2015,11,95463 ,3.4
+Colorado,2015,12,95069 ,3.3
+Colorado,2016,1,94864 ,3.3
+Colorado,2016,2,94786 ,3.3
+Colorado,2016,3,94744 ,3.3
+Colorado,2016,4,94672 ,3.3
+Colorado,2016,5,94485 ,3.3
+Colorado,2016,6,93893 ,3.2
+Colorado,2016,7,92546 ,3.2
+Colorado,2016,8,90617 ,3.1
+Colorado,2016,9,88574 ,3
+Colorado,2016,10,86273 ,3
+Colorado,2016,11,83387 ,2.9
+Colorado,2016,12,80061 ,2.7
+Colorado,2017,1,75816 ,2.6
+Colorado,2017,2,72944 ,2.5
+Colorado,2017,3,71179 ,2.4
+Colorado,2017,4,70814 ,2.4
+Colorado,2017,5,71880 ,2.4
+Colorado,2017,6,74238 ,2.5
+Colorado,2017,7,77420 ,2.6
+Colorado,2017,8,80383 ,2.7
+Colorado,2017,9,82498 ,2.8
+Colorado,2017,10,83840 ,2.8
+Colorado,2017,11,84738 ,2.8
+Colorado,2017,12,85231 ,2.8
+Colorado,2018,1,87067 ,2.9
+Colorado,2018,2,87708 ,2.9
+Colorado,2018,3,88829 ,2.9
+Colorado,2018,4,90421 ,3
+Colorado,2018,5,92216 ,3
+Colorado,2018,6,93830 ,3.1
+Colorado,2018,7,95091 ,3.1
+Colorado,2018,8,96078 ,3.1
+Colorado,2018,9,96738 ,3.2
+Colorado,2018,10,96742 ,3.2
+Colorado,2018,11,95959 ,3.1
+Colorado,2018,12,94311 ,3.1
+Colorado,2019,1,91873 ,3
+Colorado,2019,2,88618 ,2.9
+Colorado,2019,3,84974 ,2.7
+Colorado,2019,4,81629 ,2.6
+Colorado,2019,5,79184 ,2.6
+Colorado,2019,6,78003 ,2.5
+Colorado,2019,7,78000 ,2.5
+Colorado,2019,8,78754 ,2.5
+Colorado,2019,9,79726 ,2.6
+Colorado,2019,10,81480 ,2.6
+Colorado,2019,11,84457 ,2.7
+Colorado,2019,12,88661 ,2.8
+Colorado,2020,1,93695 ,3
+Colorado,2020,2,99017 ,3.2
+Colorado,2020,3,103732 ,3.3
+Colorado,2020,4,335189 ,11.1
+Colorado,2020,5,360803 ,11.6
+Colorado,2020,6,348778 ,11.2
+Colorado,2020,7,193994 ,6.4
+Colorado,2020,8,187963 ,6.2
+Colorado,2020,9,194682 ,6.3
+Colorado,2020,10,191551 ,6.2
+Colorado,2020,11,193924 ,6.3
+Colorado,2020,12,198646 ,6.4
+Colorado,2021,1,195325 ,6.3
+Colorado,2021,2,195834 ,6.3
+Colorado,2021,3,192753 ,6.1
+Colorado,2021,4,192130 ,6.1
+Colorado,2021,5,184867 ,5.9
+Colorado,2021,6,184372 ,5.8
+Colorado,2021,7,177137 ,5.6
+Colorado,2021,8,169286 ,5.3
+Colorado,2021,9,154431 ,4.9
+Colorado,2021,10,147365 ,4.6
+Colorado,2021,11,140317 ,4.4
+Colorado,2021,12,134119 ,4.2
+Colorado,2022,1,127009 ,4
+Colorado,2022,2,115466 ,3.6
+Colorado,2022,3,104801 ,3.3
+Colorado,2022,4,98579 ,3.1
+Colorado,2022,5,94133 ,2.9
+Colorado,2022,6,90170 ,2.8
+Colorado,2022,7,86888 ,2.7
+Colorado,2022,8,83483 ,2.6
+Colorado,2022,9,88338 ,2.8
+Colorado,2022,10,90735 ,2.8
+Colorado,2022,11,90091 ,2.8
+Colorado,2022,12,89130 ,2.8
+Colorado,2023,1,90436 ,2.8
+Colorado,2023,2,92704 ,2.9
+Colorado,2023,3,91077 ,2.8
+Colorado,2023,4,89371 ,2.8
+Colorado,2023,5,90045 ,2.8
+Colorado,2023,6,91706 ,2.8
+Colorado,2023,7,95121 ,2.9
+Colorado,2023,8,99856 ,3.1
+Colorado,2023,9,103493 ,3.2
+Connecticut,2014,1,135383 ,7.2
+Connecticut,2014,2,132858 ,7.1
+Connecticut,2014,3,130587 ,6.9
+Connecticut,2014,4,128701 ,6.8
+Connecticut,2014,5,127014 ,6.7
+Connecticut,2014,6,125473 ,6.6
+Connecticut,2014,7,124098 ,6.6
+Connecticut,2014,8,122840 ,6.5
+Connecticut,2014,9,121516 ,6.4
+Connecticut,2014,10,119733 ,6.3
+Connecticut,2014,11,117468 ,6.2
+Connecticut,2014,12,115223 ,6.1
+Connecticut,2015,1,113331 ,6
+Connecticut,2015,2,111920 ,5.9
+Connecticut,2015,3,110709 ,5.8
+Connecticut,2015,4,109449 ,5.8
+Connecticut,2015,5,108040 ,5.7
+Connecticut,2015,6,106471 ,5.6
+Connecticut,2015,7,104969 ,5.6
+Connecticut,2015,8,103741 ,5.5
+Connecticut,2015,9,102680 ,5.4
+Connecticut,2015,10,101756 ,5.4
+Connecticut,2015,11,100981 ,5.4
+Connecticut,2015,12,100081 ,5.3
+Connecticut,2016,1,98894 ,5.2
+Connecticut,2016,2,97497 ,5.2
+Connecticut,2016,3,95952 ,5.1
+Connecticut,2016,4,94466 ,5
+Connecticut,2016,5,93189 ,4.9
+Connecticut,2016,6,92041 ,4.9
+Connecticut,2016,7,90867 ,4.8
+Connecticut,2016,8,89777 ,4.7
+Connecticut,2016,9,89049 ,4.7
+Connecticut,2016,10,88578 ,4.7
+Connecticut,2016,11,88136 ,4.6
+Connecticut,2016,12,87690 ,4.6
+Connecticut,2017,1,87868 ,4.6
+Connecticut,2017,2,87338 ,4.5
+Connecticut,2017,3,86788 ,4.5
+Connecticut,2017,4,86221 ,4.5
+Connecticut,2017,5,85598 ,4.4
+Connecticut,2017,6,85043 ,4.4
+Connecticut,2017,7,84642 ,4.4
+Connecticut,2017,8,84227 ,4.4
+Connecticut,2017,9,83726 ,4.4
+Connecticut,2017,10,83130 ,4.3
+Connecticut,2017,11,82468 ,4.3
+Connecticut,2017,12,81599 ,4.3
+Connecticut,2018,1,79987 ,4.2
+Connecticut,2018,2,78904 ,4.1
+Connecticut,2018,3,77726 ,4.1
+Connecticut,2018,4,76469 ,4
+Connecticut,2018,5,75282 ,3.9
+Connecticut,2018,6,74196 ,3.9
+Connecticut,2018,7,73203 ,3.8
+Connecticut,2018,8,72494 ,3.8
+Connecticut,2018,9,72138 ,3.7
+Connecticut,2018,10,72003 ,3.7
+Connecticut,2018,11,71858 ,3.7
+Connecticut,2018,12,71492 ,3.7
+Connecticut,2019,1,70825 ,3.7
+Connecticut,2019,2,69788 ,3.6
+Connecticut,2019,3,68651 ,3.6
+Connecticut,2019,4,67719 ,3.5
+Connecticut,2019,5,67272 ,3.5
+Connecticut,2019,6,67507 ,3.5
+Connecticut,2019,7,68420 ,3.5
+Connecticut,2019,8,69676 ,3.6
+Connecticut,2019,9,70664 ,3.6
+Connecticut,2019,10,71551 ,3.7
+Connecticut,2019,11,72462 ,3.7
+Connecticut,2019,12,73342 ,3.8
+Connecticut,2020,1,74078 ,3.8
+Connecticut,2020,2,74754 ,3.9
+Connecticut,2020,3,75185 ,3.9
+Connecticut,2020,4,150729 ,8.2
+Connecticut,2020,5,224106 ,11.7
+Connecticut,2020,6,217963 ,11.4
+Connecticut,2020,7,222156 ,11.6
+Connecticut,2020,8,178810 ,9.6
+Connecticut,2020,9,163657 ,8.8
+Connecticut,2020,10,144563 ,7.9
+Connecticut,2020,11,137016 ,7.5
+Connecticut,2020,12,133515 ,7.3
+Connecticut,2021,1,127838 ,7
+Connecticut,2021,2,125903 ,6.9
+Connecticut,2021,3,124382 ,6.9
+Connecticut,2021,4,124562 ,6.9
+Connecticut,2021,5,121361 ,6.7
+Connecticut,2021,6,122093 ,6.7
+Connecticut,2021,7,118233 ,6.4
+Connecticut,2021,8,114969 ,6.2
+Connecticut,2021,9,110161 ,5.8
+Connecticut,2021,10,106784 ,5.6
+Connecticut,2021,11,101868 ,5.3
+Connecticut,2021,12,98276 ,5.1
+Connecticut,2022,1,94630 ,4.8
+Connecticut,2022,2,89181 ,4.6
+Connecticut,2022,3,84470 ,4.3
+Connecticut,2022,4,81913 ,4.2
+Connecticut,2022,5,79812 ,4.1
+Connecticut,2022,6,77953 ,4
+Connecticut,2022,7,76206 ,4
+Connecticut,2022,8,74244 ,3.9
+Connecticut,2022,9,75930 ,4
+Connecticut,2022,10,76777 ,4
+Connecticut,2022,11,76557 ,4
+Connecticut,2022,12,76207 ,4
+Connecticut,2023,1,75444 ,3.9
+Connecticut,2023,2,75733 ,4
+Connecticut,2023,3,75264 ,3.9
+Connecticut,2023,4,72576 ,3.8
+Connecticut,2023,5,71085 ,3.7
+Connecticut,2023,6,70144 ,3.7
+Connecticut,2023,7,68948 ,3.6
+Connecticut,2023,8,67253 ,3.5
+Connecticut,2023,9,65553 ,3.5
+Delaware,2014,1,26883 ,6
+Delaware,2014,2,26670 ,6
+Delaware,2014,3,26459 ,5.9
+Delaware,2014,4,26258 ,5.8
+Delaware,2014,5,26023 ,5.8
+Delaware,2014,6,25741 ,5.7
+Delaware,2014,7,25401 ,5.6
+Delaware,2014,8,25021 ,5.5
+Delaware,2014,9,24606 ,5.4
+Delaware,2014,10,24119 ,5.3
+Delaware,2014,11,23589 ,5.2
+Delaware,2014,12,23138 ,5.1
+Delaware,2015,1,22838 ,5
+Delaware,2015,2,22694 ,4.9
+Delaware,2015,3,22621 ,4.9
+Delaware,2015,4,22530 ,4.9
+Delaware,2015,5,22395 ,4.9
+Delaware,2015,6,22225 ,4.8
+Delaware,2015,7,22067 ,4.8
+Delaware,2015,8,21945 ,4.7
+Delaware,2015,9,21824 ,4.7
+Delaware,2015,10,21697 ,4.7
+Delaware,2015,11,21562 ,4.6
+Delaware,2015,12,21374 ,4.6
+Delaware,2016,1,21142 ,4.5
+Delaware,2016,2,20933 ,4.5
+Delaware,2016,3,20778 ,4.4
+Delaware,2016,4,20711 ,4.4
+Delaware,2016,5,20759 ,4.4
+Delaware,2016,6,20896 ,4.5
+Delaware,2016,7,21077 ,4.5
+Delaware,2016,8,21284 ,4.5
+Delaware,2016,9,21537 ,4.6
+Delaware,2016,10,21793 ,4.6
+Delaware,2016,11,21974 ,4.7
+Delaware,2016,12,22043 ,4.7
+Delaware,2017,1,22023 ,4.7
+Delaware,2017,2,21937 ,4.6
+Delaware,2017,3,21816 ,4.6
+Delaware,2017,4,21689 ,4.6
+Delaware,2017,5,21532 ,4.5
+Delaware,2017,6,21368 ,4.5
+Delaware,2017,7,21231 ,4.5
+Delaware,2017,8,21091 ,4.4
+Delaware,2017,9,20921 ,4.4
+Delaware,2017,10,20709 ,4.3
+Delaware,2017,11,20472 ,4.3
+Delaware,2017,12,20177 ,4.2
+Delaware,2018,1,19619 ,4.1
+Delaware,2018,2,19240 ,4
+Delaware,2018,3,18844 ,3.9
+Delaware,2018,4,18447 ,3.8
+Delaware,2018,5,18078 ,3.8
+Delaware,2018,6,17721 ,3.7
+Delaware,2018,7,17372 ,3.6
+Delaware,2018,8,17101 ,3.6
+Delaware,2018,9,16956 ,3.5
+Delaware,2018,10,16931 ,3.5
+Delaware,2018,11,16992 ,3.5
+Delaware,2018,12,17086 ,3.5
+Delaware,2019,1,17150 ,3.5
+Delaware,2019,2,17131 ,3.5
+Delaware,2019,3,17085 ,3.5
+Delaware,2019,4,17066 ,3.5
+Delaware,2019,5,17130 ,3.5
+Delaware,2019,6,17317 ,3.6
+Delaware,2019,7,17598 ,3.6
+Delaware,2019,8,17865 ,3.7
+Delaware,2019,9,17970 ,3.7
+Delaware,2019,10,17918 ,3.7
+Delaware,2019,11,17761 ,3.7
+Delaware,2019,12,17601 ,3.6
+Delaware,2020,1,17510 ,3.6
+Delaware,2020,2,17552 ,3.7
+Delaware,2020,3,24463 ,5
+Delaware,2020,4,61508 ,13
+Delaware,2020,5,66488 ,13.4
+Delaware,2020,6,64164 ,12.8
+Delaware,2020,7,36119 ,7.5
+Delaware,2020,8,35828 ,7.4
+Delaware,2020,9,37348 ,7.6
+Delaware,2020,10,24988 ,5.2
+Delaware,2020,11,26013 ,5.3
+Delaware,2020,12,27240 ,5.6
+Delaware,2021,1,28028 ,5.7
+Delaware,2021,2,28752 ,5.8
+Delaware,2021,3,29252 ,5.9
+Delaware,2021,4,29365 ,5.9
+Delaware,2021,5,29041 ,5.9
+Delaware,2021,6,28706 ,5.8
+Delaware,2021,7,27813 ,5.6
+Delaware,2021,8,26936 ,5.5
+Delaware,2021,9,25791 ,5.2
+Delaware,2021,10,24982 ,5.1
+Delaware,2021,11,24192 ,4.9
+Delaware,2021,12,23486 ,4.7
+Delaware,2022,1,23069 ,4.6
+Delaware,2022,2,22347 ,4.5
+Delaware,2022,3,21853 ,4.4
+Delaware,2022,4,21545 ,4.3
+Delaware,2022,5,21496 ,4.3
+Delaware,2022,6,21576 ,4.3
+Delaware,2022,7,21809 ,4.4
+Delaware,2022,8,22096 ,4.5
+Delaware,2022,9,22694 ,4.6
+Delaware,2022,10,23094 ,4.7
+Delaware,2022,11,23110 ,4.7
+Delaware,2022,12,23030 ,4.6
+Delaware,2023,1,22905 ,4.6
+Delaware,2023,2,22610 ,4.6
+Delaware,2023,3,22048 ,4.4
+Delaware,2023,4,21471 ,4.3
+Delaware,2023,5,21166 ,4.2
+Delaware,2023,6,20823 ,4.2
+Delaware,2023,7,20564 ,4.1
+Delaware,2023,8,20812 ,4.1
+Delaware,2023,9,21037 ,4.1
+District of Columbia,2014,1,29754 ,7.9
+District of Columbia,2014,2,29502 ,7.9
+District of Columbia,2014,3,29375 ,7.8
+District of Columbia,2014,4,29385 ,7.8
+District of Columbia,2014,5,29412 ,7.8
+District of Columbia,2014,6,29383 ,7.8
+District of Columbia,2014,7,29337 ,7.7
+District of Columbia,2014,8,29305 ,7.7
+District of Columbia,2014,9,29270 ,7.6
+District of Columbia,2014,10,29134 ,7.6
+District of Columbia,2014,11,28872 ,7.5
+District of Columbia,2014,12,28590 ,7.4
+District of Columbia,2015,1,28354 ,7.4
+District of Columbia,2015,2,28166 ,7.3
+District of Columbia,2015,3,27950 ,7.2
+District of Columbia,2015,4,27660 ,7.2
+District of Columbia,2015,5,27304 ,7
+District of Columbia,2015,6,26924 ,6.9
+District of Columbia,2015,7,26582 ,6.8
+District of Columbia,2015,8,26305 ,6.8
+District of Columbia,2015,9,26058 ,6.7
+District of Columbia,2015,10,25841 ,6.6
+District of Columbia,2015,11,25656 ,6.6
+District of Columbia,2015,12,25415 ,6.5
+District of Columbia,2016,1,25085 ,6.4
+District of Columbia,2016,2,24717 ,6.3
+District of Columbia,2016,3,24362 ,6.2
+District of Columbia,2016,4,24125 ,6.1
+District of Columbia,2016,5,24081 ,6.1
+District of Columbia,2016,6,24196 ,6.1
+District of Columbia,2016,7,24394 ,6.2
+District of Columbia,2016,8,24634 ,6.2
+District of Columbia,2016,9,24896 ,6.3
+District of Columbia,2016,10,25091 ,6.3
+District of Columbia,2016,11,25150 ,6.3
+District of Columbia,2016,12,25104 ,6.3
+District of Columbia,2017,1,24399 ,6.3
+District of Columbia,2017,2,24325 ,6.2
+District of Columbia,2017,3,24275 ,6.2
+District of Columbia,2017,4,24251 ,6.2
+District of Columbia,2017,5,24221 ,6.2
+District of Columbia,2017,6,24168 ,6.1
+District of Columbia,2017,7,24075 ,6.1
+District of Columbia,2017,8,23906 ,6.1
+District of Columbia,2017,9,23683 ,6
+District of Columbia,2017,10,23473 ,6
+District of Columbia,2017,11,23349 ,5.9
+District of Columbia,2017,12,23279 ,5.9
+District of Columbia,2018,1,23160 ,5.9
+District of Columbia,2018,2,23113 ,5.8
+District of Columbia,2018,3,23049 ,5.8
+District of Columbia,2018,4,22901 ,5.8
+District of Columbia,2018,5,22638 ,5.7
+District of Columbia,2018,6,22263 ,5.6
+District of Columbia,2018,7,21819 ,5.5
+District of Columbia,2018,8,21516 ,5.5
+District of Columbia,2018,9,21547 ,5.5
+District of Columbia,2018,10,21926 ,5.6
+District of Columbia,2018,11,22519 ,5.7
+District of Columbia,2018,12,23126 ,5.8
+District of Columbia,2019,1,23527 ,5.9
+District of Columbia,2019,2,23571 ,5.9
+District of Columbia,2019,3,23282 ,5.8
+District of Columbia,2019,4,22756 ,5.7
+District of Columbia,2019,5,22173 ,5.5
+District of Columbia,2019,6,21663 ,5.4
+District of Columbia,2019,7,21295 ,5.3
+District of Columbia,2019,8,21041 ,5.3
+District of Columbia,2019,9,20814 ,5.2
+District of Columbia,2019,10,20757 ,5.2
+District of Columbia,2019,11,20971 ,5.2
+District of Columbia,2019,12,21462 ,5.3
+District of Columbia,2020,1,22101 ,5.5
+District of Columbia,2020,2,22700 ,5.7
+District of Columbia,2020,3,23042 ,5.7
+District of Columbia,2020,4,43900 ,11.2
+District of Columbia,2020,5,33286 ,8.8
+District of Columbia,2020,6,32417 ,8.6
+District of Columbia,2020,7,32739 ,8.6
+District of Columbia,2020,8,31968 ,8.4
+District of Columbia,2020,9,32010 ,8.4
+District of Columbia,2020,10,30740 ,8.1
+District of Columbia,2020,11,29674 ,7.9
+District of Columbia,2020,12,28948 ,7.7
+District of Columbia,2021,1,27323 ,7.3
+District of Columbia,2021,2,26432 ,7.1
+District of Columbia,2021,3,26252 ,7
+District of Columbia,2021,4,26424 ,7
+District of Columbia,2021,5,26594 ,7.1
+District of Columbia,2021,6,27372 ,7.2
+District of Columbia,2021,7,26772 ,7
+District of Columbia,2021,8,26332 ,6.9
+District of Columbia,2021,9,25018 ,6.6
+District of Columbia,2021,10,24513 ,6.4
+District of Columbia,2021,11,23910 ,6.3
+District of Columbia,2021,12,23330 ,6.1
+District of Columbia,2022,1,23159 ,6
+District of Columbia,2022,2,21663 ,5.6
+District of Columbia,2022,3,20300 ,5.2
+District of Columbia,2022,4,18993 ,4.9
+District of Columbia,2022,5,18057 ,4.6
+District of Columbia,2022,6,17089 ,4.4
+District of Columbia,2022,7,16179 ,4.1
+District of Columbia,2022,8,15417 ,3.9
+District of Columbia,2022,9,15896 ,4.1
+District of Columbia,2022,10,16280 ,4.2
+District of Columbia,2022,11,16381 ,4.2
+District of Columbia,2022,12,16349 ,4.2
+District of Columbia,2023,1,17322 ,4.5
+District of Columbia,2023,2,18157 ,4.7
+District of Columbia,2023,3,18872 ,4.8
+District of Columbia,2023,4,19434 ,5
+District of Columbia,2023,5,19854 ,5.1
+District of Columbia,2023,6,19869 ,5.1
+District of Columbia,2023,7,19568 ,5
+District of Columbia,2023,8,19519 ,5
+District of Columbia,2023,9,19642 ,5
+Florida,2014,1,654696 ,6.9
+Florida,2014,2,647833 ,6.8
+Florida,2014,3,641427 ,6.7
+Florida,2014,4,635285 ,6.7
+Florida,2014,5,628142 ,6.6
+Florida,2014,6,619965 ,6.5
+Florida,2014,7,611681 ,6.4
+Florida,2014,8,604141 ,6.3
+Florida,2014,9,597145 ,6.2
+Florida,2014,10,589167 ,6.1
+Florida,2014,11,579865 ,6
+Florida,2014,12,571137 ,6
+Florida,2015,1,564168 ,5.9
+Florida,2015,2,559218 ,5.8
+Florida,2015,3,554816 ,5.8
+Florida,2015,4,549727 ,5.7
+Florida,2015,5,543577 ,5.7
+Florida,2015,6,536342 ,5.6
+Florida,2015,7,528825 ,5.5
+Florida,2015,8,521898 ,5.4
+Florida,2015,9,515344 ,5.3
+Florida,2015,10,509396 ,5.3
+Florida,2015,11,504612 ,5.2
+Florida,2015,12,499996 ,5.1
+Florida,2016,1,494823 ,5.1
+Florida,2016,2,489577 ,5
+Florida,2016,3,484466 ,5
+Florida,2016,4,480619 ,4.9
+Florida,2016,5,479006 ,4.9
+Florida,2016,6,479240 ,4.9
+Florida,2016,7,480276 ,4.9
+Florida,2016,8,481562 ,4.9
+Florida,2016,9,482991 ,4.9
+Florida,2016,10,483036 ,4.9
+Florida,2016,11,479786 ,4.8
+Florida,2016,12,473072 ,4.8
+Florida,2017,1,463665 ,4.7
+Florida,2017,2,454257 ,4.6
+Florida,2017,3,445185 ,4.5
+Florida,2017,4,437378 ,4.4
+Florida,2017,5,430713 ,4.3
+Florida,2017,6,425642 ,4.3
+Florida,2017,7,422205 ,4.2
+Florida,2017,8,419264 ,4.2
+Florida,2017,9,416020 ,4.2
+Florida,2017,10,412342 ,4.1
+Florida,2017,11,408593 ,4.1
+Florida,2017,12,404264 ,4
+Florida,2018,1,395659 ,3.9
+Florida,2018,2,390618 ,3.9
+Florida,2018,3,385489 ,3.8
+Florida,2018,4,379715 ,3.8
+Florida,2018,5,373487 ,3.7
+Florida,2018,6,366943 ,3.6
+Florida,2018,7,360590 ,3.6
+Florida,2018,8,356132 ,3.5
+Florida,2018,9,354429 ,3.5
+Florida,2018,10,354989 ,3.5
+Florida,2018,11,356435 ,3.5
+Florida,2018,12,357157 ,3.5
+Florida,2019,1,355776 ,3.5
+Florida,2019,2,351500 ,3.4
+Florida,2019,3,345785 ,3.4
+Florida,2019,4,340305 ,3.3
+Florida,2019,5,336373 ,3.3
+Florida,2019,6,334267 ,3.3
+Florida,2019,7,333297 ,3.2
+Florida,2019,8,331774 ,3.2
+Florida,2019,9,327855 ,3.2
+Florida,2019,10,322563 ,3.1
+Florida,2019,11,317308 ,3.1
+Florida,2019,12,313316 ,3
+Florida,2020,1,310536 ,3
+Florida,2020,2,308254 ,3
+Florida,2020,3,406609 ,4
+Florida,2020,4,1250533 ,13.3
+Florida,2020,5,1434372 ,14.1
+Florida,2020,6,1181413 ,11.8
+Florida,2020,7,1208909 ,11.8
+Florida,2020,8,892631 ,8.9
+Florida,2020,9,821377 ,8.1
+Florida,2020,10,721269 ,7.1
+Florida,2020,11,669497 ,6.6
+Florida,2020,12,647861 ,6.4
+Florida,2021,1,598043 ,5.9
+Florida,2021,2,566461 ,5.6
+Florida,2021,3,544744 ,5.3
+Florida,2021,4,524437 ,5.1
+Florida,2021,5,503829 ,4.9
+Florida,2021,6,500100 ,4.8
+Florida,2021,7,475923 ,4.6
+Florida,2021,8,459155 ,4.4
+Florida,2021,9,428666 ,4.1
+Florida,2021,10,412038 ,3.9
+Florida,2021,11,393471 ,3.7
+Florida,2021,12,375604 ,3.6
+Florida,2022,1,371228 ,3.5
+Florida,2022,2,349523 ,3.3
+Florida,2022,3,331866 ,3.1
+Florida,2022,4,316799 ,3
+Florida,2022,5,309366 ,2.9
+Florida,2022,6,303077 ,2.8
+Florida,2022,7,296868 ,2.7
+Florida,2022,8,293654 ,2.7
+Florida,2022,9,294446 ,2.7
+Florida,2022,10,297315 ,2.7
+Florida,2022,11,294058 ,2.7
+Florida,2022,12,290801 ,2.7
+Florida,2023,1,285839 ,2.6
+Florida,2023,2,284361 ,2.6
+Florida,2023,3,283229 ,2.6
+Florida,2023,4,280772 ,2.6
+Florida,2023,5,286969 ,2.6
+Florida,2023,6,290022 ,2.6
+Florida,2023,7,295282 ,2.7
+Florida,2023,8,302949 ,2.7
+Florida,2023,9,309493 ,2.8
+Georgia,2014,1,355123 ,7.5
+Georgia,2014,2,352504 ,7.4
+Georgia,2014,3,350881 ,7.4
+Georgia,2014,4,350119 ,7.4
+Georgia,2014,5,348932 ,7.3
+Georgia,2014,6,346509 ,7.3
+Georgia,2014,7,342693 ,7.2
+Georgia,2014,8,337689 ,7.1
+Georgia,2014,9,331781 ,7
+Georgia,2014,10,324839 ,6.8
+Georgia,2014,11,317329 ,6.7
+Georgia,2014,12,310666 ,6.6
+Georgia,2015,1,305659 ,6.5
+Georgia,2015,2,302282 ,6.4
+Georgia,2015,3,299384 ,6.3
+Georgia,2015,4,296187 ,6.3
+Georgia,2015,5,292473 ,6.2
+Georgia,2015,6,288285 ,6.1
+Georgia,2015,7,284139 ,6
+Georgia,2015,8,280514 ,5.9
+Georgia,2015,9,277359 ,5.9
+Georgia,2015,10,274909 ,5.8
+Georgia,2015,11,273446 ,5.8
+Georgia,2015,12,272292 ,5.7
+Georgia,2016,1,270788 ,5.7
+Georgia,2016,2,268966 ,5.7
+Georgia,2016,3,266831 ,5.6
+Georgia,2016,4,265018 ,5.5
+Georgia,2016,5,264341 ,5.4
+Georgia,2016,6,264988 ,5.4
+Georgia,2016,7,266606 ,5.4
+Georgia,2016,8,268879 ,5.4
+Georgia,2016,9,271355 ,5.4
+Georgia,2016,10,272804 ,5.4
+Georgia,2016,11,272185 ,5.4
+Georgia,2016,12,269577 ,5.3
+Georgia,2017,1,264933 ,5.2
+Georgia,2017,2,260124 ,5.1
+Georgia,2017,3,255386 ,5
+Georgia,2017,4,251103 ,4.9
+Georgia,2017,5,247081 ,4.8
+Georgia,2017,6,243531 ,4.8
+Georgia,2017,7,240536 ,4.7
+Georgia,2017,8,237586 ,4.6
+Georgia,2017,9,234523 ,4.6
+Georgia,2017,10,231397 ,4.5
+Georgia,2017,11,228342 ,4.5
+Georgia,2017,12,224969 ,4.4
+Georgia,2018,1,220321 ,4.3
+Georgia,2018,2,216594 ,4.2
+Georgia,2018,3,212964 ,4.1
+Georgia,2018,4,209168 ,4.1
+Georgia,2018,5,205440 ,4
+Georgia,2018,6,201950 ,3.9
+Georgia,2018,7,198971 ,3.9
+Georgia,2018,8,197365 ,3.9
+Georgia,2018,9,197354 ,3.9
+Georgia,2018,10,198303 ,3.9
+Georgia,2018,11,199203 ,3.9
+Georgia,2018,12,199145 ,3.9
+Georgia,2019,1,197559 ,3.9
+Georgia,2019,2,194175 ,3.8
+Georgia,2019,3,190100 ,3.7
+Georgia,2019,4,186505 ,3.6
+Georgia,2019,5,184081 ,3.6
+Georgia,2019,6,182818 ,3.5
+Georgia,2019,7,182293 ,3.5
+Georgia,2019,8,181628 ,3.5
+Georgia,2019,9,179981 ,3.5
+Georgia,2019,10,178506 ,3.4
+Georgia,2019,11,178350 ,3.4
+Georgia,2019,12,180151 ,3.5
+Georgia,2020,1,183557 ,3.5
+Georgia,2020,2,187983 ,3.6
+Georgia,2020,3,191809 ,3.7
+Georgia,2020,4,614111 ,12.4
+Georgia,2020,5,492070 ,9.7
+Georgia,2020,6,418422 ,8.4
+Georgia,2020,7,382027 ,7.7
+Georgia,2020,8,336313 ,6.8
+Georgia,2020,9,314681 ,6.3
+Georgia,2020,10,288266 ,5.5
+Georgia,2020,11,272292 ,5.2
+Georgia,2020,12,261983 ,5
+Georgia,2021,1,247400 ,4.8
+Georgia,2021,2,236572 ,4.6
+Georgia,2021,3,227753 ,4.4
+Georgia,2021,4,219760 ,4.2
+Georgia,2021,5,212037 ,4.1
+Georgia,2021,6,206161 ,4
+Georgia,2021,7,198244 ,3.8
+Georgia,2021,8,190207 ,3.7
+Georgia,2021,9,181780 ,3.5
+Georgia,2021,10,175205 ,3.4
+Georgia,2021,11,169727 ,3.3
+Georgia,2021,12,164987 ,3.2
+Georgia,2022,1,161555 ,3.1
+Georgia,2022,2,158045 ,3
+Georgia,2022,3,155574 ,3
+Georgia,2022,4,154183 ,2.9
+Georgia,2022,5,154171 ,2.9
+Georgia,2022,6,155575 ,3
+Georgia,2022,7,158112 ,3
+Georgia,2022,8,160947 ,3.1
+Georgia,2022,9,162522 ,3.1
+Georgia,2022,10,162849 ,3.1
+Georgia,2022,11,162060 ,3.1
+Georgia,2022,12,161461 ,3.1
+Georgia,2023,1,161710 ,3.1
+Georgia,2023,2,162897 ,3.1
+Georgia,2023,3,164956 ,3.1
+Georgia,2023,4,165419 ,3.1
+Georgia,2023,5,169828 ,3.2
+Georgia,2023,6,170124 ,3.2
+Georgia,2023,7,169807 ,3.2
+Georgia,2023,8,174106 ,3.3
+Georgia,2023,9,179023 ,3.4
+Hawaii,2014,1,30188 ,4.6
+Hawaii,2014,2,29797 ,4.5
+Hawaii,2014,3,29446 ,4.4
+Hawaii,2014,4,29174 ,4.4
+Hawaii,2014,5,28879 ,4.4
+Hawaii,2014,6,28501 ,4.3
+Hawaii,2014,7,28056 ,4.2
+Hawaii,2014,8,27601 ,4.1
+Hawaii,2014,9,27173 ,4.1
+Hawaii,2014,10,26741 ,4
+Hawaii,2014,11,26296 ,3.9
+Hawaii,2014,12,25890 ,3.9
+Hawaii,2015,1,25546 ,3.8
+Hawaii,2015,2,25178 ,3.8
+Hawaii,2015,3,24680 ,3.7
+Hawaii,2015,4,24083 ,3.6
+Hawaii,2015,5,23472 ,3.5
+Hawaii,2015,6,22904 ,3.4
+Hawaii,2015,7,22428 ,3.3
+Hawaii,2015,8,22040 ,3.3
+Hawaii,2015,9,21680 ,3.2
+Hawaii,2015,10,21339 ,3.2
+Hawaii,2015,11,21041 ,3.1
+Hawaii,2015,12,20765 ,3.1
+Hawaii,2016,1,20513 ,3
+Hawaii,2016,2,20360 ,3
+Hawaii,2016,3,20294 ,3
+Hawaii,2016,4,20235 ,3
+Hawaii,2016,5,20154 ,3
+Hawaii,2016,6,20015 ,2.9
+Hawaii,2016,7,19772 ,2.9
+Hawaii,2016,8,19458 ,2.9
+Hawaii,2016,9,19156 ,2.8
+Hawaii,2016,10,18855 ,2.8
+Hawaii,2016,11,18508 ,2.7
+Hawaii,2016,12,18124 ,2.7
+Hawaii,2017,1,18049 ,2.6
+Hawaii,2017,2,17813 ,2.6
+Hawaii,2017,3,17544 ,2.5
+Hawaii,2017,4,17167 ,2.5
+Hawaii,2017,5,16568 ,2.4
+Hawaii,2017,6,15748 ,2.3
+Hawaii,2017,7,14814 ,2.1
+Hawaii,2017,8,13894 ,2
+Hawaii,2017,9,13170 ,1.9
+Hawaii,2017,10,12825 ,1.9
+Hawaii,2017,11,12952 ,1.9
+Hawaii,2017,12,13456 ,1.9
+Hawaii,2018,1,14210 ,2.1
+Hawaii,2018,2,14678 ,2.1
+Hawaii,2018,3,15143 ,2.2
+Hawaii,2018,4,15547 ,2.2
+Hawaii,2018,5,15941 ,2.3
+Hawaii,2018,6,16359 ,2.4
+Hawaii,2018,7,16772 ,2.4
+Hawaii,2018,8,17225 ,2.5
+Hawaii,2018,9,17718 ,2.6
+Hawaii,2018,10,18200 ,2.6
+Hawaii,2018,11,18619 ,2.7
+Hawaii,2018,12,18903 ,2.8
+Hawaii,2019,1,18970 ,2.8
+Hawaii,2019,2,18795 ,2.7
+Hawaii,2019,3,18467 ,2.7
+Hawaii,2019,4,18059 ,2.6
+Hawaii,2019,5,17641 ,2.6
+Hawaii,2019,6,17277 ,2.5
+Hawaii,2019,7,17005 ,2.5
+Hawaii,2019,8,16794 ,2.4
+Hawaii,2019,9,16576 ,2.4
+Hawaii,2019,10,16336 ,2.4
+Hawaii,2019,11,16027 ,2.3
+Hawaii,2019,12,15686 ,2.3
+Hawaii,2020,1,15357 ,2.2
+Hawaii,2020,2,15081 ,2.2
+Hawaii,2020,3,14853 ,2.2
+Hawaii,2020,4,146355 ,22.6
+Hawaii,2020,5,138223 ,20.8
+Hawaii,2020,6,115791 ,17.5
+Hawaii,2020,7,105601 ,15.7
+Hawaii,2020,8,88219 ,13.2
+Hawaii,2020,9,83619 ,13.5
+Hawaii,2020,10,73489 ,11.5
+Hawaii,2020,11,69440 ,10.6
+Hawaii,2020,12,68449 ,10.3
+Hawaii,2021,1,63933 ,9.5
+Hawaii,2021,2,61943 ,9.2
+Hawaii,2021,3,57021 ,8.4
+Hawaii,2021,4,52437 ,7.7
+Hawaii,2021,5,46290 ,6.9
+Hawaii,2021,6,42591 ,6.3
+Hawaii,2021,7,36827 ,5.5
+Hawaii,2021,8,31961 ,4.8
+Hawaii,2021,9,26782 ,4
+Hawaii,2021,10,22341 ,3.4
+Hawaii,2021,11,21655 ,3.3
+Hawaii,2021,12,21332 ,3.2
+Hawaii,2022,1,21400 ,3.2
+Hawaii,2022,2,21577 ,3.2
+Hawaii,2022,3,21916 ,3.3
+Hawaii,2022,4,22337 ,3.3
+Hawaii,2022,5,22739 ,3.4
+Hawaii,2022,6,23161 ,3.4
+Hawaii,2022,7,23693 ,3.5
+Hawaii,2022,8,24318 ,3.6
+Hawaii,2022,9,24856 ,3.7
+Hawaii,2022,10,25264 ,3.7
+Hawaii,2022,11,25287 ,3.7
+Hawaii,2022,12,25191 ,3.7
+Hawaii,2023,1,24629 ,3.6
+Hawaii,2023,2,24176 ,3.6
+Hawaii,2023,3,23539 ,3.5
+Hawaii,2023,4,22490 ,3.3
+Hawaii,2023,5,21341 ,3.1
+Hawaii,2023,6,20279 ,3
+Hawaii,2023,7,19277 ,2.8
+Hawaii,2023,8,19024 ,2.8
+Hawaii,2023,9,19192 ,2.8
+Idaho,2014,1,43528 ,5.6
+Idaho,2014,2,40624 ,5.2
+Idaho,2014,3,37992 ,4.9
+Idaho,2014,4,35611 ,4.6
+Idaho,2014,5,34685 ,4.5
+Idaho,2014,6,30807 ,4
+Idaho,2014,7,31142 ,4
+Idaho,2014,8,31294 ,4
+Idaho,2014,9,31257 ,4
+Idaho,2014,10,31003 ,4
+Idaho,2014,11,30618 ,3.9
+Idaho,2014,12,30319 ,3.9
+Idaho,2015,1,30221 ,3.8
+Idaho,2015,2,30368 ,3.9
+Idaho,2015,3,30640 ,3.9
+Idaho,2015,4,30915 ,3.9
+Idaho,2015,5,31129 ,3.9
+Idaho,2015,6,31192 ,3.9
+Idaho,2015,7,31133 ,3.9
+Idaho,2015,8,31035 ,3.9
+Idaho,2015,9,30884 ,3.9
+Idaho,2015,10,30733 ,3.8
+Idaho,2015,11,30655 ,3.8
+Idaho,2015,12,30581 ,3.8
+Idaho,2016,1,30468 ,3.8
+Idaho,2016,2,30326 ,3.8
+Idaho,2016,3,30158 ,3.7
+Idaho,2016,4,30028 ,3.7
+Idaho,2016,5,29987 ,3.7
+Idaho,2016,6,30018 ,3.7
+Idaho,2016,7,30010 ,3.7
+Idaho,2016,8,29901 ,3.7
+Idaho,2016,9,29754 ,3.6
+Idaho,2016,10,29548 ,3.6
+Idaho,2016,11,29220 ,3.6
+Idaho,2016,12,28790 ,3.5
+Idaho,2017,1,28603 ,3.5
+Idaho,2017,2,27986 ,3.4
+Idaho,2017,3,27408 ,3.3
+Idaho,2017,4,26915 ,3.2
+Idaho,2017,5,26546 ,3.2
+Idaho,2017,6,26375 ,3.1
+Idaho,2017,7,26414 ,3.1
+Idaho,2017,8,26589 ,3.2
+Idaho,2017,9,26755 ,3.2
+Idaho,2017,10,26740 ,3.2
+Idaho,2017,11,26517 ,3.1
+Idaho,2017,12,26093 ,3.1
+Idaho,2018,1,25600 ,3
+Idaho,2018,2,25090 ,2.9
+Idaho,2018,3,24616 ,2.9
+Idaho,2018,4,24219 ,2.8
+Idaho,2018,5,23971 ,2.8
+Idaho,2018,6,23889 ,2.8
+Idaho,2018,7,23947 ,2.8
+Idaho,2018,8,24190 ,2.8
+Idaho,2018,9,24639 ,2.8
+Idaho,2018,10,25218 ,2.9
+Idaho,2018,11,25768 ,3
+Idaho,2018,12,26112 ,3
+Idaho,2019,1,26150 ,3
+Idaho,2019,2,25882 ,2.9
+Idaho,2019,3,25493 ,2.9
+Idaho,2019,4,25161 ,2.9
+Idaho,2019,5,25013 ,2.8
+Idaho,2019,6,25123 ,2.8
+Idaho,2019,7,25464 ,2.9
+Idaho,2019,8,25820 ,2.9
+Idaho,2019,9,25868 ,2.9
+Idaho,2019,10,25645 ,2.9
+Idaho,2019,11,25224 ,2.8
+Idaho,2019,12,24834 ,2.8
+Idaho,2020,1,24764 ,2.7
+Idaho,2020,2,25119 ,2.8
+Idaho,2020,3,24341 ,2.7
+Idaho,2020,4,103794 ,11.7
+Idaho,2020,5,80887 ,9
+Idaho,2020,6,67049 ,7.5
+Idaho,2020,7,59059 ,6.6
+Idaho,2020,8,49061 ,5.4
+Idaho,2020,9,44992 ,5
+Idaho,2020,10,40155 ,4.4
+Idaho,2020,11,38398 ,4.2
+Idaho,2020,12,38049 ,4.2
+Idaho,2021,1,37054 ,4.1
+Idaho,2021,2,36528 ,4
+Idaho,2021,3,35580 ,3.9
+Idaho,2021,4,34762 ,3.8
+Idaho,2021,5,33625 ,3.6
+Idaho,2021,6,32950 ,3.6
+Idaho,2021,7,32119 ,3.5
+Idaho,2021,8,31273 ,3.4
+Idaho,2021,9,30185 ,3.2
+Idaho,2021,10,29006 ,3.1
+Idaho,2021,11,27640 ,3
+Idaho,2021,12,26249 ,2.8
+Idaho,2022,1,25127 ,2.7
+Idaho,2022,2,24233 ,2.6
+Idaho,2022,3,23732 ,2.5
+Idaho,2022,4,23698 ,2.5
+Idaho,2022,5,24115 ,2.5
+Idaho,2022,6,24869 ,2.6
+Idaho,2022,7,25744 ,2.7
+Idaho,2022,8,26463 ,2.8
+Idaho,2022,9,26791 ,2.8
+Idaho,2022,10,26780 ,2.8
+Idaho,2022,11,26539 ,2.8
+Idaho,2022,12,26377 ,2.8
+Idaho,2023,1,25701 ,2.7
+Idaho,2023,2,25141 ,2.6
+Idaho,2023,3,24678 ,2.6
+Idaho,2023,4,24500 ,2.6
+Idaho,2023,5,24997 ,2.6
+Idaho,2023,6,25706 ,2.7
+Idaho,2023,7,27202 ,2.8
+Idaho,2023,8,28947 ,3
+Idaho,2023,9,30266 ,3.1
+Illinois,2014,1,547499 ,8.4
+Illinois,2014,2,532876 ,8.1
+Illinois,2014,3,516285 ,7.9
+Illinois,2014,4,499029 ,7.6
+Illinois,2014,5,482035 ,7.4
+Illinois,2014,6,466575 ,7.2
+Illinois,2014,7,453314 ,7
+Illinois,2014,8,442300 ,6.8
+Illinois,2014,9,432604 ,6.6
+Illinois,2014,10,422509 ,6.5
+Illinois,2014,11,411946 ,6.3
+Illinois,2014,12,402698 ,6.2
+Illinois,2015,1,396152 ,6.1
+Illinois,2015,2,393157 ,6.1
+Illinois,2015,3,392719 ,6
+Illinois,2015,4,392931 ,6
+Illinois,2015,5,391868 ,6
+Illinois,2015,6,389160 ,6
+Illinois,2015,7,386180 ,5.9
+Illinois,2015,8,384626 ,5.9
+Illinois,2015,9,385132 ,5.9
+Illinois,2015,10,388222 ,5.9
+Illinois,2015,11,394208 ,6
+Illinois,2015,12,401484 ,6.1
+Illinois,2016,1,407415 ,6.2
+Illinois,2016,2,409956 ,6.2
+Illinois,2016,3,407804 ,6.2
+Illinois,2016,4,402226 ,6.1
+Illinois,2016,5,395612 ,6
+Illinois,2016,6,389043 ,5.9
+Illinois,2016,7,382881 ,5.8
+Illinois,2016,8,378125 ,5.8
+Illinois,2016,9,374815 ,5.7
+Illinois,2016,10,370796 ,5.7
+Illinois,2016,11,363838 ,5.6
+Illinois,2016,12,353961 ,5.4
+Illinois,2017,1,346578 ,5.3
+Illinois,2017,2,336052 ,5.1
+Illinois,2017,3,328208 ,5
+Illinois,2017,4,323894 ,4.9
+Illinois,2017,5,322423 ,4.9
+Illinois,2017,6,323165 ,4.9
+Illinois,2017,7,324883 ,5
+Illinois,2017,8,325130 ,5
+Illinois,2017,9,323064 ,4.9
+Illinois,2017,10,319254 ,4.9
+Illinois,2017,11,313818 ,4.8
+Illinois,2017,12,306494 ,4.7
+Illinois,2018,1,299294 ,4.6
+Illinois,2018,2,292204 ,4.5
+Illinois,2018,3,286440 ,4.4
+Illinois,2018,4,281853 ,4.3
+Illinois,2018,5,279046 ,4.3
+Illinois,2018,6,278096 ,4.2
+Illinois,2018,7,278652 ,4.3
+Illinois,2018,8,281119 ,4.3
+Illinois,2018,9,285424 ,4.4
+Illinois,2018,10,290751 ,4.4
+Illinois,2018,11,296533 ,4.5
+Illinois,2018,12,301163 ,4.6
+Illinois,2019,1,301759 ,4.6
+Illinois,2019,2,296608 ,4.5
+Illinois,2019,3,286524 ,4.4
+Illinois,2019,4,273698 ,4.2
+Illinois,2019,5,261185 ,4
+Illinois,2019,6,251639 ,3.8
+Illinois,2019,7,246416 ,3.8
+Illinois,2019,8,244312 ,3.7
+Illinois,2019,9,242244 ,3.7
+Illinois,2019,10,239781 ,3.7
+Illinois,2019,11,237566 ,3.6
+Illinois,2019,12,237432 ,3.6
+Illinois,2020,1,241411 ,3.7
+Illinois,2020,2,250421 ,3.8
+Illinois,2020,3,325098 ,5
+Illinois,2020,4,1129154 ,18
+Illinois,2020,5,927050 ,14.7
+Illinois,2020,6,800531 ,12.7
+Illinois,2020,7,727080 ,11.5
+Illinois,2020,8,619004 ,9.8
+Illinois,2020,9,576517 ,9.1
+Illinois,2020,10,519006 ,8.2
+Illinois,2020,11,495731 ,7.9
+Illinois,2020,12,481495 ,7.6
+Illinois,2021,1,454854 ,7.2
+Illinois,2021,2,442295 ,7
+Illinois,2021,3,429938 ,6.8
+Illinois,2021,4,421701 ,6.6
+Illinois,2021,5,408953 ,6.4
+Illinois,2021,6,405289 ,6.4
+Illinois,2021,7,391783 ,6.1
+Illinois,2021,8,375767 ,5.9
+Illinois,2021,9,353811 ,5.5
+Illinois,2021,10,336319 ,5.3
+Illinois,2021,11,320744 ,5
+Illinois,2021,12,312775 ,4.9
+Illinois,2022,1,308798 ,4.8
+Illinois,2022,2,301178 ,4.6
+Illinois,2022,3,294491 ,4.5
+Illinois,2022,4,289594 ,4.5
+Illinois,2022,5,286408 ,4.4
+Illinois,2022,6,284897 ,4.4
+Illinois,2022,7,286618 ,4.4
+Illinois,2022,8,289532 ,4.5
+Illinois,2022,9,296389 ,4.6
+Illinois,2022,10,300040 ,4.6
+Illinois,2022,11,298887 ,4.6
+Illinois,2022,12,297260 ,4.6
+Illinois,2023,1,294351 ,4.5
+Illinois,2023,2,289854 ,4.5
+Illinois,2023,3,283806 ,4.4
+Illinois,2023,4,275010 ,4.2
+Illinois,2023,5,265222 ,4.1
+Illinois,2023,6,258049 ,4
+Illinois,2023,7,255050 ,4
+Illinois,2023,8,266155 ,4.1
+Illinois,2023,9,282457 ,4.4
+Indiana,2014,1,204140 ,6.4
+Indiana,2014,2,201157 ,6.3
+Indiana,2014,3,199328 ,6.2
+Indiana,2014,4,198011 ,6.1
+Indiana,2014,5,196155 ,6.1
+Indiana,2014,6,193480 ,6
+Indiana,2014,7,190479 ,5.9
+Indiana,2014,8,188106 ,5.8
+Indiana,2014,9,186458 ,5.8
+Indiana,2014,10,184597 ,5.7
+Indiana,2014,11,181803 ,5.6
+Indiana,2014,12,178063 ,5.5
+Indiana,2015,1,173733 ,5.4
+Indiana,2015,2,169296 ,5.2
+Indiana,2015,3,164907 ,5.1
+Indiana,2015,4,160792 ,4.9
+Indiana,2015,5,157130 ,4.8
+Indiana,2015,6,153899 ,4.7
+Indiana,2015,7,151270 ,4.6
+Indiana,2015,8,149383 ,4.6
+Indiana,2015,9,148254 ,4.5
+Indiana,2015,10,148248 ,4.5
+Indiana,2015,11,149628 ,4.5
+Indiana,2015,12,151800 ,4.6
+Indiana,2016,1,153754 ,4.6
+Indiana,2016,2,154845 ,4.6
+Indiana,2016,3,154672 ,4.6
+Indiana,2016,4,153384 ,4.6
+Indiana,2016,5,151268 ,4.5
+Indiana,2016,6,148491 ,4.4
+Indiana,2016,7,145265 ,4.4
+Indiana,2016,8,142150 ,4.3
+Indiana,2016,9,139724 ,4.2
+Indiana,2016,10,137574 ,4.1
+Indiana,2016,11,134800 ,4.1
+Indiana,2016,12,131142 ,4
+Indiana,2017,1,126982 ,3.8
+Indiana,2017,2,121919 ,3.7
+Indiana,2017,3,117437 ,3.5
+Indiana,2017,4,114504 ,3.4
+Indiana,2017,5,113543 ,3.4
+Indiana,2017,6,114413 ,3.4
+Indiana,2017,7,116241 ,3.5
+Indiana,2017,8,117528 ,3.5
+Indiana,2017,9,117365 ,3.5
+Indiana,2017,10,115645 ,3.5
+Indiana,2017,11,113164 ,3.4
+Indiana,2017,12,110768 ,3.3
+Indiana,2018,1,110294 ,3.3
+Indiana,2018,2,110636 ,3.3
+Indiana,2018,3,112090 ,3.3
+Indiana,2018,4,113775 ,3.4
+Indiana,2018,5,115230 ,3.4
+Indiana,2018,6,116312 ,3.4
+Indiana,2018,7,116967 ,3.4
+Indiana,2018,8,117573 ,3.5
+Indiana,2018,9,118486 ,3.5
+Indiana,2018,10,119725 ,3.5
+Indiana,2018,11,120985 ,3.6
+Indiana,2018,12,121323 ,3.6
+Indiana,2019,1,120111 ,3.5
+Indiana,2019,2,117357 ,3.4
+Indiana,2019,3,113938 ,3.3
+Indiana,2019,4,110815 ,3.3
+Indiana,2019,5,108770 ,3.2
+Indiana,2019,6,108062 ,3.2
+Indiana,2019,7,108787 ,3.2
+Indiana,2019,8,110353 ,3.2
+Indiana,2019,9,111419 ,3.3
+Indiana,2019,10,111880 ,3.3
+Indiana,2019,11,112020 ,3.3
+Indiana,2019,12,112714 ,3.3
+Indiana,2020,1,113926 ,3.3
+Indiana,2020,2,115009 ,3.4
+Indiana,2020,3,114948 ,3.5
+Indiana,2020,4,542624 ,16.8
+Indiana,2020,5,410085 ,12.4
+Indiana,2020,6,340540 ,10.3
+Indiana,2020,7,298008 ,8.9
+Indiana,2020,8,242548 ,7.2
+Indiana,2020,9,218227 ,6.5
+Indiana,2020,10,189486 ,5.6
+Indiana,2020,11,176431 ,5.2
+Indiana,2020,12,167987 ,5
+Indiana,2021,1,156477 ,4.7
+Indiana,2021,2,151485 ,4.5
+Indiana,2021,3,146992 ,4.4
+Indiana,2021,4,143918 ,4.3
+Indiana,2021,5,139485 ,4.1
+Indiana,2021,6,136619 ,4.1
+Indiana,2021,7,131313 ,3.9
+Indiana,2021,8,125239 ,3.7
+Indiana,2021,9,117988 ,3.5
+Indiana,2021,10,111464 ,3.3
+Indiana,2021,11,105497 ,3.2
+Indiana,2021,12,100641 ,3
+Indiana,2022,1,97175 ,2.9
+Indiana,2022,2,94534 ,2.8
+Indiana,2022,3,93975 ,2.8
+Indiana,2022,4,95274 ,2.8
+Indiana,2022,5,97663 ,2.9
+Indiana,2022,6,100776 ,2.9
+Indiana,2022,7,104120 ,3
+Indiana,2022,8,106839 ,3.1
+Indiana,2022,9,108170 ,3.2
+Indiana,2022,10,108456 ,3.2
+Indiana,2022,11,107892 ,3.2
+Indiana,2022,12,107399 ,3.1
+Indiana,2023,1,106270 ,3.1
+Indiana,2023,2,106121 ,3.1
+Indiana,2023,3,105572 ,3.1
+Indiana,2023,4,104274 ,3
+Indiana,2023,5,106612 ,3.1
+Indiana,2023,6,108323 ,3.2
+Indiana,2023,7,112395 ,3.3
+Indiana,2023,8,117400 ,3.4
+Indiana,2023,9,121696 ,3.6
+Iowa,2014,1,74970 ,4.4
+Iowa,2014,2,74463 ,4.4
+Iowa,2014,3,73979 ,4.4
+Iowa,2014,4,73583 ,4.3
+Iowa,2014,5,73194 ,4.3
+Iowa,2014,6,72759 ,4.3
+Iowa,2014,7,72272 ,4.2
+Iowa,2014,8,71753 ,4.2
+Iowa,2014,9,71064 ,4.2
+Iowa,2014,10,69998 ,4.1
+Iowa,2014,11,68577 ,4
+Iowa,2014,12,67159 ,3.9
+Iowa,2015,1,65998 ,3.9
+Iowa,2015,2,65189 ,3.8
+Iowa,2015,3,64544 ,3.8
+Iowa,2015,4,63879 ,3.8
+Iowa,2015,5,63156 ,3.7
+Iowa,2015,6,62438 ,3.7
+Iowa,2015,7,61892 ,3.6
+Iowa,2015,8,61594 ,3.6
+Iowa,2015,9,61550 ,3.6
+Iowa,2015,10,61718 ,3.6
+Iowa,2015,11,61985 ,3.6
+Iowa,2015,12,62133 ,3.6
+Iowa,2016,1,62078 ,3.6
+Iowa,2016,2,61964 ,3.6
+Iowa,2016,3,61917 ,3.6
+Iowa,2016,4,62010 ,3.6
+Iowa,2016,5,62206 ,3.6
+Iowa,2016,6,62320 ,3.7
+Iowa,2016,7,62132 ,3.6
+Iowa,2016,8,61632 ,3.6
+Iowa,2016,9,60956 ,3.6
+Iowa,2016,10,60079 ,3.5
+Iowa,2016,11,59003 ,3.5
+Iowa,2016,12,57827 ,3.4
+Iowa,2017,1,56329 ,3.3
+Iowa,2017,2,55037 ,3.2
+Iowa,2017,3,53922 ,3.2
+Iowa,2017,4,53130 ,3.1
+Iowa,2017,5,52606 ,3.1
+Iowa,2017,6,52266 ,3.1
+Iowa,2017,7,51976 ,3.1
+Iowa,2017,8,51468 ,3
+Iowa,2017,9,50674 ,3
+Iowa,2017,10,49676 ,2.9
+Iowa,2017,11,48612 ,2.9
+Iowa,2017,12,47468 ,2.8
+Iowa,2018,1,47198 ,2.8
+Iowa,2018,2,46122 ,2.7
+Iowa,2018,3,45041 ,2.6
+Iowa,2018,4,43974 ,2.6
+Iowa,2018,5,43141 ,2.5
+Iowa,2018,6,42643 ,2.5
+Iowa,2018,7,42452 ,2.5
+Iowa,2018,8,42657 ,2.5
+Iowa,2018,9,43106 ,2.5
+Iowa,2018,10,43687 ,2.5
+Iowa,2018,11,44289 ,2.6
+Iowa,2018,12,44747 ,2.6
+Iowa,2019,1,44954 ,2.6
+Iowa,2019,2,44881 ,2.6
+Iowa,2019,3,44768 ,2.6
+Iowa,2019,4,44804 ,2.6
+Iowa,2019,5,45134 ,2.6
+Iowa,2019,6,45877 ,2.6
+Iowa,2019,7,46993 ,2.7
+Iowa,2019,8,48092 ,2.7
+Iowa,2019,9,48585 ,2.8
+Iowa,2019,10,48364 ,2.8
+Iowa,2019,11,47588 ,2.7
+Iowa,2019,12,46640 ,2.7
+Iowa,2020,1,45857 ,2.6
+Iowa,2020,2,45199 ,2.6
+Iowa,2020,3,44183 ,2.6
+Iowa,2020,4,183898 ,10.9
+Iowa,2020,5,137177 ,8.3
+Iowa,2020,6,109184 ,6.7
+Iowa,2020,7,96747 ,5.9
+Iowa,2020,8,83394 ,5.1
+Iowa,2020,9,78314 ,4.7
+Iowa,2020,10,72332 ,4.4
+Iowa,2020,11,71187 ,4.3
+Iowa,2020,12,71292 ,4.3
+Iowa,2021,1,69709 ,4.2
+Iowa,2021,2,69541 ,4.2
+Iowa,2021,3,70033 ,4.2
+Iowa,2021,4,70446 ,4.2
+Iowa,2021,5,69856 ,4.1
+Iowa,2021,6,69283 ,4.1
+Iowa,2021,7,67347 ,4
+Iowa,2021,8,64589 ,3.8
+Iowa,2021,9,60850 ,3.6
+Iowa,2021,10,56985 ,3.4
+Iowa,2021,11,52790 ,3.1
+Iowa,2021,12,48832 ,2.9
+Iowa,2022,1,45247 ,2.7
+Iowa,2022,2,42168 ,2.5
+Iowa,2022,3,40346 ,2.4
+Iowa,2022,4,40087 ,2.3
+Iowa,2022,5,41486 ,2.4
+Iowa,2022,6,44128 ,2.6
+Iowa,2022,7,47525 ,2.8
+Iowa,2022,8,50662 ,2.9
+Iowa,2022,9,52637 ,3.1
+Iowa,2022,10,53399 ,3.1
+Iowa,2022,11,52851 ,3.1
+Iowa,2022,12,52349 ,3
+Iowa,2023,1,51176 ,3
+Iowa,2023,2,50083 ,2.9
+Iowa,2023,3,48308 ,2.8
+Iowa,2023,4,46778 ,2.7
+Iowa,2023,5,46282 ,2.7
+Iowa,2023,6,46269 ,2.7
+Iowa,2023,7,47661 ,2.7
+Iowa,2023,8,50242 ,2.9
+Iowa,2023,9,52808 ,3
+Kansas,2014,1,71341 ,4.8
+Kansas,2014,2,70399 ,4.7
+Kansas,2014,3,69645 ,4.7
+Kansas,2014,4,69031 ,4.6
+Kansas,2014,5,68405 ,4.6
+Kansas,2014,6,67691 ,4.5
+Kansas,2014,7,66903 ,4.5
+Kansas,2014,8,66136 ,4.4
+Kansas,2014,9,65438 ,4.4
+Kansas,2014,10,64718 ,4.3
+Kansas,2014,11,64176 ,4.3
+Kansas,2014,12,64104 ,4.3
+Kansas,2015,1,64462 ,4.3
+Kansas,2015,2,65019 ,4.4
+Kansas,2015,3,65352 ,4.4
+Kansas,2015,4,65122 ,4.4
+Kansas,2015,5,64235 ,4.3
+Kansas,2015,6,62866 ,4.2
+Kansas,2015,7,61380 ,4.1
+Kansas,2015,8,60138 ,4
+Kansas,2015,9,59288 ,4
+Kansas,2015,10,58934 ,3.9
+Kansas,2015,11,58975 ,3.9
+Kansas,2015,12,59059 ,3.9
+Kansas,2016,1,59022 ,3.9
+Kansas,2016,2,58934 ,3.9
+Kansas,2016,3,58909 ,3.9
+Kansas,2016,4,59093 ,4
+Kansas,2016,5,59571 ,4
+Kansas,2016,6,60275 ,4
+Kansas,2016,7,60999 ,4.1
+Kansas,2016,8,61538 ,4.1
+Kansas,2016,9,61759 ,4.1
+Kansas,2016,10,61409 ,4.1
+Kansas,2016,11,60403 ,4.1
+Kansas,2016,12,58974 ,4
+Kansas,2017,1,57405 ,3.9
+Kansas,2017,2,55915 ,3.8
+Kansas,2017,3,54838 ,3.7
+Kansas,2017,4,54332 ,3.6
+Kansas,2017,5,54203 ,3.6
+Kansas,2017,6,54203 ,3.6
+Kansas,2017,7,54135 ,3.6
+Kansas,2017,8,53796 ,3.6
+Kansas,2017,9,53176 ,3.6
+Kansas,2017,10,52422 ,3.5
+Kansas,2017,11,51669 ,3.5
+Kansas,2017,12,50876 ,3.4
+Kansas,2018,1,51673 ,3.5
+Kansas,2018,2,51217 ,3.4
+Kansas,2018,3,50761 ,3.4
+Kansas,2018,4,50208 ,3.4
+Kansas,2018,5,49734 ,3.3
+Kansas,2018,6,49389 ,3.3
+Kansas,2018,7,49162 ,3.3
+Kansas,2018,8,49211 ,3.3
+Kansas,2018,9,49544 ,3.3
+Kansas,2018,10,50045 ,3.3
+Kansas,2018,11,50535 ,3.4
+Kansas,2018,12,50802 ,3.4
+Kansas,2019,1,50675 ,3.4
+Kansas,2019,2,50121 ,3.3
+Kansas,2019,3,49424 ,3.3
+Kansas,2019,4,48801 ,3.3
+Kansas,2019,5,48406 ,3.2
+Kansas,2019,6,48384 ,3.2
+Kansas,2019,7,48746 ,3.2
+Kansas,2019,8,49200 ,3.3
+Kansas,2019,9,49333 ,3.3
+Kansas,2019,10,49237 ,3.3
+Kansas,2019,11,49100 ,3.2
+Kansas,2019,12,49185 ,3.3
+Kansas,2020,1,49344 ,3.3
+Kansas,2020,2,49179 ,3.3
+Kansas,2020,3,48259 ,3.2
+Kansas,2020,4,185693 ,12.4
+Kansas,2020,5,139305 ,9.3
+Kansas,2020,6,111510 ,7.5
+Kansas,2020,7,99120 ,6.6
+Kansas,2020,8,85653 ,5.7
+Kansas,2020,9,79677 ,5.3
+Kansas,2020,10,71798 ,4.8
+Kansas,2020,11,67683 ,4.5
+Kansas,2020,12,64042 ,4.3
+Kansas,2021,1,58657 ,3.9
+Kansas,2021,2,55365 ,3.7
+Kansas,2021,3,53692 ,3.6
+Kansas,2021,4,53143 ,3.5
+Kansas,2021,5,52618 ,3.5
+Kansas,2021,6,52637 ,3.5
+Kansas,2021,7,51501 ,3.4
+Kansas,2021,8,49485 ,3.3
+Kansas,2021,9,46442 ,3.1
+Kansas,2021,10,43435 ,2.9
+Kansas,2021,11,40505 ,2.7
+Kansas,2021,12,38327 ,2.6
+Kansas,2022,1,36930 ,2.5
+Kansas,2022,2,35983 ,2.4
+Kansas,2022,3,35704 ,2.4
+Kansas,2022,4,36036 ,2.4
+Kansas,2022,5,36981 ,2.5
+Kansas,2022,6,38421 ,2.6
+Kansas,2022,7,40329 ,2.7
+Kansas,2022,8,42268 ,2.8
+Kansas,2022,9,43678 ,2.9
+Kansas,2022,10,44412 ,3
+Kansas,2022,11,44187 ,2.9
+Kansas,2022,12,43868 ,2.9
+Kansas,2023,1,43678 ,2.9
+Kansas,2023,2,44088 ,2.9
+Kansas,2023,3,43857 ,2.9
+Kansas,2023,4,44374 ,2.9
+Kansas,2023,5,43760 ,2.9
+Kansas,2023,6,43267 ,2.8
+Kansas,2023,7,41729 ,2.7
+Kansas,2023,8,41743 ,2.7
+Kansas,2023,9,42279 ,2.8
+Kentucky,2014,1,151957 ,7.5
+Kentucky,2014,2,148769 ,7.3
+Kentucky,2014,3,145052 ,7.2
+Kentucky,2014,4,140832 ,7
+Kentucky,2014,5,135875 ,6.7
+Kentucky,2014,6,130454 ,6.5
+Kentucky,2014,7,125214 ,6.3
+Kentucky,2014,8,120698 ,6
+Kentucky,2014,9,116832 ,5.9
+Kentucky,2014,10,113224 ,5.7
+Kentucky,2014,11,109930 ,5.5
+Kentucky,2014,12,107350 ,5.4
+Kentucky,2015,1,105591 ,5.3
+Kentucky,2015,2,104690 ,5.3
+Kentucky,2015,3,104297 ,5.3
+Kentucky,2015,4,104019 ,5.3
+Kentucky,2015,5,103567 ,5.2
+Kentucky,2015,6,102829 ,5.2
+Kentucky,2015,7,102100 ,5.2
+Kentucky,2015,8,101787 ,5.2
+Kentucky,2015,9,101995 ,5.2
+Kentucky,2015,10,102692 ,5.2
+Kentucky,2015,11,103523 ,5.2
+Kentucky,2015,12,103984 ,5.2
+Kentucky,2016,1,103820 ,5.2
+Kentucky,2016,2,102949 ,5.1
+Kentucky,2016,3,101461 ,5.1
+Kentucky,2016,4,99984 ,5
+Kentucky,2016,5,99196 ,4.9
+Kentucky,2016,6,99189 ,4.9
+Kentucky,2016,7,99628 ,4.9
+Kentucky,2016,8,100398 ,5
+Kentucky,2016,9,101518 ,5
+Kentucky,2016,10,102622 ,5.1
+Kentucky,2016,11,103363 ,5.1
+Kentucky,2016,12,103560 ,5.1
+Kentucky,2017,1,103735 ,5.1
+Kentucky,2017,2,103079 ,5
+Kentucky,2017,3,102549 ,5
+Kentucky,2017,4,102090 ,5
+Kentucky,2017,5,101442 ,4.9
+Kentucky,2017,6,100595 ,4.9
+Kentucky,2017,7,99490 ,4.8
+Kentucky,2017,8,97722 ,4.8
+Kentucky,2017,9,95321 ,4.6
+Kentucky,2017,10,92639 ,4.5
+Kentucky,2017,11,90135 ,4.4
+Kentucky,2017,12,88112 ,4.3
+Kentucky,2018,1,86917 ,4.2
+Kentucky,2018,2,86498 ,4.2
+Kentucky,2018,3,86454 ,4.2
+Kentucky,2018,4,86559 ,4.2
+Kentucky,2018,5,86843 ,4.2
+Kentucky,2018,6,87081 ,4.2
+Kentucky,2018,7,87101 ,4.2
+Kentucky,2018,8,87017 ,4.2
+Kentucky,2018,9,86878 ,4.2
+Kentucky,2018,10,86687 ,4.2
+Kentucky,2018,11,86501 ,4.2
+Kentucky,2018,12,86294 ,4.2
+Kentucky,2019,1,85976 ,4.2
+Kentucky,2019,2,85564 ,4.2
+Kentucky,2019,3,85394 ,4.1
+Kentucky,2019,4,85437 ,4.1
+Kentucky,2019,5,85398 ,4.1
+Kentucky,2019,6,85355 ,4.1
+Kentucky,2019,7,85348 ,4.1
+Kentucky,2019,8,85216 ,4.1
+Kentucky,2019,9,84635 ,4.1
+Kentucky,2019,10,84090 ,4
+Kentucky,2019,11,83913 ,4
+Kentucky,2019,12,84184 ,4.1
+Kentucky,2020,1,84842 ,4.1
+Kentucky,2020,2,85341 ,4.1
+Kentucky,2020,3,84913 ,4.1
+Kentucky,2020,4,343028 ,16.7
+Kentucky,2020,5,264429 ,12.8
+Kentucky,2020,6,101494 ,5.3
+Kentucky,2020,7,113686 ,5.8
+Kentucky,2020,8,103125 ,5.2
+Kentucky,2020,9,100686 ,5
+Kentucky,2020,10,97011 ,4.8
+Kentucky,2020,11,95765 ,4.8
+Kentucky,2020,12,94783 ,4.7
+Kentucky,2021,1,92584 ,4.6
+Kentucky,2021,2,91288 ,4.5
+Kentucky,2021,3,90593 ,4.5
+Kentucky,2021,4,90674 ,4.5
+Kentucky,2021,5,90863 ,4.5
+Kentucky,2021,6,91702 ,4.5
+Kentucky,2021,7,91982 ,4.5
+Kentucky,2021,8,91418 ,4.5
+Kentucky,2021,9,89928 ,4.4
+Kentucky,2021,10,87923 ,4.3
+Kentucky,2021,11,85414 ,4.2
+Kentucky,2021,12,83085 ,4.1
+Kentucky,2022,1,81170 ,4
+Kentucky,2022,2,79518 ,3.9
+Kentucky,2022,3,78632 ,3.8
+Kentucky,2022,4,78568 ,3.8
+Kentucky,2022,5,79061 ,3.8
+Kentucky,2022,6,80000 ,3.9
+Kentucky,2022,7,80944 ,3.9
+Kentucky,2022,8,81464 ,4
+Kentucky,2022,9,81331 ,4
+Kentucky,2022,10,80787 ,4
+Kentucky,2022,11,80253 ,3.9
+Kentucky,2022,12,80066 ,3.9
+Kentucky,2023,1,79019 ,3.9
+Kentucky,2023,2,79762 ,3.9
+Kentucky,2023,3,77108 ,3.8
+Kentucky,2023,4,76361 ,3.7
+Kentucky,2023,5,77207 ,3.8
+Kentucky,2023,6,77434 ,3.8
+Kentucky,2023,7,79130 ,3.9
+Kentucky,2023,8,82001 ,4
+Kentucky,2023,9,84796 ,4.1
+Los Angeles County,2014,1,439421 ,8.9
+Los Angeles County,2014,2,432175 ,8.7
+Los Angeles County,2014,3,425825 ,8.6
+Los Angeles County,2014,4,420596 ,8.5
+Los Angeles County,2014,5,415757 ,8.4
+Los Angeles County,2014,6,411147 ,8.3
+Los Angeles County,2014,7,406983 ,8.2
+Los Angeles County,2014,8,403498 ,8.1
+Los Angeles County,2014,9,400228 ,8
+Los Angeles County,2014,10,395854 ,7.9
+Los Angeles County,2014,11,390047 ,7.8
+Los Angeles County,2014,12,384078 ,7.7
+Los Angeles County,2015,1,378661 ,7.6
+Los Angeles County,2015,2,373743 ,7.5
+Los Angeles County,2015,3,368044 ,7.4
+Los Angeles County,2015,4,360459 ,7.2
+Los Angeles County,2015,5,350620 ,7
+Los Angeles County,2015,6,338796 ,6.8
+Los Angeles County,2015,7,326249 ,6.6
+Los Angeles County,2015,8,314516 ,6.3
+Los Angeles County,2015,9,304363 ,6.2
+Los Angeles County,2015,10,296318 ,6
+Los Angeles County,2015,11,290344 ,5.9
+Los Angeles County,2015,12,285231 ,5.7
+Los Angeles County,2016,1,280155 ,5.6
+Los Angeles County,2016,2,275204 ,5.5
+Los Angeles County,2016,3,270476 ,5.4
+Los Angeles County,2016,4,266766 ,5.3
+Los Angeles County,2016,5,264927 ,5.3
+Los Angeles County,2016,6,264846 ,5.3
+Los Angeles County,2016,7,265750 ,5.3
+Los Angeles County,2016,8,266859 ,5.3
+Los Angeles County,2016,9,267775 ,5.3
+Los Angeles County,2016,10,267653 ,5.3
+Los Angeles County,2016,11,265769 ,5.3
+Los Angeles County,2016,12,262284 ,5.2
+Los Angeles County,2017,1,258054 ,5.1
+Los Angeles County,2017,2,253470 ,5
+Los Angeles County,2017,3,249869 ,4.9
+Los Angeles County,2017,4,247682 ,4.9
+Los Angeles County,2017,5,246395 ,4.8
+Los Angeles County,2017,6,245649 ,4.8
+Los Angeles County,2017,7,245122 ,4.8
+Los Angeles County,2017,8,244221 ,4.8
+Los Angeles County,2017,9,242911 ,4.7
+Los Angeles County,2017,10,241302 ,4.7
+Los Angeles County,2017,11,239806 ,4.7
+Los Angeles County,2017,12,238326 ,4.7
+Los Angeles County,2018,1,238193 ,4.7
+Los Angeles County,2018,2,237838 ,4.6
+Los Angeles County,2018,3,237268 ,4.6
+Los Angeles County,2018,4,236242 ,4.6
+Los Angeles County,2018,5,235217 ,4.6
+Los Angeles County,2018,6,234651 ,4.6
+Los Angeles County,2018,7,234762 ,4.6
+Los Angeles County,2018,8,235978 ,4.6
+Los Angeles County,2018,9,237961 ,4.7
+Los Angeles County,2018,10,239972 ,4.7
+Los Angeles County,2018,11,241286 ,4.7
+Los Angeles County,2018,12,241081 ,4.7
+Los Angeles County,2019,1,239018 ,4.7
+Los Angeles County,2019,2,235043 ,4.6
+Los Angeles County,2019,3,230293 ,4.5
+Los Angeles County,2019,4,225898 ,4.4
+Los Angeles County,2019,5,223084 ,4.4
+Los Angeles County,2019,6,222500 ,4.3
+Los Angeles County,2019,7,223950 ,4.4
+Los Angeles County,2019,8,226516 ,4.4
+Los Angeles County,2019,9,229109 ,4.4
+Los Angeles County,2019,10,232972 ,4.5
+Los Angeles County,2019,11,238829 ,4.6
+Los Angeles County,2019,12,247111 ,4.7
+Los Angeles County,2020,1,257361 ,4.9
+Los Angeles County,2020,2,269030 ,5.1
+Los Angeles County,2020,3,308079 ,6.2
+Los Angeles County,2020,4,835679 ,17.4
+Los Angeles County,2020,5,893052 ,18.8
+Los Angeles County,2020,6,873059 ,17.6
+Los Angeles County,2020,7,899084 ,17.8
+Los Angeles County,2020,8,855163 ,16.9
+Los Angeles County,2020,9,533020 ,11.1
+Los Angeles County,2020,10,523512 ,10.8
+Los Angeles County,2020,11,528429 ,10.9
+Los Angeles County,2020,12,540829 ,11
+Los Angeles County,2021,1,530729 ,10.8
+Los Angeles County,2021,2,525486 ,10.6
+Los Angeles County,2021,3,519289 ,10.4
+Los Angeles County,2021,4,510858 ,10.2
+Los Angeles County,2021,5,485141 ,9.7
+Los Angeles County,2021,6,478025 ,9.5
+Los Angeles County,2021,7,446583 ,8.9
+Los Angeles County,2021,8,424452 ,8.5
+Los Angeles County,2021,9,390893 ,7.8
+Los Angeles County,2021,10,370811 ,7.4
+Los Angeles County,2021,11,345503 ,6.9
+Los Angeles County,2021,12,332946 ,6.6
+Los Angeles County,2022,1,317534 ,6.3
+Los Angeles County,2022,2,288904 ,5.7
+Los Angeles County,2022,3,263863 ,5.3
+Los Angeles County,2022,4,247524 ,4.9
+Los Angeles County,2022,5,234558 ,4.7
+Los Angeles County,2022,6,224832 ,4.5
+Los Angeles County,2022,7,215015 ,4.3
+Los Angeles County,2022,8,205773 ,4.2
+Los Angeles County,2022,9,220540 ,4.5
+Los Angeles County,2022,10,230255 ,4.7
+Los Angeles County,2022,11,230575 ,4.7
+Los Angeles County,2022,12,228496 ,4.6
+Los Angeles County,2023,1,235657 ,4.8
+Los Angeles County,2023,2,244827 ,4.9
+Los Angeles County,2023,3,248006 ,5
+Los Angeles County,2023,4,247037 ,4.9
+Los Angeles County,2023,5,247687 ,5
+Los Angeles County,2023,6,248038 ,4.9
+Los Angeles County,2023,7,245699 ,4.9
+Los Angeles County,2023,8,249881 ,5
+Los Angeles County,2023,9,258609 ,5.1
+Louisiana,2014,1,118528 ,5.6
+Louisiana,2014,2,118044 ,5.6
+Louisiana,2014,3,119421 ,5.7
+Louisiana,2014,4,122679 ,5.8
+Louisiana,2014,5,127092 ,6
+Louisiana,2014,6,131995 ,6.2
+Louisiana,2014,7,136959 ,6.4
+Louisiana,2014,8,141626 ,6.6
+Louisiana,2014,9,145471 ,6.7
+Louisiana,2014,10,147811 ,6.8
+Louisiana,2014,11,148460 ,6.8
+Louisiana,2014,12,147958 ,6.8
+Louisiana,2015,1,146880 ,6.8
+Louisiana,2015,2,145551 ,6.7
+Louisiana,2015,3,143641 ,6.6
+Louisiana,2015,4,140997 ,6.5
+Louisiana,2015,5,137967 ,6.4
+Louisiana,2015,6,134893 ,6.3
+Louisiana,2015,7,131947 ,6.1
+Louisiana,2015,8,129551 ,6.1
+Louisiana,2015,9,127951 ,6
+Louisiana,2015,10,127311 ,6
+Louisiana,2015,11,127597 ,6
+Louisiana,2015,12,128237 ,6
+Louisiana,2016,1,128780 ,6
+Louisiana,2016,2,129213 ,6.1
+Louisiana,2016,3,129460 ,6.1
+Louisiana,2016,4,129733 ,6.1
+Louisiana,2016,5,130096 ,6.1
+Louisiana,2016,6,130318 ,6.1
+Louisiana,2016,7,130349 ,6.1
+Louisiana,2016,8,130152 ,6.1
+Louisiana,2016,9,129660 ,6.1
+Louisiana,2016,10,128622 ,6.1
+Louisiana,2016,11,126961 ,6
+Louisiana,2016,12,124956 ,5.9
+Louisiana,2017,1,122762 ,5.8
+Louisiana,2017,2,119943 ,5.7
+Louisiana,2017,3,116716 ,5.5
+Louisiana,2017,4,113393 ,5.4
+Louisiana,2017,5,109949 ,5.2
+Louisiana,2017,6,106725 ,5.1
+Louisiana,2017,7,104117 ,4.9
+Louisiana,2017,8,102046 ,4.8
+Louisiana,2017,9,100460 ,4.8
+Louisiana,2017,10,99434 ,4.7
+Louisiana,2017,11,99063 ,4.7
+Louisiana,2017,12,99111 ,4.7
+Louisiana,2018,1,98776 ,4.7
+Louisiana,2018,2,100171 ,4.7
+Louisiana,2018,3,102021 ,4.8
+Louisiana,2018,4,103568 ,4.9
+Louisiana,2018,5,104437 ,4.9
+Louisiana,2018,6,104427 ,4.9
+Louisiana,2018,7,103483 ,4.9
+Louisiana,2018,8,102273 ,4.9
+Louisiana,2018,9,101512 ,4.8
+Louisiana,2018,10,101227 ,4.8
+Louisiana,2018,11,100971 ,4.8
+Louisiana,2018,12,100253 ,4.8
+Louisiana,2019,1,98731 ,4.7
+Louisiana,2019,2,96344 ,4.6
+Louisiana,2019,3,93945 ,4.5
+Louisiana,2019,4,92317 ,4.4
+Louisiana,2019,5,91971 ,4.4
+Louisiana,2019,6,93125 ,4.4
+Louisiana,2019,7,95636 ,4.5
+Louisiana,2019,8,98746 ,4.7
+Louisiana,2019,9,101069 ,4.8
+Louisiana,2019,10,102226 ,4.8
+Louisiana,2019,11,102276 ,4.8
+Louisiana,2019,12,101454 ,4.8
+Louisiana,2020,1,99978 ,4.8
+Louisiana,2020,2,98178 ,4.7
+Louisiana,2020,3,141549 ,6.7
+Louisiana,2020,4,268994 ,13.5
+Louisiana,2020,5,248328 ,12.2
+Louisiana,2020,6,223705 ,11
+Louisiana,2020,7,212556 ,10.3
+Louisiana,2020,8,187834 ,9.1
+Louisiana,2020,9,180175 ,8.7
+Louisiana,2020,10,164491 ,8
+Louisiana,2020,11,157791 ,7.6
+Louisiana,2020,12,153074 ,7.4
+Louisiana,2021,1,145252 ,7
+Louisiana,2021,2,140589 ,6.8
+Louisiana,2021,3,136199 ,6.6
+Louisiana,2021,4,132218 ,6.4
+Louisiana,2021,5,126271 ,6.1
+Louisiana,2021,6,122280 ,5.9
+Louisiana,2021,7,113933 ,5.5
+Louisiana,2021,8,106854 ,5.2
+Louisiana,2021,9,98656 ,4.8
+Louisiana,2021,10,93209 ,4.5
+Louisiana,2021,11,88128 ,4.3
+Louisiana,2021,12,84676 ,4.1
+Louisiana,2022,1,83633 ,4
+Louisiana,2022,2,81031 ,3.9
+Louisiana,2022,3,78065 ,3.7
+Louisiana,2022,4,76040 ,3.6
+Louisiana,2022,5,74304 ,3.5
+Louisiana,2022,6,72971 ,3.5
+Louisiana,2022,7,72381 ,3.5
+Louisiana,2022,8,73467 ,3.5
+Louisiana,2022,9,73860 ,3.6
+Louisiana,2022,10,74868 ,3.6
+Louisiana,2022,11,74460 ,3.6
+Louisiana,2022,12,73536 ,3.5
+Louisiana,2023,1,73987 ,3.5
+Louisiana,2023,2,75871 ,3.6
+Louisiana,2023,3,75964 ,3.6
+Louisiana,2023,4,75800 ,3.6
+Louisiana,2023,5,76657 ,3.6
+Louisiana,2023,6,75389 ,3.6
+Louisiana,2023,7,70828 ,3.4
+Louisiana,2023,8,68804 ,3.3
+Louisiana,2023,9,67930 ,3.3
+Maine,2014,1,43039 ,6.1
+Maine,2014,2,42363 ,6
+Maine,2014,3,41615 ,5.9
+Maine,2014,4,40824 ,5.8
+Maine,2014,5,39966 ,5.7
+Maine,2014,6,39077 ,5.6
+Maine,2014,7,38256 ,5.5
+Maine,2014,8,37609 ,5.4
+Maine,2014,9,37084 ,5.3
+Maine,2014,10,36520 ,5.2
+Maine,2014,11,35808 ,5.2
+Maine,2014,12,34993 ,5
+Maine,2015,1,34180 ,4.9
+Maine,2015,2,33417 ,4.8
+Maine,2015,3,32638 ,4.7
+Maine,2015,4,31822 ,4.6
+Maine,2015,5,30991 ,4.5
+Maine,2015,6,30157 ,4.4
+Maine,2015,7,29379 ,4.3
+Maine,2015,8,28722 ,4.2
+Maine,2015,9,28187 ,4.1
+Maine,2015,10,27820 ,4.1
+Maine,2015,11,27646 ,4
+Maine,2015,12,27555 ,4
+Maine,2016,1,27421 ,4
+Maine,2016,2,27220 ,3.9
+Maine,2016,3,26950 ,3.9
+Maine,2016,4,26659 ,3.9
+Maine,2016,5,26422 ,3.8
+Maine,2016,6,26248 ,3.8
+Maine,2016,7,26087 ,3.8
+Maine,2016,8,25930 ,3.7
+Maine,2016,9,25808 ,3.7
+Maine,2016,10,25616 ,3.7
+Maine,2016,11,25249 ,3.6
+Maine,2016,12,24784 ,3.5
+Maine,2017,1,24423 ,3.5
+Maine,2017,2,24139 ,3.4
+Maine,2017,3,24006 ,3.4
+Maine,2017,4,23993 ,3.4
+Maine,2017,5,24021 ,3.4
+Maine,2017,6,24082 ,3.4
+Maine,2017,7,24144 ,3.4
+Maine,2017,8,24062 ,3.4
+Maine,2017,9,23754 ,3.4
+Maine,2017,10,23216 ,3.3
+Maine,2017,11,22525 ,3.2
+Maine,2017,12,21754 ,3.1
+Maine,2018,1,21422 ,3.1
+Maine,2018,2,21082 ,3
+Maine,2018,3,21072 ,3
+Maine,2018,4,21352 ,3
+Maine,2018,5,21850 ,3.1
+Maine,2018,6,22395 ,3.2
+Maine,2018,7,22861 ,3.3
+Maine,2018,8,23246 ,3.3
+Maine,2018,9,23479 ,3.3
+Maine,2018,10,23456 ,3.3
+Maine,2018,11,23137 ,3.3
+Maine,2018,12,22545 ,3.2
+Maine,2019,1,21770 ,3.1
+Maine,2019,2,20869 ,3
+Maine,2019,3,19967 ,2.9
+Maine,2019,4,19242 ,2.8
+Maine,2019,5,18852 ,2.7
+Maine,2019,6,18901 ,2.7
+Maine,2019,7,19365 ,2.8
+Maine,2019,8,20047 ,2.9
+Maine,2019,9,20713 ,3
+Maine,2019,10,21366 ,3.1
+Maine,2019,11,21956 ,3.1
+Maine,2019,12,22355 ,3.2
+Maine,2020,1,22449 ,3.2
+Maine,2020,2,22340 ,3.2
+Maine,2020,3,22109 ,3.2
+Maine,2020,4,60721 ,9.3
+Maine,2020,5,63272 ,9.4
+Maine,2020,6,43111 ,6.6
+Maine,2020,7,41720 ,6.3
+Maine,2020,8,27383 ,4.2
+Maine,2020,9,26840 ,4.1
+Maine,2020,10,25509 ,3.8
+Maine,2020,11,26316 ,3.9
+Maine,2020,12,28270 ,4.2
+Maine,2021,1,29560 ,4.4
+Maine,2021,2,31368 ,4.6
+Maine,2021,3,32541 ,4.8
+Maine,2021,4,33678 ,4.9
+Maine,2021,5,33254 ,4.8
+Maine,2021,6,34120 ,5
+Maine,2021,7,33411 ,4.9
+Maine,2021,8,32984 ,4.8
+Maine,2021,9,31771 ,4.6
+Maine,2021,10,30779 ,4.5
+Maine,2021,11,28771 ,4.2
+Maine,2021,12,26876 ,3.9
+Maine,2022,1,24776 ,3.6
+Maine,2022,2,21890 ,3.2
+Maine,2022,3,19471 ,2.9
+Maine,2022,4,18252 ,2.7
+Maine,2022,5,17702 ,2.6
+Maine,2022,6,17681 ,2.6
+Maine,2022,7,18007 ,2.7
+Maine,2022,8,18321 ,2.7
+Maine,2022,9,19951 ,3
+Maine,2022,10,20909 ,3.1
+Maine,2022,11,20800 ,3.1
+Maine,2022,12,20517 ,3.1
+Maine,2023,1,19702 ,2.9
+Maine,2023,2,18841 ,2.8
+Maine,2023,3,17633 ,2.6
+Maine,2023,4,16518 ,2.4
+Maine,2023,5,16119 ,2.4
+Maine,2023,6,16055 ,2.4
+Maine,2023,7,16288 ,2.4
+Maine,2023,8,17148 ,2.5
+Maine,2023,9,18192 ,2.7
+Maryland,2014,1,188921 ,6.1
+Maryland,2014,2,186418 ,6
+Maryland,2014,3,184546 ,5.9
+Maryland,2014,4,183387 ,5.9
+Maryland,2014,5,182164 ,5.8
+Maryland,2014,6,180399 ,5.8
+Maryland,2014,7,178373 ,5.7
+Maryland,2014,8,176527 ,5.6
+Maryland,2014,9,174919 ,5.6
+Maryland,2014,10,173238 ,5.5
+Maryland,2014,11,171333 ,5.5
+Maryland,2014,12,169567 ,5.4
+Maryland,2015,1,168090 ,5.4
+Maryland,2015,2,166731 ,5.3
+Maryland,2015,3,164939 ,5.3
+Maryland,2015,4,162619 ,5.2
+Maryland,2015,5,160083 ,5.1
+Maryland,2015,6,157614 ,5
+Maryland,2015,7,155397 ,4.9
+Maryland,2015,8,153330 ,4.9
+Maryland,2015,9,151107 ,4.8
+Maryland,2015,10,148724 ,4.7
+Maryland,2015,11,146346 ,4.7
+Maryland,2015,12,143924 ,4.6
+Maryland,2016,1,141377 ,4.5
+Maryland,2016,2,138967 ,4.4
+Maryland,2016,3,136861 ,4.3
+Maryland,2016,4,135297 ,4.3
+Maryland,2016,5,134399 ,4.3
+Maryland,2016,6,134024 ,4.3
+Maryland,2016,7,133894 ,4.2
+Maryland,2016,8,134004 ,4.2
+Maryland,2016,9,134417 ,4.3
+Maryland,2016,10,134664 ,4.3
+Maryland,2016,11,134378 ,4.2
+Maryland,2016,12,133556 ,4.2
+Maryland,2017,1,131880 ,4.1
+Maryland,2017,2,129578 ,4
+Maryland,2017,3,127668 ,4
+Maryland,2017,4,126563 ,3.9
+Maryland,2017,5,126327 ,3.9
+Maryland,2017,6,127023 ,3.9
+Maryland,2017,7,128546 ,4
+Maryland,2017,8,130307 ,4
+Maryland,2017,9,131800 ,4
+Maryland,2017,10,132578 ,4.1
+Maryland,2017,11,132339 ,4.1
+Maryland,2017,12,130558 ,4
+Maryland,2018,1,132961 ,4.1
+Maryland,2018,2,131063 ,4
+Maryland,2018,3,128984 ,4
+Maryland,2018,4,127041 ,3.9
+Maryland,2018,5,125478 ,3.8
+Maryland,2018,6,124073 ,3.8
+Maryland,2018,7,122548 ,3.7
+Maryland,2018,8,121206 ,3.7
+Maryland,2018,9,120443 ,3.7
+Maryland,2018,10,120258 ,3.7
+Maryland,2018,11,120401 ,3.7
+Maryland,2018,12,120284 ,3.7
+Maryland,2019,1,119334 ,3.6
+Maryland,2019,2,117340 ,3.5
+Maryland,2019,3,115028 ,3.5
+Maryland,2019,4,113111 ,3.4
+Maryland,2019,5,112062 ,3.4
+Maryland,2019,6,111987 ,3.4
+Maryland,2019,7,112523 ,3.4
+Maryland,2019,8,112733 ,3.4
+Maryland,2019,9,111487 ,3.3
+Maryland,2019,10,109650 ,3.3
+Maryland,2019,11,108666 ,3.2
+Maryland,2019,12,109985 ,3.3
+Maryland,2020,1,113533 ,3.4
+Maryland,2020,2,117385 ,3.5
+Maryland,2020,3,118952 ,3.5
+Maryland,2020,4,289469 ,9
+Maryland,2020,5,283480 ,8.8
+Maryland,2020,6,257685 ,8.1
+Maryland,2020,7,249657 ,7.8
+Maryland,2020,8,228397 ,7.1
+Maryland,2020,9,225594 ,7
+Maryland,2020,10,213457 ,6.7
+Maryland,2020,11,210466 ,6.6
+Maryland,2020,12,212948 ,6.7
+Maryland,2021,1,202505 ,6.4
+Maryland,2021,2,195408 ,6.2
+Maryland,2021,3,190616 ,6
+Maryland,2021,4,185908 ,5.9
+Maryland,2021,5,180590 ,5.7
+Maryland,2021,6,181807 ,5.7
+Maryland,2021,7,173453 ,5.5
+Maryland,2021,8,166899 ,5.3
+Maryland,2021,9,152279 ,4.8
+Maryland,2021,10,141993 ,4.5
+Maryland,2021,11,129764 ,4.1
+Maryland,2021,12,117427 ,3.7
+Maryland,2022,1,115904 ,3.7
+Maryland,2022,2,107627 ,3.4
+Maryland,2022,3,102073 ,3.2
+Maryland,2022,4,98326 ,3.1
+Maryland,2022,5,99624 ,3.1
+Maryland,2022,6,101608 ,3.2
+Maryland,2022,7,102428 ,3.2
+Maryland,2022,8,106600 ,3.4
+Maryland,2022,9,101843 ,3.2
+Maryland,2022,10,102898 ,3.2
+Maryland,2022,11,99232 ,3.1
+Maryland,2022,12,95998 ,3
+Maryland,2023,1,94030 ,3
+Maryland,2023,2,92348 ,2.9
+Maryland,2023,3,86288 ,2.7
+Maryland,2023,4,78785 ,2.5
+Maryland,2023,5,75496 ,2.4
+Maryland,2023,6,65293 ,2
+Maryland,2023,7,58092 ,1.8
+Maryland,2023,8,54778 ,1.7
+Maryland,2023,9,52700 ,1.6
+Massachusetts,2014,1,218644 ,6.2
+Massachusetts,2014,2,215582 ,6.1
+Massachusetts,2014,3,212817 ,6
+Massachusetts,2014,4,210516 ,5.9
+Massachusetts,2014,5,208365 ,5.9
+Massachusetts,2014,6,206265 ,5.8
+Massachusetts,2014,7,204230 ,5.7
+Massachusetts,2014,8,202226 ,5.6
+Massachusetts,2014,9,200007 ,5.6
+Massachusetts,2014,10,196956 ,5.5
+Massachusetts,2014,11,193030 ,5.4
+Massachusetts,2014,12,189040 ,5.2
+Massachusetts,2015,1,185582 ,5.2
+Massachusetts,2015,2,182900 ,5.1
+Massachusetts,2015,3,180571 ,5
+Massachusetts,2015,4,178181 ,5
+Massachusetts,2015,5,175564 ,4.9
+Massachusetts,2015,6,172706 ,4.8
+Massachusetts,2015,7,169934 ,4.7
+Massachusetts,2015,8,167528 ,4.7
+Massachusetts,2015,9,165298 ,4.6
+Massachusetts,2015,10,163234 ,4.6
+Massachusetts,2015,11,161433 ,4.5
+Massachusetts,2015,12,159517 ,4.4
+Massachusetts,2016,1,157185 ,4.4
+Massachusetts,2016,2,154522 ,4.3
+Massachusetts,2016,3,151628 ,4.2
+Massachusetts,2016,4,148855 ,4.1
+Massachusetts,2016,5,146484 ,4.1
+Massachusetts,2016,6,144463 ,4
+Massachusetts,2016,7,142625 ,3.9
+Massachusetts,2016,8,141158 ,3.9
+Massachusetts,2016,9,140483 ,3.9
+Massachusetts,2016,10,140404 ,3.9
+Massachusetts,2016,11,140448 ,3.9
+Massachusetts,2016,12,140499 ,3.9
+Massachusetts,2017,1,141980 ,3.8
+Massachusetts,2017,2,142148 ,3.8
+Massachusetts,2017,3,142380 ,3.8
+Massachusetts,2017,4,142654 ,3.8
+Massachusetts,2017,5,142796 ,3.8
+Massachusetts,2017,6,142872 ,3.8
+Massachusetts,2017,7,142975 ,3.8
+Massachusetts,2017,8,142820 ,3.8
+Massachusetts,2017,9,142303 ,3.8
+Massachusetts,2017,10,141496 ,3.8
+Massachusetts,2017,11,140597 ,3.8
+Massachusetts,2017,12,139482 ,3.7
+Massachusetts,2018,1,139685 ,3.7
+Massachusetts,2018,2,138745 ,3.7
+Massachusetts,2018,3,137802 ,3.6
+Massachusetts,2018,4,136674 ,3.6
+Massachusetts,2018,5,135378 ,3.5
+Massachusetts,2018,6,133804 ,3.5
+Massachusetts,2018,7,131873 ,3.4
+Massachusetts,2018,8,130045 ,3.4
+Massachusetts,2018,9,128660 ,3.4
+Massachusetts,2018,10,127640 ,3.3
+Massachusetts,2018,11,126776 ,3.3
+Massachusetts,2018,12,125845 ,3.3
+Massachusetts,2019,1,124627 ,3.2
+Massachusetts,2019,2,122828 ,3.2
+Massachusetts,2019,3,120717 ,3.1
+Massachusetts,2019,4,118604 ,3.1
+Massachusetts,2019,5,116788 ,3
+Massachusetts,2019,6,115503 ,3
+Massachusetts,2019,7,114721 ,3
+Massachusetts,2019,8,114043 ,3
+Massachusetts,2019,9,112879 ,2.9
+Massachusetts,2019,10,111663 ,2.9
+Massachusetts,2019,11,110624 ,2.9
+Massachusetts,2019,12,109599 ,2.9
+Massachusetts,2020,1,108302 ,2.8
+Massachusetts,2020,2,106590 ,2.8
+Massachusetts,2020,3,104070 ,2.8
+Massachusetts,2020,4,586568 ,16.9
+Massachusetts,2020,5,576940 ,15.5
+Massachusetts,2020,6,543025 ,14.4
+Massachusetts,2020,7,479861 ,12.7
+Massachusetts,2020,8,397742 ,10.6
+Massachusetts,2020,9,377001 ,10
+Massachusetts,2020,10,327709 ,8.7
+Massachusetts,2020,11,306876 ,8.1
+Massachusetts,2020,12,293392 ,7.8
+Massachusetts,2021,1,265972 ,7.1
+Massachusetts,2021,2,251647 ,6.7
+Massachusetts,2021,3,239178 ,6.4
+Massachusetts,2021,4,234984 ,6.3
+Massachusetts,2021,5,218247 ,5.8
+Massachusetts,2021,6,219832 ,5.8
+Massachusetts,2021,7,204830 ,5.5
+Massachusetts,2021,8,195007 ,5.2
+Massachusetts,2021,9,180343 ,4.8
+Massachusetts,2021,10,172108 ,4.6
+Massachusetts,2021,11,157530 ,4.2
+Massachusetts,2021,12,147203 ,3.9
+Massachusetts,2022,1,151981 ,4
+Massachusetts,2022,2,145757 ,3.9
+Massachusetts,2022,3,138297 ,3.7
+Massachusetts,2022,4,139280 ,3.7
+Massachusetts,2022,5,140265 ,3.7
+Massachusetts,2022,6,140063 ,3.7
+Massachusetts,2022,7,137138 ,3.7
+Massachusetts,2022,8,145049 ,3.9
+Massachusetts,2022,9,136845 ,3.7
+Massachusetts,2022,10,141226 ,3.8
+Massachusetts,2022,11,139578 ,3.7
+Massachusetts,2022,12,136827 ,3.7
+Massachusetts,2023,1,132399 ,3.5
+Massachusetts,2023,2,137140 ,3.7
+Massachusetts,2023,3,132353 ,3.5
+Massachusetts,2023,4,114775 ,3.1
+Massachusetts,2023,5,105553 ,2.8
+Massachusetts,2023,6,96017 ,2.6
+Massachusetts,2023,7,91874 ,2.5
+Massachusetts,2023,8,98262 ,2.6
+Massachusetts,2023,9,96710 ,2.6
+Michigan,2014,1,385124 ,8.1
+Michigan,2014,2,379497 ,8
+Michigan,2014,3,373542 ,7.9
+Michigan,2014,4,366868 ,7.7
+Michigan,2014,5,358978 ,7.5
+Michigan,2014,6,349995 ,7.4
+Michigan,2014,7,340565 ,7.2
+Michigan,2014,8,331756 ,7
+Michigan,2014,9,323429 ,6.8
+Michigan,2014,10,314365 ,6.6
+Michigan,2014,11,304090 ,6.4
+Michigan,2014,12,293977 ,6.2
+Michigan,2015,1,285638 ,6
+Michigan,2015,2,279517 ,5.9
+Michigan,2015,3,274998 ,5.8
+Michigan,2015,4,270994 ,5.7
+Michigan,2015,5,266368 ,5.6
+Michigan,2015,6,260797 ,5.5
+Michigan,2015,7,254688 ,5.4
+Michigan,2015,8,248601 ,5.2
+Michigan,2015,9,242954 ,5.1
+Michigan,2015,10,238844 ,5
+Michigan,2015,11,236907 ,5
+Michigan,2015,12,236513 ,4.9
+Michigan,2016,1,236861 ,4.9
+Michigan,2016,2,237799 ,4.9
+Michigan,2016,3,239094 ,5
+Michigan,2016,4,240439 ,5
+Michigan,2016,5,241668 ,5
+Michigan,2016,6,242769 ,5
+Michigan,2016,7,243666 ,5
+Michigan,2016,8,244496 ,5
+Michigan,2016,9,245933 ,5.1
+Michigan,2016,10,247234 ,5.1
+Michigan,2016,11,246798 ,5.1
+Michigan,2016,12,243516 ,5
+Michigan,2017,1,237330 ,4.8
+Michigan,2017,2,227976 ,4.7
+Michigan,2017,3,218871 ,4.5
+Michigan,2017,4,212976 ,4.3
+Michigan,2017,5,211936 ,4.3
+Michigan,2017,6,215330 ,4.4
+Michigan,2017,7,221811 ,4.5
+Michigan,2017,8,228785 ,4.6
+Michigan,2017,9,233612 ,4.7
+Michigan,2017,10,234842 ,4.8
+Michigan,2017,11,232853 ,4.7
+Michigan,2017,12,228275 ,4.6
+Michigan,2018,1,222742 ,4.5
+Michigan,2018,2,216774 ,4.4
+Michigan,2018,3,210816 ,4.3
+Michigan,2018,4,204892 ,4.1
+Michigan,2018,5,200016 ,4
+Michigan,2018,6,197425 ,4
+Michigan,2018,7,197187 ,4
+Michigan,2018,8,199010 ,4
+Michigan,2018,9,202010 ,4.1
+Michigan,2018,10,205267 ,4.1
+Michigan,2018,11,208244 ,4.2
+Michigan,2018,12,210045 ,4.2
+Michigan,2019,1,209935 ,4.2
+Michigan,2019,2,207980 ,4.2
+Michigan,2019,3,205819 ,4.1
+Michigan,2019,4,204677 ,4.1
+Michigan,2019,5,204592 ,4.1
+Michigan,2019,6,205230 ,4.1
+Michigan,2019,7,205987 ,4.1
+Michigan,2019,8,205973 ,4.1
+Michigan,2019,9,203347 ,4.1
+Michigan,2019,10,198466 ,4
+Michigan,2019,11,192822 ,3.9
+Michigan,2019,12,188805 ,3.8
+Michigan,2020,1,187680 ,3.8
+Michigan,2020,2,187291 ,3.8
+Michigan,2020,3,183743 ,3.7
+Michigan,2020,4,1031351 ,22.6
+Michigan,2020,5,934788 ,19.1
+Michigan,2020,6,724261 ,14.4
+Michigan,2020,7,616610 ,12.4
+Michigan,2020,8,480862 ,9.9
+Michigan,2020,9,425733 ,8.7
+Michigan,2020,10,363671 ,7.5
+Michigan,2020,11,341909 ,7.1
+Michigan,2020,12,331043 ,7
+Michigan,2021,1,310092 ,6.5
+Michigan,2021,2,302658 ,6.4
+Michigan,2021,3,297241 ,6.2
+Michigan,2021,4,296776 ,6.2
+Michigan,2021,5,295067 ,6.2
+Michigan,2021,6,298579 ,6.2
+Michigan,2021,7,294436 ,6.2
+Michigan,2021,8,284696 ,5.9
+Michigan,2021,9,268649 ,5.6
+Michigan,2021,10,251631 ,5.3
+Michigan,2021,11,234650 ,4.9
+Michigan,2021,12,220449 ,4.6
+Michigan,2022,1,210168 ,4.4
+Michigan,2022,2,201803 ,4.2
+Michigan,2022,3,196020 ,4.1
+Michigan,2022,4,192590 ,4
+Michigan,2022,5,191817 ,4
+Michigan,2022,6,194213 ,4
+Michigan,2022,7,199612 ,4.1
+Michigan,2022,8,205966 ,4.3
+Michigan,2022,9,210187 ,4.3
+Michigan,2022,10,211726 ,4.4
+Michigan,2022,11,210410 ,4.4
+Michigan,2022,12,209071 ,4.3
+Michigan,2023,1,208935 ,4.3
+Michigan,2023,2,207045 ,4.3
+Michigan,2023,3,199692 ,4.1
+Michigan,2023,4,186320 ,3.8
+Michigan,2023,5,179275 ,3.7
+Michigan,2023,6,176034 ,3.6
+Michigan,2023,7,176898 ,3.6
+Michigan,2023,8,183249 ,3.7
+Michigan,2023,9,192395 ,3.9
+Minnesota,2014,1,139392 ,4.7
+Minnesota,2014,2,137955 ,4.6
+Minnesota,2014,3,136017 ,4.6
+Minnesota,2014,4,133498 ,4.5
+Minnesota,2014,5,130376 ,4.4
+Minnesota,2014,6,127070 ,4.3
+Minnesota,2014,7,124181 ,4.2
+Minnesota,2014,8,122093 ,4.1
+Minnesota,2014,9,120691 ,4
+Minnesota,2014,10,119523 ,4
+Minnesota,2014,11,118073 ,3.9
+Minnesota,2014,12,116437 ,3.9
+Minnesota,2015,1,115021 ,3.8
+Minnesota,2015,2,114168 ,3.8
+Minnesota,2015,3,113849 ,3.8
+Minnesota,2015,4,113788 ,3.8
+Minnesota,2015,5,113792 ,3.8
+Minnesota,2015,6,113684 ,3.8
+Minnesota,2015,7,113417 ,3.8
+Minnesota,2015,8,113128 ,3.8
+Minnesota,2015,9,112831 ,3.8
+Minnesota,2015,10,112830 ,3.7
+Minnesota,2015,11,113369 ,3.8
+Minnesota,2015,12,114090 ,3.8
+Minnesota,2016,1,114537 ,3.8
+Minnesota,2016,2,114674 ,3.8
+Minnesota,2016,3,114609 ,3.8
+Minnesota,2016,4,114612 ,3.8
+Minnesota,2016,5,114990 ,3.8
+Minnesota,2016,6,115790 ,3.8
+Minnesota,2016,7,116911 ,3.9
+Minnesota,2016,8,118200 ,3.9
+Minnesota,2016,9,119493 ,4
+Minnesota,2016,10,120148 ,4
+Minnesota,2016,11,119620 ,4
+Minnesota,2016,12,117997 ,3.9
+Minnesota,2017,1,117501 ,3.8
+Minnesota,2017,2,114379 ,3.7
+Minnesota,2017,3,111304 ,3.6
+Minnesota,2017,4,108906 ,3.5
+Minnesota,2017,5,107191 ,3.5
+Minnesota,2017,6,106114 ,3.5
+Minnesota,2017,7,105636 ,3.4
+Minnesota,2017,8,105197 ,3.4
+Minnesota,2017,9,104532 ,3.4
+Minnesota,2017,10,103486 ,3.4
+Minnesota,2017,11,102260 ,3.3
+Minnesota,2017,12,100870 ,3.3
+Minnesota,2018,1,95722 ,3.1
+Minnesota,2018,2,94189 ,3.1
+Minnesota,2018,3,92605 ,3
+Minnesota,2018,4,90919 ,3
+Minnesota,2018,5,89608 ,2.9
+Minnesota,2018,6,88891 ,2.9
+Minnesota,2018,7,88682 ,2.9
+Minnesota,2018,8,89500 ,2.9
+Minnesota,2018,9,91631 ,3
+Minnesota,2018,10,94661 ,3.1
+Minnesota,2018,11,97824 ,3.2
+Minnesota,2018,12,100204 ,3.2
+Minnesota,2019,1,101338 ,3.3
+Minnesota,2019,2,101120 ,3.3
+Minnesota,2019,3,100125 ,3.2
+Minnesota,2019,4,98926 ,3.2
+Minnesota,2019,5,98031 ,3.2
+Minnesota,2019,6,98037 ,3.2
+Minnesota,2019,7,99241 ,3.2
+Minnesota,2019,8,100995 ,3.2
+Minnesota,2019,9,101972 ,3.3
+Minnesota,2019,10,102489 ,3.3
+Minnesota,2019,11,103277 ,3.3
+Minnesota,2019,12,104830 ,3.3
+Minnesota,2020,1,107180 ,3.4
+Minnesota,2020,2,110126 ,3.5
+Minnesota,2020,3,112603 ,3.6
+Minnesota,2020,4,267853 ,8.8
+Minnesota,2020,5,343579 ,11.1
+Minnesota,2020,6,279164 ,8.6
+Minnesota,2020,7,249426 ,7.8
+Minnesota,2020,8,214323 ,6.8
+Minnesota,2020,9,195644 ,6.2
+Minnesota,2020,10,172136 ,5.5
+Minnesota,2020,11,158966 ,5.1
+Minnesota,2020,12,149198 ,4.8
+Minnesota,2021,1,136864 ,4.5
+Minnesota,2021,2,129483 ,4.3
+Minnesota,2021,3,125033 ,4.1
+Minnesota,2021,4,122383 ,4
+Minnesota,2021,5,119207 ,3.9
+Minnesota,2021,6,117875 ,3.9
+Minnesota,2021,7,115424 ,3.8
+Minnesota,2021,8,112650 ,3.7
+Minnesota,2021,9,108544 ,3.6
+Minnesota,2021,10,104167 ,3.4
+Minnesota,2021,11,98065 ,3.2
+Minnesota,2021,12,91364 ,3
+Minnesota,2022,1,84678 ,2.8
+Minnesota,2022,2,78404 ,2.6
+Minnesota,2022,3,74072 ,2.4
+Minnesota,2022,4,72078 ,2.3
+Minnesota,2022,5,72474 ,2.4
+Minnesota,2022,6,74799 ,2.4
+Minnesota,2022,7,79096 ,2.6
+Minnesota,2022,8,84158 ,2.7
+Minnesota,2022,9,88354 ,2.9
+Minnesota,2022,10,91263 ,3
+Minnesota,2022,11,91479 ,3
+Minnesota,2022,12,90924 ,2.9
+Minnesota,2023,1,89970 ,2.9
+Minnesota,2023,2,91023 ,3
+Minnesota,2023,3,87571 ,2.8
+Minnesota,2023,4,87694 ,2.8
+Minnesota,2023,5,89182 ,2.9
+Minnesota,2023,6,90709 ,2.9
+Minnesota,2023,7,93623 ,3
+Minnesota,2023,8,97053 ,3.1
+Minnesota,2023,9,97861 ,3.1
+Mississippi,2014,1,100442 ,8.1
+Mississippi,2014,2,99686 ,8
+Mississippi,2014,3,99021 ,7.9
+Mississippi,2014,4,98253 ,7.9
+Mississippi,2014,5,97242 ,7.8
+Mississippi,2014,6,95928 ,7.7
+Mississippi,2014,7,94461 ,7.6
+Mississippi,2014,8,93067 ,7.5
+Mississippi,2014,9,91659 ,7.4
+Mississippi,2014,10,89994 ,7.2
+Mississippi,2014,11,88044 ,7.1
+Mississippi,2014,12,86291 ,6.9
+Mississippi,2015,1,85000 ,6.8
+Mississippi,2015,2,84190 ,6.7
+Mississippi,2015,3,83567 ,6.7
+Mississippi,2015,4,82870 ,6.6
+Mississippi,2015,5,81953 ,6.5
+Mississippi,2015,6,80858 ,6.4
+Mississippi,2015,7,80033 ,6.3
+Mississippi,2015,8,79748 ,6.3
+Mississippi,2015,9,79926 ,6.3
+Mississippi,2015,10,80386 ,6.4
+Mississippi,2015,11,80805 ,6.4
+Mississippi,2015,12,80694 ,6.4
+Mississippi,2016,1,79889 ,6.3
+Mississippi,2016,2,78647 ,6.2
+Mississippi,2016,3,77255 ,6.1
+Mississippi,2016,4,76111 ,6
+Mississippi,2016,5,75540 ,6
+Mississippi,2016,6,75496 ,5.9
+Mississippi,2016,7,75506 ,5.9
+Mississippi,2016,8,75459 ,5.9
+Mississippi,2016,9,75372 ,5.9
+Mississippi,2016,10,75001 ,5.9
+Mississippi,2016,11,74185 ,5.8
+Mississippi,2016,12,73015 ,5.7
+Mississippi,2017,1,71516 ,5.6
+Mississippi,2017,2,70139 ,5.5
+Mississippi,2017,3,69105 ,5.4
+Mississippi,2017,4,68435 ,5.4
+Mississippi,2017,5,67850 ,5.3
+Mississippi,2017,6,67262 ,5.3
+Mississippi,2017,7,66675 ,5.2
+Mississippi,2017,8,65721 ,5.2
+Mississippi,2017,9,64531 ,5.1
+Mississippi,2017,10,63450 ,5
+Mississippi,2017,11,62633 ,4.9
+Mississippi,2017,12,62128 ,4.9
+Mississippi,2018,1,61845 ,4.9
+Mississippi,2018,2,61974 ,4.9
+Mississippi,2018,3,62084 ,4.9
+Mississippi,2018,4,62052 ,4.9
+Mississippi,2018,5,61886 ,4.9
+Mississippi,2018,6,61555 ,4.8
+Mississippi,2018,7,61263 ,4.8
+Mississippi,2018,8,61531 ,4.9
+Mississippi,2018,9,62540 ,4.9
+Mississippi,2018,10,64054 ,5.1
+Mississippi,2018,11,65857 ,5.2
+Mississippi,2018,12,67369 ,5.3
+Mississippi,2019,1,68218 ,5.4
+Mississippi,2019,2,68423 ,5.4
+Mississippi,2019,3,68431 ,5.4
+Mississippi,2019,4,68629 ,5.4
+Mississippi,2019,5,69272 ,5.4
+Mississippi,2019,6,70415 ,5.5
+Mississippi,2019,7,71810 ,5.6
+Mississippi,2019,8,72860 ,5.7
+Mississippi,2019,9,72815 ,5.7
+Mississippi,2019,10,72068 ,5.6
+Mississippi,2019,11,71335 ,5.6
+Mississippi,2019,12,71252 ,5.6
+Mississippi,2020,1,72083 ,5.6
+Mississippi,2020,2,73531 ,5.8
+Mississippi,2020,3,74915 ,5.9
+Mississippi,2020,4,188083 ,15.6
+Mississippi,2020,5,136488 ,11.2
+Mississippi,2020,6,114928 ,9.4
+Mississippi,2020,7,102681 ,8.3
+Mississippi,2020,8,92446 ,7.5
+Mississippi,2020,9,89053 ,7.1
+Mississippi,2020,10,85805 ,6.9
+Mississippi,2020,11,84302 ,6.7
+Mississippi,2020,12,83149 ,6.6
+Mississippi,2021,1,81497 ,6.5
+Mississippi,2021,2,79877 ,6.4
+Mississippi,2021,3,78123 ,6.2
+Mississippi,2021,4,76346 ,6.1
+Mississippi,2021,5,74258 ,5.9
+Mississippi,2021,6,71934 ,5.7
+Mississippi,2021,7,68967 ,5.5
+Mississippi,2021,8,65505 ,5.2
+Mississippi,2021,9,62146 ,5
+Mississippi,2021,10,59078 ,4.7
+Mississippi,2021,11,56308 ,4.5
+Mississippi,2021,12,53876 ,4.3
+Mississippi,2022,1,51774 ,4.1
+Mississippi,2022,2,49870 ,4
+Mississippi,2022,3,48186 ,3.8
+Mississippi,2022,4,46839 ,3.7
+Mississippi,2022,5,46138 ,3.7
+Mississippi,2022,6,46317 ,3.7
+Mississippi,2022,7,47406 ,3.8
+Mississippi,2022,8,48793 ,3.9
+Mississippi,2022,9,49799 ,4
+Mississippi,2022,10,50337 ,4.1
+Mississippi,2022,11,50302 ,4.1
+Mississippi,2022,12,50106 ,4
+Mississippi,2023,1,48658 ,3.9
+Mississippi,2023,2,46510 ,3.7
+Mississippi,2023,3,44011 ,3.5
+Mississippi,2023,4,41923 ,3.4
+Mississippi,2023,5,39899 ,3.2
+Mississippi,2023,6,38353 ,3.1
+Mississippi,2023,7,37695 ,3
+Mississippi,2023,8,39159 ,3.2
+Mississippi,2023,9,39634 ,3.2
+Missouri,2014,1,200859 ,6.6
+Missouri,2014,2,200300 ,6.6
+Missouri,2014,3,198372 ,6.5
+Missouri,2014,4,195353 ,6.4
+Missouri,2014,5,191594 ,6.3
+Missouri,2014,6,187667 ,6.2
+Missouri,2014,7,184146 ,6.1
+Missouri,2014,8,181338 ,6
+Missouri,2014,9,179060 ,5.9
+Missouri,2014,10,176706 ,5.8
+Missouri,2014,11,174385 ,5.7
+Missouri,2014,12,172739 ,5.7
+Missouri,2015,1,171726 ,5.6
+Missouri,2015,2,170997 ,5.6
+Missouri,2015,3,169755 ,5.6
+Missouri,2015,4,167265 ,5.5
+Missouri,2015,5,163416 ,5.3
+Missouri,2015,6,158767 ,5.2
+Missouri,2015,7,153952 ,5
+Missouri,2015,8,149520 ,4.9
+Missouri,2015,9,145637 ,4.8
+Missouri,2015,10,142488 ,4.7
+Missouri,2015,11,140205 ,4.6
+Missouri,2015,12,138416 ,4.5
+Missouri,2016,1,137029 ,4.5
+Missouri,2016,2,136309 ,4.4
+Missouri,2016,3,136552 ,4.4
+Missouri,2016,4,138035 ,4.5
+Missouri,2016,5,140542 ,4.6
+Missouri,2016,6,143163 ,4.7
+Missouri,2016,7,144920 ,4.7
+Missouri,2016,8,145217 ,4.7
+Missouri,2016,9,143982 ,4.7
+Missouri,2016,10,141162 ,4.6
+Missouri,2016,11,136947 ,4.5
+Missouri,2016,12,132212 ,4.3
+Missouri,2017,1,128005 ,4.2
+Missouri,2017,2,124093 ,4.1
+Missouri,2017,3,120494 ,3.9
+Missouri,2017,4,117254 ,3.8
+Missouri,2017,5,114286 ,3.7
+Missouri,2017,6,111880 ,3.7
+Missouri,2017,7,110345 ,3.6
+Missouri,2017,8,109535 ,3.6
+Missouri,2017,9,109146 ,3.6
+Missouri,2017,10,108808 ,3.6
+Missouri,2017,11,108315 ,3.6
+Missouri,2017,12,107290 ,3.5
+Missouri,2018,1,108267 ,3.6
+Missouri,2018,2,106474 ,3.5
+Missouri,2018,3,103952 ,3.4
+Missouri,2018,4,100788 ,3.3
+Missouri,2018,5,97697 ,3.2
+Missouri,2018,6,95110 ,3.1
+Missouri,2018,7,93293 ,3.1
+Missouri,2018,8,92686 ,3
+Missouri,2018,9,93378 ,3.1
+Missouri,2018,10,95135 ,3.1
+Missouri,2018,11,97379 ,3.2
+Missouri,2018,12,99378 ,3.3
+Missouri,2019,1,100430 ,3.3
+Missouri,2019,2,99983 ,3.3
+Missouri,2019,3,98198 ,3.2
+Missouri,2019,4,95649 ,3.1
+Missouri,2019,5,93363 ,3
+Missouri,2019,6,92558 ,3
+Missouri,2019,7,93876 ,3.1
+Missouri,2019,8,97026 ,3.2
+Missouri,2019,9,100520 ,3.3
+Missouri,2019,10,103196 ,3.3
+Missouri,2019,11,104135 ,3.4
+Missouri,2019,12,103400 ,3.3
+Missouri,2020,1,102599 ,3.3
+Missouri,2020,2,104154 ,3.4
+Missouri,2020,3,108934 ,3.5
+Missouri,2020,4,335026 ,11.4
+Missouri,2020,5,272676 ,9.5
+Missouri,2020,6,237046 ,8
+Missouri,2020,7,220959 ,7.2
+Missouri,2020,8,198094 ,6.4
+Missouri,2020,9,183780 ,6
+Missouri,2020,10,166405 ,5.4
+Missouri,2020,11,157606 ,5.2
+Missouri,2020,12,153418 ,5
+Missouri,2021,1,148738 ,4.9
+Missouri,2021,2,146357 ,4.8
+Missouri,2021,3,143638 ,4.7
+Missouri,2021,4,139728 ,4.6
+Missouri,2021,5,133923 ,4.4
+Missouri,2021,6,128713 ,4.2
+Missouri,2021,7,122773 ,4
+Missouri,2021,8,117208 ,3.8
+Missouri,2021,9,111633 ,3.7
+Missouri,2021,10,106646 ,3.5
+Missouri,2021,11,101280 ,3.3
+Missouri,2021,12,95785 ,3.1
+Missouri,2022,1,89578 ,2.9
+Missouri,2022,2,82288 ,2.7
+Missouri,2022,3,75140 ,2.5
+Missouri,2022,4,69070 ,2.3
+Missouri,2022,5,65447 ,2.1
+Missouri,2022,6,65182 ,2.1
+Missouri,2022,7,68536 ,2.2
+Missouri,2022,8,74130 ,2.4
+Missouri,2022,9,79687 ,2.6
+Missouri,2022,10,83150 ,2.7
+Missouri,2022,11,83003 ,2.7
+Missouri,2022,12,81965 ,2.7
+Missouri,2023,1,81882 ,2.7
+Missouri,2023,2,79689 ,2.6
+Missouri,2023,3,77410 ,2.5
+Missouri,2023,4,77926 ,2.5
+Missouri,2023,5,78899 ,2.5
+Missouri,2023,6,81542 ,2.6
+Missouri,2023,7,84181 ,2.7
+Missouri,2023,8,87977 ,2.8
+Missouri,2023,9,91671 ,2.9
+Montana,2014,1,25438 ,5
+Montana,2014,2,24984 ,4.9
+Montana,2014,3,24573 ,4.8
+Montana,2014,4,24265 ,4.7
+Montana,2014,5,24022 ,4.7
+Montana,2014,6,23835 ,4.7
+Montana,2014,7,23697 ,4.6
+Montana,2014,8,23587 ,4.6
+Montana,2014,9,23483 ,4.6
+Montana,2014,10,23286 ,4.5
+Montana,2014,11,22965 ,4.5
+Montana,2014,12,22610 ,4.4
+Montana,2015,1,22298 ,4.3
+Montana,2015,2,22100 ,4.3
+Montana,2015,3,22004 ,4.3
+Montana,2015,4,21977 ,4.2
+Montana,2015,5,21994 ,4.3
+Montana,2015,6,22018 ,4.3
+Montana,2015,7,22039 ,4.3
+Montana,2015,8,22091 ,4.3
+Montana,2015,9,22151 ,4.3
+Montana,2015,10,22241 ,4.3
+Montana,2015,11,22393 ,4.3
+Montana,2015,12,22558 ,4.3
+Montana,2016,1,22693 ,4.4
+Montana,2016,2,22785 ,4.4
+Montana,2016,3,22812 ,4.4
+Montana,2016,4,22781 ,4.4
+Montana,2016,5,22731 ,4.4
+Montana,2016,6,22636 ,4.3
+Montana,2016,7,22494 ,4.3
+Montana,2016,8,22357 ,4.3
+Montana,2016,9,22279 ,4.3
+Montana,2016,10,22234 ,4.3
+Montana,2016,11,22162 ,4.2
+Montana,2016,12,22051 ,4.2
+Montana,2017,1,21866 ,4.2
+Montana,2017,2,21691 ,4.1
+Montana,2017,3,21564 ,4.1
+Montana,2017,4,21515 ,4.1
+Montana,2017,5,21521 ,4.1
+Montana,2017,6,21595 ,4.1
+Montana,2017,7,21724 ,4.1
+Montana,2017,8,21789 ,4.1
+Montana,2017,9,21763 ,4.1
+Montana,2017,10,21636 ,4.1
+Montana,2017,11,21424 ,4
+Montana,2017,12,21114 ,4
+Montana,2018,1,21004 ,4
+Montana,2018,2,20676 ,3.9
+Montana,2018,3,20372 ,3.8
+Montana,2018,4,20107 ,3.8
+Montana,2018,5,19907 ,3.7
+Montana,2018,6,19763 ,3.7
+Montana,2018,7,19639 ,3.7
+Montana,2018,8,19591 ,3.7
+Montana,2018,9,19612 ,3.7
+Montana,2018,10,19648 ,3.7
+Montana,2018,11,19663 ,3.7
+Montana,2018,12,19621 ,3.6
+Montana,2019,1,19501 ,3.6
+Montana,2019,2,19273 ,3.6
+Montana,2019,3,19006 ,3.5
+Montana,2019,4,18776 ,3.5
+Montana,2019,5,18651 ,3.4
+Montana,2019,6,18677 ,3.4
+Montana,2019,7,18834 ,3.5
+Montana,2019,8,19031 ,3.5
+Montana,2019,9,19129 ,3.5
+Montana,2019,10,19209 ,3.5
+Montana,2019,11,19319 ,3.5
+Montana,2019,12,19432 ,3.5
+Montana,2020,1,19447 ,3.5
+Montana,2020,2,19296 ,3.5
+Montana,2020,3,18903 ,3.5
+Montana,2020,4,64365 ,11.9
+Montana,2020,5,50075 ,9.2
+Montana,2020,6,41446 ,7.6
+Montana,2020,7,36612 ,6.7
+Montana,2020,8,30802 ,5.7
+Montana,2020,9,28475 ,5.2
+Montana,2020,10,25416 ,4.7
+Montana,2020,11,23799 ,4.4
+Montana,2020,12,22818 ,4.2
+Montana,2021,1,21588 ,4
+Montana,2021,2,20969 ,3.8
+Montana,2021,3,20421 ,3.7
+Montana,2021,4,20131 ,3.7
+Montana,2021,5,19676 ,3.6
+Montana,2021,6,19400 ,3.5
+Montana,2021,7,18875 ,3.4
+Montana,2021,8,18207 ,3.3
+Montana,2021,9,17362 ,3.1
+Montana,2021,10,16516 ,3
+Montana,2021,11,15668 ,2.8
+Montana,2021,12,14951 ,2.7
+Montana,2022,1,14523 ,2.6
+Montana,2022,2,14326 ,2.5
+Montana,2022,3,14384 ,2.5
+Montana,2022,4,14646 ,2.6
+Montana,2022,5,15017 ,2.6
+Montana,2022,6,15358 ,2.7
+Montana,2022,7,15552 ,2.7
+Montana,2022,8,15549 ,2.7
+Montana,2022,9,15378 ,2.7
+Montana,2022,10,15191 ,2.7
+Montana,2022,11,15096 ,2.7
+Montana,2022,12,15073 ,2.6
+Montana,2023,1,14395 ,2.5
+Montana,2023,2,13775 ,2.4
+Montana,2023,3,13240 ,2.3
+Montana,2023,4,13035 ,2.3
+Montana,2023,5,13441 ,2.3
+Montana,2023,6,13799 ,2.4
+Montana,2023,7,14197 ,2.5
+Montana,2023,8,14691 ,2.5
+Montana,2023,9,15419 ,2.7
+Nebraska,2014,1,35336 ,3.5
+Nebraska,2014,2,35108 ,3.5
+Nebraska,2014,3,34776 ,3.4
+Nebraska,2014,4,34381 ,3.4
+Nebraska,2014,5,33892 ,3.3
+Nebraska,2014,6,33319 ,3.3
+Nebraska,2014,7,32744 ,3.2
+Nebraska,2014,8,32251 ,3.2
+Nebraska,2014,9,31790 ,3.1
+Nebraska,2014,10,31183 ,3.1
+Nebraska,2014,11,30456 ,3
+Nebraska,2014,12,29902 ,3
+Nebraska,2015,1,29652 ,2.9
+Nebraska,2015,2,29699 ,2.9
+Nebraska,2015,3,29922 ,3
+Nebraska,2015,4,30204 ,3
+Nebraska,2015,5,30449 ,3
+Nebraska,2015,6,30626 ,3
+Nebraska,2015,7,30704 ,3
+Nebraska,2015,8,30690 ,3
+Nebraska,2015,9,30621 ,3
+Nebraska,2015,10,30545 ,3
+Nebraska,2015,11,30516 ,3
+Nebraska,2015,12,30479 ,3
+Nebraska,2016,1,30436 ,3
+Nebraska,2016,2,30442 ,3
+Nebraska,2016,3,30490 ,3
+Nebraska,2016,4,30602 ,3
+Nebraska,2016,5,30824 ,3
+Nebraska,2016,6,31113 ,3.1
+Nebraska,2016,7,31384 ,3.1
+Nebraska,2016,8,31619 ,3.1
+Nebraska,2016,9,31863 ,3.1
+Nebraska,2016,10,31992 ,3.2
+Nebraska,2016,11,31848 ,3.1
+Nebraska,2016,12,31479 ,3.1
+Nebraska,2017,1,31380 ,3.1
+Nebraska,2017,2,30725 ,3
+Nebraska,2017,3,30186 ,3
+Nebraska,2017,4,29905 ,2.9
+Nebraska,2017,5,29846 ,2.9
+Nebraska,2017,6,29951 ,2.9
+Nebraska,2017,7,30229 ,2.9
+Nebraska,2017,8,30515 ,3
+Nebraska,2017,9,30675 ,3
+Nebraska,2017,10,30713 ,3
+Nebraska,2017,11,30669 ,3
+Nebraska,2017,12,30460 ,3
+Nebraska,2018,1,30091 ,2.9
+Nebraska,2018,2,29897 ,2.9
+Nebraska,2018,3,29701 ,2.9
+Nebraska,2018,4,29501 ,2.9
+Nebraska,2018,5,29445 ,2.8
+Nebraska,2018,6,29575 ,2.9
+Nebraska,2018,7,29777 ,2.9
+Nebraska,2018,8,30122 ,2.9
+Nebraska,2018,9,30637 ,2.9
+Nebraska,2018,10,31216 ,3
+Nebraska,2018,11,31737 ,3
+Nebraska,2018,12,32093 ,3.1
+Nebraska,2019,1,32268 ,3.1
+Nebraska,2019,2,32250 ,3.1
+Nebraska,2019,3,32182 ,3.1
+Nebraska,2019,4,32138 ,3.1
+Nebraska,2019,5,32194 ,3.1
+Nebraska,2019,6,32498 ,3.1
+Nebraska,2019,7,33063 ,3.1
+Nebraska,2019,8,33642 ,3.2
+Nebraska,2019,9,33864 ,3.2
+Nebraska,2019,10,33710 ,3.2
+Nebraska,2019,11,33279 ,3.1
+Nebraska,2019,12,32746 ,3.1
+Nebraska,2020,1,32238 ,3.1
+Nebraska,2020,2,31788 ,3
+Nebraska,2020,3,46313 ,4.4
+Nebraska,2020,4,84787 ,8.1
+Nebraska,2020,5,66136 ,6.3
+Nebraska,2020,6,54261 ,5.2
+Nebraska,2020,7,47990 ,4.6
+Nebraska,2020,8,41180 ,3.9
+Nebraska,2020,9,37668 ,3.6
+Nebraska,2020,10,34162 ,3.3
+Nebraska,2020,11,32939 ,3.1
+Nebraska,2020,12,32514 ,3.1
+Nebraska,2021,1,31510 ,3
+Nebraska,2021,2,30933 ,3
+Nebraska,2021,3,30441 ,2.9
+Nebraska,2021,4,29890 ,2.9
+Nebraska,2021,5,29131 ,2.8
+Nebraska,2021,6,28796 ,2.7
+Nebraska,2021,7,28370 ,2.7
+Nebraska,2021,8,27905 ,2.7
+Nebraska,2021,9,27103 ,2.6
+Nebraska,2021,10,26059 ,2.5
+Nebraska,2021,11,24669 ,2.3
+Nebraska,2021,12,23258 ,2.2
+Nebraska,2022,1,22042 ,2.1
+Nebraska,2022,2,21163 ,2
+Nebraska,2022,3,20918 ,2
+Nebraska,2022,4,21343 ,2
+Nebraska,2022,5,22384 ,2.1
+Nebraska,2022,6,23829 ,2.2
+Nebraska,2022,7,25514 ,2.4
+Nebraska,2022,8,27038 ,2.6
+Nebraska,2022,9,28070 ,2.6
+Nebraska,2022,10,28579 ,2.7
+Nebraska,2022,11,28410 ,2.7
+Nebraska,2022,12,28181 ,2.7
+Nebraska,2023,1,26541 ,2.5
+Nebraska,2023,2,24704 ,2.3
+Nebraska,2023,3,22562 ,2.1
+Nebraska,2023,4,21167 ,2
+Nebraska,2023,5,20572 ,1.9
+Nebraska,2023,6,20470 ,1.9
+Nebraska,2023,7,20788 ,2
+Nebraska,2023,8,21145 ,2
+Nebraska,2023,9,21954 ,2.1
+Nevada,2014,1,122850 ,8.9
+Nevada,2014,2,120715 ,8.8
+Nevada,2014,3,118671 ,8.6
+Nevada,2014,4,116771 ,8.5
+Nevada,2014,5,114844 ,8.3
+Nevada,2014,6,112919 ,8.2
+Nevada,2014,7,111156 ,8.1
+Nevada,2014,8,109655 ,7.9
+Nevada,2014,9,108383 ,7.8
+Nevada,2014,10,106949 ,7.7
+Nevada,2014,11,105308 ,7.6
+Nevada,2014,12,103823 ,7.5
+Nevada,2015,1,102511 ,7.4
+Nevada,2015,2,101358 ,7.3
+Nevada,2015,3,100156 ,7.2
+Nevada,2015,4,98848 ,7.1
+Nevada,2015,5,97460 ,7
+Nevada,2015,6,96017 ,6.9
+Nevada,2015,7,94641 ,6.8
+Nevada,2015,8,93414 ,6.7
+Nevada,2015,9,92206 ,6.6
+Nevada,2015,10,91042 ,6.5
+Nevada,2015,11,89998 ,6.4
+Nevada,2015,12,88896 ,6.3
+Nevada,2016,1,87731 ,6.2
+Nevada,2016,2,86554 ,6.2
+Nevada,2016,3,85320 ,6.1
+Nevada,2016,4,84093 ,6
+Nevada,2016,5,83011 ,5.9
+Nevada,2016,6,82086 ,5.8
+Nevada,2016,7,81209 ,5.7
+Nevada,2016,8,80379 ,5.7
+Nevada,2016,9,79701 ,5.6
+Nevada,2016,10,79020 ,5.6
+Nevada,2016,11,78141 ,5.5
+Nevada,2016,12,77107 ,5.4
+Nevada,2017,1,76731 ,5.4
+Nevada,2017,2,76126 ,5.3
+Nevada,2017,3,75143 ,5.2
+Nevada,2017,4,73821 ,5.1
+Nevada,2017,5,72244 ,5
+Nevada,2017,6,70744 ,4.9
+Nevada,2017,7,69725 ,4.8
+Nevada,2017,8,69308 ,4.8
+Nevada,2017,9,69423 ,4.8
+Nevada,2017,10,69950 ,4.8
+Nevada,2017,11,70779 ,4.8
+Nevada,2017,12,71566 ,4.9
+Nevada,2018,1,69303 ,4.7
+Nevada,2018,2,68439 ,4.6
+Nevada,2018,3,67379 ,4.6
+Nevada,2018,4,66169 ,4.5
+Nevada,2018,5,64995 ,4.4
+Nevada,2018,6,64022 ,4.3
+Nevada,2018,7,63367 ,4.2
+Nevada,2018,8,63251 ,4.2
+Nevada,2018,9,63696 ,4.2
+Nevada,2018,10,64455 ,4.3
+Nevada,2018,11,65188 ,4.3
+Nevada,2018,12,65616 ,4.3
+Nevada,2019,1,65588 ,4.3
+Nevada,2019,2,65026 ,4.3
+Nevada,2019,3,64137 ,4.2
+Nevada,2019,4,63132 ,4.1
+Nevada,2019,5,62314 ,4
+Nevada,2019,6,61922 ,4
+Nevada,2019,7,62046 ,4
+Nevada,2019,8,62539 ,4
+Nevada,2019,9,63019 ,4
+Nevada,2019,10,63645 ,4.1
+Nevada,2019,11,64418 ,4.1
+Nevada,2019,12,65356 ,4.2
+Nevada,2020,1,66615 ,4.2
+Nevada,2020,2,68517 ,4.4
+Nevada,2020,3,111658 ,7.2
+Nevada,2020,4,450178 ,30.6
+Nevada,2020,5,342936 ,24.7
+Nevada,2020,6,282127 ,18.8
+Nevada,2020,7,250870 ,16.6
+Nevada,2020,8,209136 ,13.9
+Nevada,2020,9,192873 ,12.8
+Nevada,2020,10,168561 ,11.2
+Nevada,2020,11,155243 ,10.3
+Nevada,2020,12,146606 ,9.7
+Nevada,2021,1,135287 ,9
+Nevada,2021,2,128107 ,8.5
+Nevada,2021,3,120882 ,8
+Nevada,2021,4,115551 ,7.7
+Nevada,2021,5,109155 ,7.3
+Nevada,2021,6,104756 ,7
+Nevada,2021,7,99494 ,6.6
+Nevada,2021,8,94570 ,6.3
+Nevada,2021,9,89648 ,6
+Nevada,2021,10,86217 ,5.8
+Nevada,2021,11,83549 ,5.6
+Nevada,2021,12,81754 ,5.5
+Nevada,2022,1,81187 ,5.4
+Nevada,2022,2,80832 ,5.3
+Nevada,2022,3,80660 ,5.3
+Nevada,2022,4,80682 ,5.2
+Nevada,2022,5,80940 ,5.2
+Nevada,2022,6,81611 ,5.2
+Nevada,2022,7,82887 ,5.3
+Nevada,2022,8,84545 ,5.4
+Nevada,2022,9,85960 ,5.5
+Nevada,2022,10,86926 ,5.5
+Nevada,2022,11,86862 ,5.5
+Nevada,2022,12,86543 ,5.5
+Nevada,2023,1,86549 ,5.5
+Nevada,2023,2,87111 ,5.5
+Nevada,2023,3,86653 ,5.5
+Nevada,2023,4,85725 ,5.4
+Nevada,2023,5,85141 ,5.4
+Nevada,2023,6,84702 ,5.4
+Nevada,2023,7,84713 ,5.3
+Nevada,2023,8,85620 ,5.4
+Nevada,2023,9,86620 ,5.4
+New Hampshire,2014,1,35368 ,4.8
+New Hampshire,2014,2,34571 ,4.7
+New Hampshire,2014,3,33887 ,4.6
+New Hampshire,2014,4,33347 ,4.5
+New Hampshire,2014,5,32824 ,4.4
+New Hampshire,2014,6,32250 ,4.3
+New Hampshire,2014,7,31656 ,4.3
+New Hampshire,2014,8,31118 ,4.2
+New Hampshire,2014,9,30672 ,4.1
+New Hampshire,2014,10,30231 ,4.1
+New Hampshire,2014,11,29739 ,4
+New Hampshire,2014,12,29249 ,3.9
+New Hampshire,2015,1,28793 ,3.8
+New Hampshire,2015,2,28374 ,3.8
+New Hampshire,2015,3,27883 ,3.7
+New Hampshire,2015,4,27232 ,3.6
+New Hampshire,2015,5,26464 ,3.5
+New Hampshire,2015,6,25667 ,3.4
+New Hampshire,2015,7,24928 ,3.3
+New Hampshire,2015,8,24278 ,3.3
+New Hampshire,2015,9,23670 ,3.2
+New Hampshire,2015,10,23098 ,3.1
+New Hampshire,2015,11,22594 ,3
+New Hampshire,2015,12,22135 ,3
+New Hampshire,2016,1,21730 ,2.9
+New Hampshire,2016,2,21447 ,2.9
+New Hampshire,2016,3,21338 ,2.8
+New Hampshire,2016,4,21421 ,2.8
+New Hampshire,2016,5,21594 ,2.9
+New Hampshire,2016,6,21701 ,2.9
+New Hampshire,2016,7,21678 ,2.9
+New Hampshire,2016,8,21582 ,2.9
+New Hampshire,2016,9,21546 ,2.9
+New Hampshire,2016,10,21604 ,2.9
+New Hampshire,2016,11,21698 ,2.9
+New Hampshire,2016,12,21790 ,2.9
+New Hampshire,2017,1,21824 ,2.9
+New Hampshire,2017,2,21693 ,2.9
+New Hampshire,2017,3,21425 ,2.8
+New Hampshire,2017,4,21121 ,2.8
+New Hampshire,2017,5,20902 ,2.8
+New Hampshire,2017,6,20861 ,2.7
+New Hampshire,2017,7,20983 ,2.8
+New Hampshire,2017,8,21165 ,2.8
+New Hampshire,2017,9,21310 ,2.8
+New Hampshire,2017,10,21338 ,2.8
+New Hampshire,2017,11,21272 ,2.8
+New Hampshire,2017,12,21106 ,2.8
+New Hampshire,2018,1,20927 ,2.7
+New Hampshire,2018,2,20820 ,2.7
+New Hampshire,2018,3,20772 ,2.7
+New Hampshire,2018,4,20698 ,2.7
+New Hampshire,2018,5,20533 ,2.7
+New Hampshire,2018,6,20273 ,2.6
+New Hampshire,2018,7,19959 ,2.6
+New Hampshire,2018,8,19705 ,2.6
+New Hampshire,2018,9,19596 ,2.5
+New Hampshire,2018,10,19641 ,2.5
+New Hampshire,2018,11,19777 ,2.6
+New Hampshire,2018,12,19919 ,2.6
+New Hampshire,2019,1,19997 ,2.6
+New Hampshire,2019,2,19932 ,2.6
+New Hampshire,2019,3,19773 ,2.5
+New Hampshire,2019,4,19615 ,2.5
+New Hampshire,2019,5,19571 ,2.5
+New Hampshire,2019,6,19690 ,2.5
+New Hampshire,2019,7,19939 ,2.6
+New Hampshire,2019,8,20213 ,2.6
+New Hampshire,2019,9,20335 ,2.6
+New Hampshire,2019,10,20362 ,2.6
+New Hampshire,2019,11,20333 ,2.6
+New Hampshire,2019,12,20290 ,2.6
+New Hampshire,2020,1,20237 ,2.6
+New Hampshire,2020,2,20158 ,2.6
+New Hampshire,2020,3,19963 ,2.6
+New Hampshire,2020,4,119817 ,16
+New Hampshire,2020,5,89298 ,11.7
+New Hampshire,2020,6,72634 ,9.6
+New Hampshire,2020,7,62749 ,8.2
+New Hampshire,2020,8,50602 ,6.7
+New Hampshire,2020,9,46006 ,6
+New Hampshire,2020,10,39614 ,5.2
+New Hampshire,2020,11,36578 ,4.8
+New Hampshire,2020,12,34601 ,4.6
+New Hampshire,2021,1,32115 ,4.2
+New Hampshire,2021,2,30735 ,4.1
+New Hampshire,2021,3,29583 ,3.9
+New Hampshire,2021,4,28791 ,3.8
+New Hampshire,2021,5,27550 ,3.6
+New Hampshire,2021,6,26798 ,3.5
+New Hampshire,2021,7,25541 ,3.4
+New Hampshire,2021,8,24305 ,3.2
+New Hampshire,2021,9,22940 ,3
+New Hampshire,2021,10,21559 ,2.9
+New Hampshire,2021,11,20061 ,2.7
+New Hampshire,2021,12,18662 ,2.5
+New Hampshire,2022,1,17571 ,2.3
+New Hampshire,2022,2,16699 ,2.2
+New Hampshire,2022,3,16270 ,2.1
+New Hampshire,2022,4,16406 ,2.1
+New Hampshire,2022,5,17063 ,2.2
+New Hampshire,2022,6,18153 ,2.4
+New Hampshire,2022,7,19530 ,2.5
+New Hampshire,2022,8,20856 ,2.7
+New Hampshire,2022,9,21816 ,2.8
+New Hampshire,2022,10,22351 ,2.9
+New Hampshire,2022,11,22244 ,2.9
+New Hampshire,2022,12,22036 ,2.9
+New Hampshire,2023,1,21850 ,2.8
+New Hampshire,2023,2,20623 ,2.7
+New Hampshire,2023,3,18784 ,2.4
+New Hampshire,2023,4,16277 ,2.1
+New Hampshire,2023,5,14585 ,1.9
+New Hampshire,2023,6,13456 ,1.8
+New Hampshire,2023,7,13091 ,1.7
+New Hampshire,2023,8,13782 ,1.8
+New Hampshire,2023,9,15133 ,2
+New Jersey,2014,1,325675 ,7.3
+New Jersey,2014,2,318097 ,7.1
+New Jersey,2014,3,311529 ,7
+New Jersey,2014,4,306360 ,6.8
+New Jersey,2014,5,302227 ,6.7
+New Jersey,2014,6,299204 ,6.7
+New Jersey,2014,7,297479 ,6.6
+New Jersey,2014,8,296855 ,6.6
+New Jersey,2014,9,296506 ,6.6
+New Jersey,2014,10,295080 ,6.5
+New Jersey,2014,11,292136 ,6.5
+New Jersey,2014,12,288611 ,6.4
+New Jersey,2015,1,285181 ,6.3
+New Jersey,2015,2,282185 ,6.3
+New Jersey,2015,3,278874 ,6.2
+New Jersey,2015,4,274433 ,6.1
+New Jersey,2015,5,268559 ,6
+New Jersey,2015,6,261391 ,5.8
+New Jersey,2015,7,253617 ,5.6
+New Jersey,2015,8,245952 ,5.5
+New Jersey,2015,9,238552 ,5.3
+New Jersey,2015,10,232164 ,5.2
+New Jersey,2015,11,227784 ,5.1
+New Jersey,2015,12,225428 ,5
+New Jersey,2016,1,224505 ,5
+New Jersey,2016,2,224486 ,5
+New Jersey,2016,3,224747 ,5
+New Jersey,2016,4,225085 ,5
+New Jersey,2016,5,225382 ,5
+New Jersey,2016,6,225119 ,5
+New Jersey,2016,7,223997 ,5
+New Jersey,2016,8,222416 ,5
+New Jersey,2016,9,220947 ,4.9
+New Jersey,2016,10,219027 ,4.9
+New Jersey,2016,11,215805 ,4.8
+New Jersey,2016,12,211593 ,4.7
+New Jersey,2017,1,212799 ,4.6
+New Jersey,2017,2,208791 ,4.5
+New Jersey,2017,3,206119 ,4.5
+New Jersey,2017,4,205203 ,4.4
+New Jersey,2017,5,205759 ,4.5
+New Jersey,2017,6,207577 ,4.5
+New Jersey,2017,7,210044 ,4.5
+New Jersey,2017,8,211915 ,4.6
+New Jersey,2017,9,212542 ,4.6
+New Jersey,2017,10,211749 ,4.6
+New Jersey,2017,11,209821 ,4.6
+New Jersey,2017,12,206474 ,4.5
+New Jersey,2018,1,204144 ,4.4
+New Jersey,2018,2,200077 ,4.4
+New Jersey,2018,3,196498 ,4.3
+New Jersey,2018,4,193266 ,4.2
+New Jersey,2018,5,190222 ,4.1
+New Jersey,2018,6,186676 ,4
+New Jersey,2018,7,182367 ,4
+New Jersey,2018,8,178110 ,3.9
+New Jersey,2018,9,174608 ,3.8
+New Jersey,2018,10,171865 ,3.7
+New Jersey,2018,11,169439 ,3.7
+New Jersey,2018,12,166843 ,3.6
+New Jersey,2019,1,163373 ,3.5
+New Jersey,2019,2,158353 ,3.4
+New Jersey,2019,3,152833 ,3.3
+New Jersey,2019,4,148342 ,3.2
+New Jersey,2019,5,146524 ,3.1
+New Jersey,2019,6,148429 ,3.2
+New Jersey,2019,7,153893 ,3.3
+New Jersey,2019,8,161325 ,3.4
+New Jersey,2019,9,168263 ,3.6
+New Jersey,2019,10,174475 ,3.7
+New Jersey,2019,11,180141 ,3.8
+New Jersey,2019,12,185135 ,3.9
+New Jersey,2020,1,189319 ,4
+New Jersey,2020,2,192367 ,4.1
+New Jersey,2020,3,192654 ,4.1
+New Jersey,2020,4,669370 ,14.9
+New Jersey,2020,5,704427 ,15.3
+New Jersey,2020,6,669339 ,14.4
+New Jersey,2020,7,682649 ,14.4
+New Jersey,2020,8,633503 ,13.3
+New Jersey,2020,9,335768 ,7.4
+New Jersey,2020,10,323976 ,7.1
+New Jersey,2020,11,330496 ,7.2
+New Jersey,2020,12,334119 ,7.2
+New Jersey,2021,1,336180 ,7.2
+New Jersey,2021,2,336537 ,7.2
+New Jersey,2021,3,331582 ,7.1
+New Jersey,2021,4,331742 ,7.1
+New Jersey,2021,5,323020 ,6.9
+New Jersey,2021,6,333239 ,7.1
+New Jersey,2021,7,320445 ,6.8
+New Jersey,2021,8,314606 ,6.7
+New Jersey,2021,9,291027 ,6.2
+New Jersey,2021,10,277226 ,6
+New Jersey,2021,11,260335 ,5.6
+New Jersey,2021,12,253375 ,5.4
+New Jersey,2022,1,238339 ,5.1
+New Jersey,2022,2,215722 ,4.6
+New Jersey,2022,3,195037 ,4.1
+New Jersey,2022,4,183031 ,3.9
+New Jersey,2022,5,172240 ,3.6
+New Jersey,2022,6,163218 ,3.4
+New Jersey,2022,7,153278 ,3.2
+New Jersey,2022,8,143025 ,3
+New Jersey,2022,9,152559 ,3.2
+New Jersey,2022,10,158661 ,3.3
+New Jersey,2022,11,158669 ,3.3
+New Jersey,2022,12,157204 ,3.3
+New Jersey,2023,1,163664 ,3.4
+New Jersey,2023,2,168835 ,3.5
+New Jersey,2023,3,170714 ,3.5
+New Jersey,2023,4,170555 ,3.5
+New Jersey,2023,5,174715 ,3.6
+New Jersey,2023,6,182499 ,3.7
+New Jersey,2023,7,190008 ,3.9
+New Jersey,2023,8,203340 ,4.2
+New Jersey,2023,9,214336 ,4.4
+New Mexico,2014,1,63210 ,6.8
+New Mexico,2014,2,62718 ,6.7
+New Mexico,2014,3,62313 ,6.7
+New Mexico,2014,4,62088 ,6.7
+New Mexico,2014,5,61905 ,6.7
+New Mexico,2014,6,61704 ,6.6
+New Mexico,2014,7,61447 ,6.6
+New Mexico,2014,8,61105 ,6.6
+New Mexico,2014,9,60722 ,6.5
+New Mexico,2014,10,60315 ,6.4
+New Mexico,2014,11,60013 ,6.4
+New Mexico,2014,12,60098 ,6.4
+New Mexico,2015,1,60651 ,6.5
+New Mexico,2015,2,61565 ,6.6
+New Mexico,2015,3,62501 ,6.7
+New Mexico,2015,4,63121 ,6.7
+New Mexico,2015,5,63246 ,6.7
+New Mexico,2015,6,62917 ,6.7
+New Mexico,2015,7,62370 ,6.6
+New Mexico,2015,8,61871 ,6.6
+New Mexico,2015,9,61443 ,6.6
+New Mexico,2015,10,61147 ,6.5
+New Mexico,2015,11,61079 ,6.5
+New Mexico,2015,12,61147 ,6.5
+New Mexico,2016,1,61260 ,6.5
+New Mexico,2016,2,61466 ,6.5
+New Mexico,2016,3,61847 ,6.6
+New Mexico,2016,4,62504 ,6.6
+New Mexico,2016,5,63415 ,6.7
+New Mexico,2016,6,64366 ,6.8
+New Mexico,2016,7,65107 ,6.9
+New Mexico,2016,8,65547 ,6.9
+New Mexico,2016,9,65746 ,6.9
+New Mexico,2016,10,65678 ,6.9
+New Mexico,2016,11,65297 ,6.9
+New Mexico,2016,12,64669 ,6.8
+New Mexico,2017,1,64019 ,6.7
+New Mexico,2017,2,63095 ,6.6
+New Mexico,2017,3,61968 ,6.5
+New Mexico,2017,4,60695 ,6.4
+New Mexico,2017,5,59305 ,6.2
+New Mexico,2017,6,57892 ,6.1
+New Mexico,2017,7,56603 ,6
+New Mexico,2017,8,55447 ,5.8
+New Mexico,2017,9,54385 ,5.7
+New Mexico,2017,10,53311 ,5.6
+New Mexico,2017,11,52182 ,5.5
+New Mexico,2017,12,50926 ,5.4
+New Mexico,2018,1,49052 ,5.2
+New Mexico,2018,2,47676 ,5.1
+New Mexico,2018,3,46422 ,4.9
+New Mexico,2018,4,45388 ,4.8
+New Mexico,2018,5,44714 ,4.7
+New Mexico,2018,6,44465 ,4.7
+New Mexico,2018,7,44652 ,4.7
+New Mexico,2018,8,45336 ,4.8
+New Mexico,2018,9,46441 ,4.9
+New Mexico,2018,10,47623 ,5
+New Mexico,2018,11,48531 ,5.1
+New Mexico,2018,12,48988 ,5.2
+New Mexico,2019,1,48943 ,5.1
+New Mexico,2019,2,48484 ,5.1
+New Mexico,2019,3,47927 ,5
+New Mexico,2019,4,47405 ,5
+New Mexico,2019,5,47029 ,4.9
+New Mexico,2019,6,46850 ,4.9
+New Mexico,2019,7,46825 ,4.9
+New Mexico,2019,8,46817 ,4.9
+New Mexico,2019,9,46676 ,4.9
+New Mexico,2019,10,46764 ,4.9
+New Mexico,2019,11,47306 ,4.9
+New Mexico,2019,12,48254 ,5
+New Mexico,2020,1,49405 ,5.1
+New Mexico,2020,2,50531 ,5.3
+New Mexico,2020,3,54764 ,5.8
+New Mexico,2020,4,81531 ,9
+New Mexico,2020,5,84579 ,9.3
+New Mexico,2020,6,82430 ,9
+New Mexico,2020,7,82935 ,9
+New Mexico,2020,8,79661 ,8.6
+New Mexico,2020,9,81059 ,8.7
+New Mexico,2020,10,78619 ,8.4
+New Mexico,2020,11,78373 ,8.4
+New Mexico,2020,12,79158 ,8.5
+New Mexico,2021,1,76937 ,8.2
+New Mexico,2021,2,76295 ,8.1
+New Mexico,2021,3,74444 ,7.9
+New Mexico,2021,4,73721 ,7.8
+New Mexico,2021,5,70487 ,7.5
+New Mexico,2021,6,69993 ,7.4
+New Mexico,2021,7,67260 ,7.1
+New Mexico,2021,8,64720 ,6.8
+New Mexico,2021,9,59691 ,6.3
+New Mexico,2021,10,57601 ,6.1
+New Mexico,2021,11,55464 ,5.9
+New Mexico,2021,12,53660 ,5.6
+New Mexico,2022,1,51586 ,5.4
+New Mexico,2022,2,47711 ,5
+New Mexico,2022,3,43793 ,4.6
+New Mexico,2022,4,41148 ,4.3
+New Mexico,2022,5,38901 ,4.1
+New Mexico,2022,6,36563 ,3.9
+New Mexico,2022,7,34160 ,3.6
+New Mexico,2022,8,31691 ,3.4
+New Mexico,2022,9,32721 ,3.5
+New Mexico,2022,10,33207 ,3.5
+New Mexico,2022,11,33022 ,3.5
+New Mexico,2022,12,32785 ,3.5
+New Mexico,2023,1,33473 ,3.5
+New Mexico,2023,2,34444 ,3.6
+New Mexico,2023,3,33800 ,3.5
+New Mexico,2023,4,33534 ,3.5
+New Mexico,2023,5,33588 ,3.5
+New Mexico,2023,6,33846 ,3.5
+New Mexico,2023,7,34757 ,3.6
+New Mexico,2023,8,35840 ,3.7
+New Mexico,2023,9,36171 ,3.7
+New York,2014,1,665256 ,7
+New York,2014,2,649834 ,6.8
+New York,2014,3,636261 ,6.7
+New York,2014,4,623990 ,6.5
+New York,2014,5,611172 ,6.4
+New York,2014,6,597853 ,6.3
+New York,2014,7,585642 ,6.2
+New York,2014,8,575948 ,6.1
+New York,2014,9,568593 ,6
+New York,2014,10,561425 ,5.9
+New York,2014,11,553821 ,5.8
+New York,2014,12,547321 ,5.8
+New York,2015,1,542353 ,5.7
+New York,2015,2,538486 ,5.6
+New York,2015,3,533822 ,5.6
+New York,2015,4,526909 ,5.5
+New York,2015,5,517162 ,5.4
+New York,2015,6,504685 ,5.3
+New York,2015,7,491332 ,5.2
+New York,2015,8,479647 ,5
+New York,2015,9,470460 ,4.9
+New York,2015,10,464749 ,4.9
+New York,2015,11,462871 ,4.9
+New York,2015,12,462741 ,4.8
+New York,2016,1,462285 ,4.8
+New York,2016,2,461033 ,4.8
+New York,2016,3,459191 ,4.8
+New York,2016,4,458206 ,4.8
+New York,2016,5,459759 ,4.8
+New York,2016,6,463754 ,4.9
+New York,2016,7,468447 ,4.9
+New York,2016,8,472183 ,5
+New York,2016,9,474335 ,5
+New York,2016,10,473148 ,5
+New York,2016,11,467290 ,4.9
+New York,2016,12,458624 ,4.8
+New York,2017,1,460194 ,4.7
+New York,2017,2,453725 ,4.6
+New York,2017,3,450906 ,4.6
+New York,2017,4,451776 ,4.6
+New York,2017,5,454682 ,4.6
+New York,2017,6,458276 ,4.6
+New York,2017,7,461493 ,4.7
+New York,2017,8,462797 ,4.7
+New York,2017,9,461638 ,4.7
+New York,2017,10,458184 ,4.7
+New York,2017,11,453433 ,4.6
+New York,2017,12,446625 ,4.5
+New York,2018,1,440780 ,4.5
+New York,2018,2,431600 ,4.4
+New York,2018,3,421618 ,4.3
+New York,2018,4,411099 ,4.2
+New York,2018,5,401034 ,4.1
+New York,2018,6,392365 ,4
+New York,2018,7,386141 ,3.9
+New York,2018,8,383847 ,3.9
+New York,2018,9,385634 ,3.9
+New York,2018,10,389546 ,4
+New York,2018,11,392772 ,4
+New York,2018,12,393553 ,4
+New York,2019,1,391111 ,4
+New York,2019,2,384847 ,3.9
+New York,2019,3,377005 ,3.8
+New York,2019,4,369791 ,3.8
+New York,2019,5,365605 ,3.7
+New York,2019,6,366067 ,3.7
+New York,2019,7,370890 ,3.8
+New York,2019,8,377671 ,3.8
+New York,2019,9,382332 ,3.9
+New York,2019,10,385858 ,3.9
+New York,2019,11,389844 ,3.9
+New York,2019,12,394836 ,4
+New York,2020,1,400389 ,4
+New York,2020,2,406674 ,4.1
+New York,2020,3,411888 ,4.2
+New York,2020,4,1428948 ,15.6
+New York,2020,5,1569673 ,16.6
+New York,2020,6,1290255 ,13.5
+New York,2020,7,1194523 ,12.5
+New York,2020,8,1027638 ,10.8
+New York,2020,9,967867 ,10.1
+New York,2020,10,876783 ,9.2
+New York,2020,11,852229 ,8.9
+New York,2020,12,829199 ,8.7
+New York,2021,1,810668 ,8.5
+New York,2021,2,792752 ,8.3
+New York,2021,3,764220 ,8
+New York,2021,4,744085 ,7.8
+New York,2021,5,706350 ,7.4
+New York,2021,6,704923 ,7.4
+New York,2021,7,667005 ,7
+New York,2021,8,645168 ,6.7
+New York,2021,9,597037 ,6.2
+New York,2021,10,567977 ,5.9
+New York,2021,11,535455 ,5.6
+New York,2021,12,519593 ,5.4
+New York,2022,1,492985 ,5.1
+New York,2022,2,455752 ,4.7
+New York,2022,3,424179 ,4.4
+New York,2022,4,409389 ,4.3
+New York,2022,5,398337 ,4.1
+New York,2022,6,390406 ,4.1
+New York,2022,7,380936 ,4
+New York,2022,8,370386 ,3.9
+New York,2022,9,388014 ,4
+New York,2022,10,398996 ,4.2
+New York,2022,11,398445 ,4.1
+New York,2022,12,395461 ,4.1
+New York,2023,1,402570 ,4.2
+New York,2023,2,401288 ,4.2
+New York,2023,3,391595 ,4.1
+New York,2023,4,384883 ,4
+New York,2023,5,382194 ,3.9
+New York,2023,6,383946 ,3.9
+New York,2023,7,380191 ,3.9
+New York,2023,8,384655 ,3.9
+New York,2023,9,392572 ,4
+New York city,2014,1,325135 ,8
+New York city,2014,2,318295 ,7.8
+New York city,2014,3,312243 ,7.6
+New York city,2014,4,306290 ,7.5
+New York city,2014,5,299187 ,7.3
+New York city,2014,6,290984 ,7.1
+New York city,2014,7,282926 ,6.9
+New York city,2014,8,276172 ,6.8
+New York city,2014,9,271073 ,6.6
+New York city,2014,10,266661 ,6.5
+New York city,2014,11,262434 ,6.4
+New York city,2014,12,258780 ,6.3
+New York city,2015,1,255543 ,6.2
+New York city,2015,2,252156 ,6.1
+New York city,2015,3,247796 ,6
+New York city,2015,4,242138 ,5.9
+New York city,2015,5,235185 ,5.7
+New York city,2015,6,227307 ,5.6
+New York city,2015,7,219721 ,5.4
+New York city,2015,8,213951 ,5.2
+New York city,2015,9,210483 ,5.2
+New York city,2015,10,209568 ,5.1
+New York city,2015,11,210779 ,5.2
+New York city,2015,12,212287 ,5.2
+New York city,2016,1,212711 ,5.2
+New York city,2016,2,211911 ,5.2
+New York city,2016,3,210321 ,5.2
+New York city,2016,4,209089 ,5.1
+New York city,2016,5,209461 ,5.1
+New York city,2016,6,211421 ,5.2
+New York city,2016,7,213723 ,5.2
+New York city,2016,8,215051 ,5.3
+New York city,2016,9,214668 ,5.2
+New York city,2016,10,211772 ,5.2
+New York city,2016,11,206217 ,5
+New York city,2016,12,199568 ,4.9
+New York city,2017,1,200723 ,4.7
+New York city,2017,2,196309 ,4.6
+New York city,2017,3,194136 ,4.5
+New York city,2017,4,194099 ,4.5
+New York city,2017,5,195262 ,4.5
+New York city,2017,6,196498 ,4.6
+New York city,2017,7,197045 ,4.6
+New York city,2017,8,196371 ,4.6
+New York city,2017,9,194379 ,4.5
+New York city,2017,10,191464 ,4.5
+New York city,2017,11,188505 ,4.4
+New York city,2017,12,185448 ,4.3
+New York city,2018,1,183759 ,4.3
+New York city,2018,2,181444 ,4.2
+New York city,2018,3,179059 ,4.2
+New York city,2018,4,176285 ,4.1
+New York city,2018,5,173264 ,4.1
+New York city,2018,6,170556 ,4
+New York city,2018,7,168965 ,4
+New York city,2018,8,169405 ,4
+New York city,2018,9,172378 ,4.1
+New York city,2018,10,176938 ,4.2
+New York city,2018,11,181112 ,4.3
+New York city,2018,12,183596 ,4.3
+New York city,2019,1,183755 ,4.3
+New York city,2019,2,180981 ,4.2
+New York city,2019,3,176089 ,4.1
+New York city,2019,4,170161 ,4
+New York city,2019,5,164815 ,3.9
+New York city,2019,6,161564 ,3.8
+New York city,2019,7,160652 ,3.8
+New York city,2019,8,161096 ,3.8
+New York city,2019,9,161281 ,3.8
+New York city,2019,10,162099 ,3.8
+New York city,2019,11,164827 ,3.9
+New York city,2019,12,169589 ,4
+New York city,2020,1,175705 ,4.1
+New York city,2020,2,183080 ,4.3
+New York city,2020,3,190771 ,4.5
+New York city,2020,4,471692 ,12.7
+New York city,2020,5,843513 ,21.4
+New York city,2020,6,695723 ,17.1
+New York city,2020,7,672784 ,16.5
+New York city,2020,8,598880 ,14.8
+New York city,2020,9,581491 ,14.3
+New York city,2020,10,534055 ,13.2
+New York city,2020,11,524719 ,12.9
+New York city,2020,12,511617 ,12.6
+New York city,2021,1,499221 ,12.3
+New York city,2021,2,486414 ,11.9
+New York city,2021,3,465265 ,11.4
+New York city,2021,4,452418 ,11.1
+New York city,2021,5,425122 ,10.4
+New York city,2021,6,430695 ,10.5
+New York city,2021,7,403621 ,9.8
+New York city,2021,8,393411 ,9.6
+New York city,2021,9,360133 ,8.8
+New York city,2021,10,346574 ,8.5
+New York city,2021,11,330174 ,8.1
+New York city,2021,12,328771 ,8
+New York city,2022,1,313301 ,7.6
+New York city,2022,2,284081 ,6.9
+New York city,2022,3,256145 ,6.3
+New York city,2022,4,240738 ,5.9
+New York city,2022,5,226513 ,5.5
+New York city,2022,6,214271 ,5.2
+New York city,2022,7,200219 ,4.9
+New York city,2022,8,185679 ,4.6
+New York city,2022,9,201462 ,4.9
+New York city,2022,10,211945 ,5.2
+New York city,2022,11,212183 ,5.2
+New York city,2022,12,209936 ,5.1
+New York city,2023,1,217541 ,5.3
+New York city,2023,2,222492 ,5.4
+New York city,2023,3,221904 ,5.3
+New York city,2023,4,222803 ,5.4
+New York city,2023,5,221930 ,5.3
+New York city,2023,6,224491 ,5.4
+New York city,2023,7,221270 ,5.3
+New York city,2023,8,219571 ,5.3
+New York city,2023,9,218970 ,5.3
+North Carolina,2014,1,298889 ,6.4
+North Carolina,2014,2,296863 ,6.3
+North Carolina,2014,3,294952 ,6.3
+North Carolina,2014,4,293407 ,6.3
+North Carolina,2014,5,291892 ,6.2
+North Carolina,2014,6,290256 ,6.2
+North Carolina,2014,7,288235 ,6.1
+North Carolina,2014,8,285947 ,6.1
+North Carolina,2014,9,283175 ,6
+North Carolina,2014,10,279324 ,5.9
+North Carolina,2014,11,274761 ,5.8
+North Carolina,2014,12,271087 ,5.7
+North Carolina,2015,1,269639 ,5.7
+North Carolina,2015,2,270874 ,5.7
+North Carolina,2015,3,273536 ,5.8
+North Carolina,2015,4,276044 ,5.8
+North Carolina,2015,5,277122 ,5.8
+North Carolina,2015,6,276101 ,5.8
+North Carolina,2015,7,273410 ,5.7
+North Carolina,2015,8,269853 ,5.7
+North Carolina,2015,9,265924 ,5.6
+North Carolina,2015,10,262300 ,5.5
+North Carolina,2015,11,259481 ,5.4
+North Carolina,2015,12,257007 ,5.4
+North Carolina,2016,1,254391 ,5.3
+North Carolina,2016,2,251688 ,5.2
+North Carolina,2016,3,248870 ,5.2
+North Carolina,2016,4,246176 ,5.1
+North Carolina,2016,5,244445 ,5.1
+North Carolina,2016,6,244031 ,5
+North Carolina,2016,7,244424 ,5
+North Carolina,2016,8,245284 ,5.1
+North Carolina,2016,9,246442 ,5.1
+North Carolina,2016,10,246984 ,5.1
+North Carolina,2016,11,245854 ,5
+North Carolina,2016,12,242896 ,5
+North Carolina,2017,1,234786 ,4.9
+North Carolina,2017,2,228668 ,4.7
+North Carolina,2017,3,223247 ,4.6
+North Carolina,2017,4,219643 ,4.5
+North Carolina,2017,5,217717 ,4.5
+North Carolina,2017,6,217236 ,4.5
+North Carolina,2017,7,218072 ,4.5
+North Carolina,2017,8,218972 ,4.5
+North Carolina,2017,9,218921 ,4.5
+North Carolina,2017,10,217452 ,4.4
+North Carolina,2017,11,214707 ,4.4
+North Carolina,2017,12,210692 ,4.3
+North Carolina,2018,1,205836 ,4.2
+North Carolina,2018,2,201538 ,4.1
+North Carolina,2018,3,197676 ,4
+North Carolina,2018,4,194585 ,4
+North Carolina,2018,5,192855 ,3.9
+North Carolina,2018,6,192334 ,3.9
+North Carolina,2018,7,192665 ,3.9
+North Carolina,2018,8,194016 ,3.9
+North Carolina,2018,9,196076 ,4
+North Carolina,2018,10,197981 ,4
+North Carolina,2018,11,198956 ,4
+North Carolina,2018,12,198547 ,4
+North Carolina,2019,1,196883 ,4
+North Carolina,2019,2,194086 ,3.9
+North Carolina,2019,3,191389 ,3.9
+North Carolina,2019,4,189807 ,3.8
+North Carolina,2019,5,189960 ,3.8
+North Carolina,2019,6,191766 ,3.8
+North Carolina,2019,7,194332 ,3.9
+North Carolina,2019,8,196188 ,3.9
+North Carolina,2019,9,195647 ,3.9
+North Carolina,2019,10,193498 ,3.9
+North Carolina,2019,11,191173 ,3.8
+North Carolina,2019,12,189881 ,3.8
+North Carolina,2020,1,189699 ,3.8
+North Carolina,2020,2,190670 ,3.8
+North Carolina,2020,3,190147 ,4
+North Carolina,2020,4,656620 ,14.2
+North Carolina,2020,5,551646 ,11.6
+North Carolina,2020,6,462339 ,9.7
+North Carolina,2020,7,414872 ,8.6
+North Carolina,2020,8,350388 ,7.3
+North Carolina,2020,9,322814 ,6.7
+North Carolina,2020,10,291150 ,6
+North Carolina,2020,11,280554 ,5.8
+North Carolina,2020,12,282126 ,5.8
+North Carolina,2021,1,273696 ,5.6
+North Carolina,2021,2,268130 ,5.5
+North Carolina,2021,3,262451 ,5.4
+North Carolina,2021,4,255922 ,5.2
+North Carolina,2021,5,249456 ,5.1
+North Carolina,2021,6,248433 ,5
+North Carolina,2021,7,243659 ,4.9
+North Carolina,2021,8,239591 ,4.8
+North Carolina,2021,9,230810 ,4.6
+North Carolina,2021,10,221475 ,4.4
+North Carolina,2021,11,209516 ,4.1
+North Carolina,2021,12,196435 ,3.9
+North Carolina,2022,1,186724 ,3.6
+North Carolina,2022,2,177206 ,3.4
+North Carolina,2022,3,172204 ,3.3
+North Carolina,2022,4,172336 ,3.3
+North Carolina,2022,5,177491 ,3.4
+North Carolina,2022,6,185300 ,3.6
+North Carolina,2022,7,193542 ,3.7
+North Carolina,2022,8,200354 ,3.9
+North Carolina,2022,9,202722 ,3.9
+North Carolina,2022,10,202523 ,3.9
+North Carolina,2022,11,199856 ,3.9
+North Carolina,2022,12,198043 ,3.8
+North Carolina,2023,1,193793 ,3.8
+North Carolina,2023,2,188101 ,3.6
+North Carolina,2023,3,183074 ,3.5
+North Carolina,2023,4,178830 ,3.4
+North Carolina,2023,5,175738 ,3.4
+North Carolina,2023,6,172604 ,3.3
+North Carolina,2023,7,171393 ,3.3
+North Carolina,2023,8,173531 ,3.3
+North Carolina,2023,9,176650 ,3.4
+North Dakota,2014,1,10937 ,2.7
+North Dakota,2014,2,10767 ,2.7
+North Dakota,2014,3,10626 ,2.6
+North Dakota,2014,4,10542 ,2.6
+North Dakota,2014,5,10527 ,2.6
+North Dakota,2014,6,10589 ,2.6
+North Dakota,2014,7,10700 ,2.6
+North Dakota,2014,8,10818 ,2.6
+North Dakota,2014,9,10895 ,2.6
+North Dakota,2014,10,10891 ,2.6
+North Dakota,2014,11,10821 ,2.6
+North Dakota,2014,12,10767 ,2.6
+North Dakota,2015,1,10796 ,2.6
+North Dakota,2015,2,10937 ,2.6
+North Dakota,2015,3,11159 ,2.7
+North Dakota,2015,4,11397 ,2.8
+North Dakota,2015,5,11576 ,2.8
+North Dakota,2015,6,11654 ,2.8
+North Dakota,2015,7,11637 ,2.8
+North Dakota,2015,8,11584 ,2.8
+North Dakota,2015,9,11557 ,2.8
+North Dakota,2015,10,11640 ,2.8
+North Dakota,2015,11,11891 ,2.9
+North Dakota,2015,12,12261 ,3
+North Dakota,2016,1,12667 ,3.1
+North Dakota,2016,2,13033 ,3.2
+North Dakota,2016,3,13283 ,3.2
+North Dakota,2016,4,13380 ,3.2
+North Dakota,2016,5,13318 ,3.2
+North Dakota,2016,6,13125 ,3.2
+North Dakota,2016,7,12863 ,3.1
+North Dakota,2016,8,12612 ,3.1
+North Dakota,2016,9,12436 ,3
+North Dakota,2016,10,12319 ,3
+North Dakota,2016,11,12198 ,3
+North Dakota,2016,12,12037 ,2.9
+North Dakota,2017,1,11903 ,2.9
+North Dakota,2017,2,11615 ,2.8
+North Dakota,2017,3,11245 ,2.7
+North Dakota,2017,4,10868 ,2.6
+North Dakota,2017,5,10555 ,2.5
+North Dakota,2017,6,10364 ,2.5
+North Dakota,2017,7,10325 ,2.5
+North Dakota,2017,8,10391 ,2.5
+North Dakota,2017,9,10510 ,2.5
+North Dakota,2017,10,10638 ,2.6
+North Dakota,2017,11,10775 ,2.6
+North Dakota,2017,12,10875 ,2.6
+North Dakota,2018,1,10891 ,2.6
+North Dakota,2018,2,10797 ,2.6
+North Dakota,2018,3,10572 ,2.6
+North Dakota,2018,4,10237 ,2.5
+North Dakota,2018,5,9884 ,2.4
+North Dakota,2018,6,9585 ,2.3
+North Dakota,2018,7,9362 ,2.3
+North Dakota,2018,8,9263 ,2.3
+North Dakota,2018,9,9301 ,2.3
+North Dakota,2018,10,9426 ,2.3
+North Dakota,2018,11,9583 ,2.3
+North Dakota,2018,12,9714 ,2.4
+North Dakota,2019,1,9772 ,2.4
+North Dakota,2019,2,9702 ,2.3
+North Dakota,2019,3,9508 ,2.3
+North Dakota,2019,4,9229 ,2.2
+North Dakota,2019,5,8936 ,2.2
+North Dakota,2019,6,8723 ,2.1
+North Dakota,2019,7,8644 ,2.1
+North Dakota,2019,8,8674 ,2.1
+North Dakota,2019,9,8709 ,2.1
+North Dakota,2019,10,8695 ,2.1
+North Dakota,2019,11,8555 ,2.1
+North Dakota,2019,12,8412 ,2
+North Dakota,2020,1,8518 ,2.1
+North Dakota,2020,2,9050 ,2.2
+North Dakota,2020,3,10035 ,2.4
+North Dakota,2020,4,35809 ,8.7
+North Dakota,2020,5,29370 ,7.2
+North Dakota,2020,6,25976 ,6.4
+North Dakota,2020,7,24809 ,6.1
+North Dakota,2020,8,22836 ,5.6
+North Dakota,2020,9,21652 ,5.3
+North Dakota,2020,10,19903 ,4.9
+North Dakota,2020,11,18889 ,4.6
+North Dakota,2020,12,18086 ,4.4
+North Dakota,2021,1,16938 ,4.1
+North Dakota,2021,2,15980 ,3.9
+North Dakota,2021,3,15061 ,3.7
+North Dakota,2021,4,14143 ,3.5
+North Dakota,2021,5,13180 ,3.2
+North Dakota,2021,6,12418 ,3
+North Dakota,2021,7,11680 ,2.9
+North Dakota,2021,8,11092 ,2.7
+North Dakota,2021,9,10590 ,2.6
+North Dakota,2021,10,10216 ,2.5
+North Dakota,2021,11,9870 ,2.4
+North Dakota,2021,12,9610 ,2.3
+North Dakota,2022,1,9390 ,2.3
+North Dakota,2022,2,9107 ,2.2
+North Dakota,2022,3,8797 ,2.1
+North Dakota,2022,4,8486 ,2
+North Dakota,2022,5,8244 ,2
+North Dakota,2022,6,8124 ,2
+North Dakota,2022,7,8194 ,2
+North Dakota,2022,8,8420 ,2
+North Dakota,2022,9,8686 ,2.1
+North Dakota,2022,10,8878 ,2.1
+North Dakota,2022,11,8897 ,2.1
+North Dakota,2022,12,8850 ,2.1
+North Dakota,2023,1,8849 ,2.1
+North Dakota,2023,2,8856 ,2.1
+North Dakota,2023,3,8704 ,2.1
+North Dakota,2023,4,8713 ,2.1
+North Dakota,2023,5,8707 ,2.1
+North Dakota,2023,6,8465 ,2
+North Dakota,2023,7,8292 ,2
+North Dakota,2023,8,7890 ,1.9
+North Dakota,2023,9,7773 ,1.9
+Ohio,2014,1,376585 ,6.6
+Ohio,2014,2,362191 ,6.4
+Ohio,2014,3,350832 ,6.2
+Ohio,2014,4,343117 ,6
+Ohio,2014,5,337582 ,5.9
+Ohio,2014,6,332470 ,5.8
+Ohio,2014,7,327120 ,5.7
+Ohio,2014,8,321768 ,5.6
+Ohio,2014,9,316199 ,5.5
+Ohio,2014,10,310126 ,5.4
+Ohio,2014,11,304078 ,5.3
+Ohio,2014,12,299520 ,5.2
+Ohio,2015,1,297012 ,5.2
+Ohio,2015,2,295923 ,5.2
+Ohio,2015,3,294404 ,5.2
+Ohio,2015,4,291289 ,5.1
+Ohio,2015,5,286399 ,5
+Ohio,2015,6,280445 ,4.9
+Ohio,2015,7,274913 ,4.8
+Ohio,2015,8,271232 ,4.8
+Ohio,2015,9,270094 ,4.7
+Ohio,2015,10,271758 ,4.8
+Ohio,2015,11,276016 ,4.8
+Ohio,2015,12,281461 ,4.9
+Ohio,2016,1,286014 ,5
+Ohio,2016,2,288352 ,5
+Ohio,2016,3,288144 ,5
+Ohio,2016,4,286587 ,5
+Ohio,2016,5,285330 ,5
+Ohio,2016,6,285294 ,5
+Ohio,2016,7,286502 ,5
+Ohio,2016,8,289222 ,5
+Ohio,2016,9,293907 ,5.1
+Ohio,2016,10,299435 ,5.2
+Ohio,2016,11,303395 ,5.3
+Ohio,2016,12,304422 ,5.3
+Ohio,2017,1,304591 ,5.3
+Ohio,2017,2,301825 ,5.2
+Ohio,2017,3,298578 ,5.1
+Ohio,2017,4,295534 ,5.1
+Ohio,2017,5,292878 ,5
+Ohio,2017,6,291042 ,5
+Ohio,2017,7,290033 ,5
+Ohio,2017,8,288361 ,4.9
+Ohio,2017,9,284653 ,4.9
+Ohio,2017,10,278765 ,4.8
+Ohio,2017,11,272540 ,4.7
+Ohio,2017,12,267350 ,4.6
+Ohio,2018,1,264864 ,4.6
+Ohio,2018,2,264187 ,4.6
+Ohio,2018,3,264629 ,4.6
+Ohio,2018,4,264646 ,4.5
+Ohio,2018,5,263618 ,4.5
+Ohio,2018,6,261361 ,4.5
+Ohio,2018,7,258822 ,4.4
+Ohio,2018,8,257808 ,4.4
+Ohio,2018,9,259031 ,4.4
+Ohio,2018,10,261356 ,4.5
+Ohio,2018,11,262736 ,4.5
+Ohio,2018,12,261161 ,4.5
+Ohio,2019,1,255637 ,4.4
+Ohio,2019,2,246925 ,4.2
+Ohio,2019,3,238274 ,4.1
+Ohio,2019,4,232659 ,4
+Ohio,2019,5,231544 ,3.9
+Ohio,2019,6,234673 ,4
+Ohio,2019,7,240463 ,4.1
+Ohio,2019,8,246732 ,4.2
+Ohio,2019,9,251252 ,4.3
+Ohio,2019,10,254080 ,4.3
+Ohio,2019,11,255539 ,4.3
+Ohio,2019,12,257765 ,4.4
+Ohio,2020,1,262715 ,4.4
+Ohio,2020,2,269967 ,4.6
+Ohio,2020,3,276767 ,4.7
+Ohio,2020,4,910805 ,16.4
+Ohio,2020,5,723540 ,12.7
+Ohio,2020,6,626289 ,11
+Ohio,2020,7,565447 ,9.9
+Ohio,2020,8,482424 ,8.4
+Ohio,2020,9,443034 ,7.7
+Ohio,2020,10,397201 ,6.9
+Ohio,2020,11,376142 ,6.5
+Ohio,2020,12,363351 ,6.3
+Ohio,2021,1,345594 ,6
+Ohio,2021,2,336672 ,5.9
+Ohio,2021,3,328280 ,5.7
+Ohio,2021,4,320890 ,5.6
+Ohio,2021,5,310282 ,5.4
+Ohio,2021,6,302231 ,5.3
+Ohio,2021,7,291447 ,5.1
+Ohio,2021,8,280344 ,4.9
+Ohio,2021,9,268229 ,4.7
+Ohio,2021,10,257547 ,4.5
+Ohio,2021,11,248218 ,4.3
+Ohio,2021,12,241023 ,4.2
+Ohio,2022,1,235853 ,4.1
+Ohio,2022,2,230437 ,4
+Ohio,2022,3,226044 ,3.9
+Ohio,2022,4,223294 ,3.9
+Ohio,2022,5,222664 ,3.9
+Ohio,2022,6,224221 ,3.9
+Ohio,2022,7,227831 ,4
+Ohio,2022,8,232505 ,4.1
+Ohio,2022,9,236035 ,4.1
+Ohio,2022,10,237500 ,4.2
+Ohio,2022,11,236783 ,4.1
+Ohio,2022,12,235746 ,4.1
+Ohio,2023,1,228884 ,4
+Ohio,2023,2,223524 ,3.9
+Ohio,2023,3,218347 ,3.8
+Ohio,2023,4,211210 ,3.7
+Ohio,2023,5,206640 ,3.6
+Ohio,2023,6,200249 ,3.4
+Ohio,2023,7,193792 ,3.3
+Ohio,2023,8,195642 ,3.4
+Ohio,2023,9,199255 ,3.4
+Oklahoma,2014,1,87191 ,4.9
+Oklahoma,2014,2,84954 ,4.7
+Oklahoma,2014,3,82725 ,4.6
+Oklahoma,2014,4,80756 ,4.5
+Oklahoma,2014,5,78977 ,4.4
+Oklahoma,2014,6,77425 ,4.3
+Oklahoma,2014,7,76153 ,4.2
+Oklahoma,2014,8,75164 ,4.2
+Oklahoma,2014,9,74357 ,4.1
+Oklahoma,2014,10,73489 ,4.1
+Oklahoma,2014,11,72679 ,4
+Oklahoma,2014,12,72473 ,4
+Oklahoma,2015,1,73211 ,4
+Oklahoma,2015,2,74855 ,4.1
+Oklahoma,2015,3,76889 ,4.2
+Oklahoma,2015,4,78688 ,4.3
+Oklahoma,2015,5,79809 ,4.4
+Oklahoma,2015,6,80136 ,4.4
+Oklahoma,2015,7,79899 ,4.4
+Oklahoma,2015,8,79439 ,4.3
+Oklahoma,2015,9,79026 ,4.3
+Oklahoma,2015,10,79065 ,4.3
+Oklahoma,2015,11,79748 ,4.4
+Oklahoma,2015,12,80799 ,4.4
+Oklahoma,2016,1,81923 ,4.5
+Oklahoma,2016,2,83026 ,4.5
+Oklahoma,2016,3,84072 ,4.6
+Oklahoma,2016,4,85165 ,4.7
+Oklahoma,2016,5,86275 ,4.7
+Oklahoma,2016,6,87094 ,4.8
+Oklahoma,2016,7,87409 ,4.8
+Oklahoma,2016,8,87204 ,4.8
+Oklahoma,2016,9,86555 ,4.7
+Oklahoma,2016,10,85394 ,4.7
+Oklahoma,2016,11,83709 ,4.6
+Oklahoma,2016,12,81734 ,4.5
+Oklahoma,2017,1,79344 ,4.4
+Oklahoma,2017,2,77403 ,4.3
+Oklahoma,2017,3,75762 ,4.2
+Oklahoma,2017,4,74560 ,4.1
+Oklahoma,2017,5,73771 ,4
+Oklahoma,2017,6,73333 ,4
+Oklahoma,2017,7,73090 ,4
+Oklahoma,2017,8,72795 ,4
+Oklahoma,2017,9,72268 ,3.9
+Oklahoma,2017,10,71409 ,3.9
+Oklahoma,2017,11,70352 ,3.8
+Oklahoma,2017,12,69104 ,3.8
+Oklahoma,2018,1,68058 ,3.7
+Oklahoma,2018,2,66498 ,3.6
+Oklahoma,2018,3,64645 ,3.5
+Oklahoma,2018,4,62459 ,3.4
+Oklahoma,2018,5,60224 ,3.3
+Oklahoma,2018,6,58251 ,3.2
+Oklahoma,2018,7,56702 ,3.1
+Oklahoma,2018,8,55905 ,3.1
+Oklahoma,2018,9,56055 ,3.1
+Oklahoma,2018,10,56976 ,3.1
+Oklahoma,2018,11,58142 ,3.2
+Oklahoma,2018,12,58982 ,3.2
+Oklahoma,2019,1,59114 ,3.2
+Oklahoma,2019,2,58438 ,3.2
+Oklahoma,2019,3,57305 ,3.1
+Oklahoma,2019,4,56168 ,3.1
+Oklahoma,2019,5,55533 ,3
+Oklahoma,2019,6,55778 ,3
+Oklahoma,2019,7,56866 ,3.1
+Oklahoma,2019,8,58202 ,3.2
+Oklahoma,2019,9,58892 ,3.2
+Oklahoma,2019,10,58860 ,3.2
+Oklahoma,2019,11,58322 ,3.2
+Oklahoma,2019,12,57768 ,3.1
+Oklahoma,2020,1,57573 ,3.1
+Oklahoma,2020,2,57986 ,3.2
+Oklahoma,2020,3,58808 ,3.2
+Oklahoma,2020,4,226105 ,12.5
+Oklahoma,2020,5,178252 ,9.7
+Oklahoma,2020,6,150707 ,8.2
+Oklahoma,2020,7,136111 ,7.4
+Oklahoma,2020,8,117361 ,6.4
+Oklahoma,2020,9,110955 ,6
+Oklahoma,2020,10,102787 ,5.5
+Oklahoma,2020,11,99542 ,5.4
+Oklahoma,2020,12,97144 ,5.2
+Oklahoma,2021,1,93595 ,5
+Oklahoma,2021,2,90952 ,4.9
+Oklahoma,2021,3,88422 ,4.7
+Oklahoma,2021,4,86016 ,4.6
+Oklahoma,2021,5,83015 ,4.5
+Oklahoma,2021,6,79829 ,4.3
+Oklahoma,2021,7,74994 ,4
+Oklahoma,2021,8,69565 ,3.7
+Oklahoma,2021,9,63931 ,3.4
+Oklahoma,2021,10,59407 ,3.2
+Oklahoma,2021,11,56230 ,3
+Oklahoma,2021,12,54424 ,2.9
+Oklahoma,2022,1,53805 ,2.9
+Oklahoma,2022,2,53425 ,2.8
+Oklahoma,2022,3,53266 ,2.8
+Oklahoma,2022,4,53555 ,2.8
+Oklahoma,2022,5,54481 ,2.9
+Oklahoma,2022,6,56060 ,3
+Oklahoma,2022,7,57994 ,3.1
+Oklahoma,2022,8,59742 ,3.2
+Oklahoma,2022,9,60656 ,3.2
+Oklahoma,2022,10,60681 ,3.2
+Oklahoma,2022,11,60049 ,3.2
+Oklahoma,2022,12,59659 ,3.2
+Oklahoma,2023,1,58843 ,3.1
+Oklahoma,2023,2,57608 ,3
+Oklahoma,2023,3,56853 ,3
+Oklahoma,2023,4,54463 ,2.9
+Oklahoma,2023,5,53566 ,2.8
+Oklahoma,2023,6,52084 ,2.7
+Oklahoma,2023,7,52229 ,2.7
+Oklahoma,2023,8,54368 ,2.8
+Oklahoma,2023,9,58297 ,3
+Oregon,2014,1,138389 ,7.2
+Oregon,2014,2,137655 ,7.1
+Oregon,2014,3,136345 ,7
+Oregon,2014,4,134569 ,6.9
+Oregon,2014,5,132401 ,6.8
+Oregon,2014,6,130213 ,6.7
+Oregon,2014,7,128439 ,6.6
+Oregon,2014,8,127133 ,6.5
+Oregon,2014,9,125795 ,6.4
+Oregon,2014,10,123709 ,6.3
+Oregon,2014,11,120705 ,6.2
+Oregon,2014,12,117423 ,6
+Oregon,2015,1,114635 ,5.8
+Oregon,2015,2,112835 ,5.8
+Oregon,2015,3,111796 ,5.7
+Oregon,2015,4,111181 ,5.7
+Oregon,2015,5,110581 ,5.6
+Oregon,2015,6,109548 ,5.5
+Oregon,2015,7,108094 ,5.5
+Oregon,2015,8,106430 ,5.4
+Oregon,2015,9,104674 ,5.3
+Oregon,2015,10,103061 ,5.2
+Oregon,2015,11,101815 ,5.1
+Oregon,2015,12,100757 ,5
+Oregon,2016,1,99877 ,4.9
+Oregon,2016,2,99443 ,4.9
+Oregon,2016,3,99479 ,4.9
+Oregon,2016,4,99853 ,4.9
+Oregon,2016,5,100289 ,4.9
+Oregon,2016,6,100384 ,4.9
+Oregon,2016,7,99615 ,4.9
+Oregon,2016,8,97994 ,4.8
+Oregon,2016,9,95823 ,4.7
+Oregon,2016,10,93180 ,4.5
+Oregon,2016,11,90251 ,4.4
+Oregon,2016,12,87407 ,4.3
+Oregon,2017,1,84475 ,4.1
+Oregon,2017,2,82482 ,4
+Oregon,2017,3,81405 ,3.9
+Oregon,2017,4,81369 ,3.9
+Oregon,2017,5,82150 ,4
+Oregon,2017,6,83446 ,4
+Oregon,2017,7,84955 ,4.1
+Oregon,2017,8,86145 ,4.1
+Oregon,2017,9,86760 ,4.2
+Oregon,2017,10,86762 ,4.2
+Oregon,2017,11,86249 ,4.1
+Oregon,2017,12,85347 ,4.1
+Oregon,2018,1,84963 ,4.1
+Oregon,2018,2,83853 ,4
+Oregon,2018,3,82612 ,4
+Oregon,2018,4,81227 ,3.9
+Oregon,2018,5,80132 ,3.9
+Oregon,2018,6,79781 ,3.8
+Oregon,2018,7,80432 ,3.9
+Oregon,2018,8,82156 ,4
+Oregon,2018,9,84607 ,4.1
+Oregon,2018,10,87051 ,4.2
+Oregon,2018,11,88789 ,4.3
+Oregon,2018,12,89188 ,4.3
+Oregon,2019,1,88018 ,4.2
+Oregon,2019,2,85578 ,4.1
+Oregon,2019,3,82782 ,4
+Oregon,2019,4,80415 ,3.8
+Oregon,2019,5,78795 ,3.8
+Oregon,2019,6,77795 ,3.7
+Oregon,2019,7,77022 ,3.7
+Oregon,2019,8,76004 ,3.6
+Oregon,2019,9,74340 ,3.5
+Oregon,2019,10,72584 ,3.5
+Oregon,2019,11,71378 ,3.4
+Oregon,2019,12,71285 ,3.4
+Oregon,2020,1,72520 ,3.5
+Oregon,2020,2,74806 ,3.6
+Oregon,2020,3,77173 ,3.7
+Oregon,2020,4,280473 ,13.7
+Oregon,2020,5,247894 ,11.8
+Oregon,2020,6,213337 ,10.2
+Oregon,2020,7,195128 ,9.2
+Oregon,2020,8,168533 ,8
+Oregon,2020,9,160112 ,7.5
+Oregon,2020,10,146781 ,6.9
+Oregon,2020,11,142199 ,6.7
+Oregon,2020,12,141779 ,6.6
+Oregon,2021,1,137192 ,6.4
+Oregon,2021,2,134437 ,6.3
+Oregon,2021,3,131179 ,6.1
+Oregon,2021,4,127123 ,5.9
+Oregon,2021,5,119949 ,5.6
+Oregon,2021,6,115970 ,5.4
+Oregon,2021,7,108768 ,5.1
+Oregon,2021,8,103666 ,4.8
+Oregon,2021,9,97482 ,4.5
+Oregon,2021,10,93413 ,4.3
+Oregon,2021,11,88809 ,4.1
+Oregon,2021,12,86039 ,4
+Oregon,2022,1,83254 ,3.8
+Oregon,2022,2,79254 ,3.7
+Oregon,2022,3,76941 ,3.5
+Oregon,2022,4,77253 ,3.6
+Oregon,2022,5,79636 ,3.7
+Oregon,2022,6,83928 ,3.9
+Oregon,2022,7,89280 ,4.1
+Oregon,2022,8,94541 ,4.3
+Oregon,2022,9,101323 ,4.6
+Oregon,2022,10,105522 ,4.8
+Oregon,2022,11,105299 ,4.8
+Oregon,2022,12,104143 ,4.8
+Oregon,2023,1,104988 ,4.8
+Oregon,2023,2,103216 ,4.7
+Oregon,2023,3,95582 ,4.4
+Oregon,2023,4,86849 ,4
+Oregon,2023,5,80678 ,3.7
+Oregon,2023,6,75562 ,3.5
+Oregon,2023,7,73709 ,3.4
+Oregon,2023,8,73506 ,3.4
+Oregon,2023,9,74832 ,3.5
+Pennsylvania,2014,1,414235 ,6.5
+Pennsylvania,2014,2,407292 ,6.4
+Pennsylvania,2014,3,401208 ,6.3
+Pennsylvania,2014,4,395448 ,6.2
+Pennsylvania,2014,5,388887 ,6.1
+Pennsylvania,2014,6,381129 ,6
+Pennsylvania,2014,7,372895 ,5.8
+Pennsylvania,2014,8,365820 ,5.7
+Pennsylvania,2014,9,360708 ,5.6
+Pennsylvania,2014,10,357011 ,5.6
+Pennsylvania,2014,11,354267 ,5.5
+Pennsylvania,2014,12,352874 ,5.5
+Pennsylvania,2015,1,352877 ,5.5
+Pennsylvania,2015,2,353828 ,5.5
+Pennsylvania,2015,3,354145 ,5.5
+Pennsylvania,2015,4,353228 ,5.5
+Pennsylvania,2015,5,350997 ,5.5
+Pennsylvania,2015,6,347910 ,5.4
+Pennsylvania,2015,7,344767 ,5.4
+Pennsylvania,2015,8,341900 ,5.3
+Pennsylvania,2015,9,339465 ,5.3
+Pennsylvania,2015,10,337949 ,5.3
+Pennsylvania,2015,11,337949 ,5.2
+Pennsylvania,2015,12,339188 ,5.3
+Pennsylvania,2016,1,340902 ,5.3
+Pennsylvania,2016,2,342842 ,5.3
+Pennsylvania,2016,3,344687 ,5.3
+Pennsylvania,2016,4,346459 ,5.4
+Pennsylvania,2016,5,348192 ,5.4
+Pennsylvania,2016,6,349494 ,5.4
+Pennsylvania,2016,7,349578 ,5.4
+Pennsylvania,2016,8,348455 ,5.4
+Pennsylvania,2016,9,346586 ,5.4
+Pennsylvania,2016,10,343907 ,5.3
+Pennsylvania,2016,11,340218 ,5.3
+Pennsylvania,2016,12,335870 ,5.2
+Pennsylvania,2017,1,336245 ,5.2
+Pennsylvania,2017,2,332752 ,5.1
+Pennsylvania,2017,3,329421 ,5.1
+Pennsylvania,2017,4,326308 ,5
+Pennsylvania,2017,5,323110 ,5
+Pennsylvania,2017,6,320415 ,4.9
+Pennsylvania,2017,7,318962 ,4.9
+Pennsylvania,2017,8,318367 ,4.9
+Pennsylvania,2017,9,318257 ,4.9
+Pennsylvania,2017,10,317849 ,4.9
+Pennsylvania,2017,11,316836 ,4.9
+Pennsylvania,2017,12,314505 ,4.9
+Pennsylvania,2018,1,311198 ,4.8
+Pennsylvania,2018,2,306091 ,4.7
+Pennsylvania,2018,3,299718 ,4.6
+Pennsylvania,2018,4,292722 ,4.5
+Pennsylvania,2018,5,286516 ,4.4
+Pennsylvania,2018,6,281791 ,4.3
+Pennsylvania,2018,7,278454 ,4.3
+Pennsylvania,2018,8,276822 ,4.3
+Pennsylvania,2018,9,276912 ,4.2
+Pennsylvania,2018,10,278563 ,4.3
+Pennsylvania,2018,11,281311 ,4.3
+Pennsylvania,2018,12,284404 ,4.3
+Pennsylvania,2019,1,286726 ,4.4
+Pennsylvania,2019,2,286672 ,4.4
+Pennsylvania,2019,3,284516 ,4.3
+Pennsylvania,2019,4,281038 ,4.3
+Pennsylvania,2019,5,277728 ,4.2
+Pennsylvania,2019,6,276259 ,4.2
+Pennsylvania,2019,7,277657 ,4.2
+Pennsylvania,2019,8,281467 ,4.3
+Pennsylvania,2019,9,285254 ,4.3
+Pennsylvania,2019,10,288948 ,4.4
+Pennsylvania,2019,11,291936 ,4.4
+Pennsylvania,2019,12,294297 ,4.5
+Pennsylvania,2020,1,298676 ,4.5
+Pennsylvania,2020,2,308541 ,4.7
+Pennsylvania,2020,3,323080 ,4.9
+Pennsylvania,2020,4,1030342 ,16.2
+Pennsylvania,2020,5,837526 ,12.9
+Pennsylvania,2020,6,735209 ,11.3
+Pennsylvania,2020,7,684372 ,10.5
+Pennsylvania,2020,8,610308 ,9.4
+Pennsylvania,2020,9,577551 ,8.8
+Pennsylvania,2020,10,537122 ,8.2
+Pennsylvania,2020,11,518130 ,7.9
+Pennsylvania,2020,12,501122 ,7.7
+Pennsylvania,2021,1,484684 ,7.5
+Pennsylvania,2021,2,466802 ,7.2
+Pennsylvania,2021,3,447250 ,6.9
+Pennsylvania,2021,4,430136 ,6.6
+Pennsylvania,2021,5,412844 ,6.4
+Pennsylvania,2021,6,401029 ,6.2
+Pennsylvania,2021,7,384868 ,6
+Pennsylvania,2021,8,366424 ,5.7
+Pennsylvania,2021,9,345562 ,5.4
+Pennsylvania,2021,10,326083 ,5.1
+Pennsylvania,2021,11,309000 ,4.8
+Pennsylvania,2021,12,296291 ,4.6
+Pennsylvania,2022,1,288837 ,4.5
+Pennsylvania,2022,2,284267 ,4.4
+Pennsylvania,2022,3,281841 ,4.4
+Pennsylvania,2022,4,280518 ,4.3
+Pennsylvania,2022,5,278922 ,4.3
+Pennsylvania,2022,6,277349 ,4.3
+Pennsylvania,2022,7,277323 ,4.3
+Pennsylvania,2022,8,279174 ,4.3
+Pennsylvania,2022,9,280995 ,4.3
+Pennsylvania,2022,10,282194 ,4.4
+Pennsylvania,2022,11,282116 ,4.4
+Pennsylvania,2022,12,281447 ,4.3
+Pennsylvania,2023,1,281289 ,4.3
+Pennsylvania,2023,2,283410 ,4.4
+Pennsylvania,2023,3,276017 ,4.2
+Pennsylvania,2023,4,267513 ,4.1
+Pennsylvania,2023,5,259349 ,4
+Pennsylvania,2023,6,245723 ,3.8
+Pennsylvania,2023,7,230405 ,3.5
+Pennsylvania,2023,8,226208 ,3.5
+Pennsylvania,2023,9,221513 ,3.4
+Rhode Island,2014,1,49701 ,8.9
+Rhode Island,2014,2,48519 ,8.7
+Rhode Island,2014,3,47240 ,8.5
+Rhode Island,2014,4,45968 ,8.3
+Rhode Island,2014,5,44720 ,8
+Rhode Island,2014,6,43532 ,7.8
+Rhode Island,2014,7,42429 ,7.6
+Rhode Island,2014,8,41406 ,7.4
+Rhode Island,2014,9,40419 ,7.3
+Rhode Island,2014,10,39395 ,7.1
+Rhode Island,2014,11,38321 ,6.9
+Rhode Island,2014,12,37330 ,6.7
+Rhode Island,2015,1,36559 ,6.6
+Rhode Island,2015,2,36029 ,6.5
+Rhode Island,2015,3,35580 ,6.4
+Rhode Island,2015,4,35045 ,6.3
+Rhode Island,2015,5,34358 ,6.2
+Rhode Island,2015,6,33567 ,6
+Rhode Island,2015,7,32803 ,5.9
+Rhode Island,2015,8,32174 ,5.8
+Rhode Island,2015,9,31689 ,5.7
+Rhode Island,2015,10,31344 ,5.7
+Rhode Island,2015,11,31124 ,5.6
+Rhode Island,2015,12,30939 ,5.6
+Rhode Island,2016,1,30698 ,5.6
+Rhode Island,2016,2,30408 ,5.5
+Rhode Island,2016,3,30103 ,5.4
+Rhode Island,2016,4,29840 ,5.4
+Rhode Island,2016,5,29656 ,5.4
+Rhode Island,2016,6,29458 ,5.3
+Rhode Island,2016,7,29123 ,5.3
+Rhode Island,2016,8,28655 ,5.2
+Rhode Island,2016,9,28137 ,5.1
+Rhode Island,2016,10,27570 ,5
+Rhode Island,2016,11,26971 ,4.9
+Rhode Island,2016,12,26357 ,4.8
+Rhode Island,2017,1,26265 ,4.6
+Rhode Island,2017,2,25718 ,4.5
+Rhode Island,2017,3,25340 ,4.5
+Rhode Island,2017,4,25112 ,4.4
+Rhode Island,2017,5,25009 ,4.4
+Rhode Island,2017,6,25083 ,4.4
+Rhode Island,2017,7,25343 ,4.5
+Rhode Island,2017,8,25647 ,4.5
+Rhode Island,2017,9,25902 ,4.6
+Rhode Island,2017,10,26043 ,4.6
+Rhode Island,2017,11,26039 ,4.6
+Rhode Island,2017,12,25826 ,4.5
+Rhode Island,2018,1,25450 ,4.5
+Rhode Island,2018,2,24920 ,4.4
+Rhode Island,2018,3,24271 ,4.2
+Rhode Island,2018,4,23629 ,4.1
+Rhode Island,2018,5,23078 ,4
+Rhode Island,2018,6,22661 ,3.9
+Rhode Island,2018,7,22411 ,3.9
+Rhode Island,2018,8,22355 ,3.9
+Rhode Island,2018,9,22409 ,3.9
+Rhode Island,2018,10,22425 ,3.9
+Rhode Island,2018,11,22303 ,3.9
+Rhode Island,2018,12,21986 ,3.8
+Rhode Island,2019,1,21497 ,3.8
+Rhode Island,2019,2,20886 ,3.7
+Rhode Island,2019,3,20309 ,3.6
+Rhode Island,2019,4,19908 ,3.5
+Rhode Island,2019,5,19753 ,3.5
+Rhode Island,2019,6,19844 ,3.5
+Rhode Island,2019,7,20096 ,3.5
+Rhode Island,2019,8,20341 ,3.5
+Rhode Island,2019,9,20324 ,3.5
+Rhode Island,2019,10,20171 ,3.5
+Rhode Island,2019,11,20092 ,3.5
+Rhode Island,2019,12,20288 ,3.5
+Rhode Island,2020,1,20715 ,3.6
+Rhode Island,2020,2,21014 ,3.7
+Rhode Island,2020,3,20768 ,3.6
+Rhode Island,2020,4,98554 ,18
+Rhode Island,2020,5,87823 ,15.4
+Rhode Island,2020,6,76213 ,13.3
+Rhode Island,2020,7,69629 ,12.1
+Rhode Island,2020,8,58226 ,10.2
+Rhode Island,2020,9,56182 ,9.7
+Rhode Island,2020,10,39616 ,7
+Rhode Island,2020,11,39669 ,7
+Rhode Island,2020,12,39192 ,6.9
+Rhode Island,2021,1,36741 ,6.5
+Rhode Island,2021,2,35627 ,6.2
+Rhode Island,2021,3,34745 ,6.1
+Rhode Island,2021,4,34802 ,6.1
+Rhode Island,2021,5,33845 ,5.9
+Rhode Island,2021,6,34543 ,6
+Rhode Island,2021,7,33492 ,5.8
+Rhode Island,2021,8,32105 ,5.6
+Rhode Island,2021,9,29612 ,5.2
+Rhode Island,2021,10,27039 ,4.7
+Rhode Island,2021,11,24049 ,4.2
+Rhode Island,2021,12,21552 ,3.8
+Rhode Island,2022,1,20080 ,3.5
+Rhode Island,2022,2,18411 ,3.2
+Rhode Island,2022,3,17190 ,3
+Rhode Island,2022,4,16828 ,2.9
+Rhode Island,2022,5,16975 ,3
+Rhode Island,2022,6,17545 ,3.1
+Rhode Island,2022,7,18279 ,3.2
+Rhode Island,2022,8,19147 ,3.4
+Rhode Island,2022,9,19263 ,3.4
+Rhode Island,2022,10,19177 ,3.4
+Rhode Island,2022,11,18629 ,3.3
+Rhode Island,2022,12,18157 ,3.2
+Rhode Island,2023,1,17561 ,3.1
+Rhode Island,2023,2,17357 ,3.1
+Rhode Island,2023,3,17356 ,3.1
+Rhode Island,2023,4,16964 ,3
+Rhode Island,2023,5,16816 ,3
+Rhode Island,2023,6,16804 ,2.9
+Rhode Island,2023,7,15813 ,2.8
+Rhode Island,2023,8,15232 ,2.7
+Rhode Island,2023,9,14873 ,2.6
+South Carolina,2014,1,134988 ,6.1
+South Carolina,2014,2,132437 ,6
+South Carolina,2014,3,131563 ,6
+South Carolina,2014,4,132494 ,6
+South Carolina,2014,5,134751 ,6.1
+South Carolina,2014,6,137803 ,6.2
+South Carolina,2014,7,141105 ,6.3
+South Carolina,2014,8,144118 ,6.5
+South Carolina,2014,9,146425 ,6.5
+South Carolina,2014,10,147477 ,6.6
+South Carolina,2014,11,147043 ,6.5
+South Carolina,2014,12,145928 ,6.5
+South Carolina,2015,1,144879 ,6.4
+South Carolina,2015,2,144092 ,6.4
+South Carolina,2015,3,143024 ,6.3
+South Carolina,2015,4,141173 ,6.2
+South Carolina,2015,5,138502 ,6.1
+South Carolina,2015,6,135205 ,6
+South Carolina,2015,7,131774 ,5.8
+South Carolina,2015,8,128714 ,5.7
+South Carolina,2015,9,126127 ,5.6
+South Carolina,2015,10,124279 ,5.5
+South Carolina,2015,11,123385 ,5.4
+South Carolina,2015,12,122844 ,5.4
+South Carolina,2016,1,122101 ,5.3
+South Carolina,2016,2,121018 ,5.3
+South Carolina,2016,3,119508 ,5.2
+South Carolina,2016,4,117710 ,5.1
+South Carolina,2016,5,115711 ,5.1
+South Carolina,2016,6,113467 ,5
+South Carolina,2016,7,110975 ,4.9
+South Carolina,2016,8,108550 ,4.8
+South Carolina,2016,9,106657 ,4.7
+South Carolina,2016,10,105109 ,4.6
+South Carolina,2016,11,103506 ,4.5
+South Carolina,2016,12,101808 ,4.5
+South Carolina,2017,1,98609 ,4.4
+South Carolina,2017,2,96842 ,4.3
+South Carolina,2017,3,95309 ,4.2
+South Carolina,2017,4,94216 ,4.2
+South Carolina,2017,5,93629 ,4.1
+South Carolina,2017,6,93696 ,4.1
+South Carolina,2017,7,94370 ,4.2
+South Carolina,2017,8,95210 ,4.2
+South Carolina,2017,9,95747 ,4.2
+South Carolina,2017,10,95652 ,4.2
+South Carolina,2017,11,94504 ,4.2
+South Carolina,2017,12,91832 ,4.1
+South Carolina,2018,1,87385 ,3.9
+South Carolina,2018,2,82827 ,3.7
+South Carolina,2018,3,78516 ,3.5
+South Carolina,2018,4,75274 ,3.3
+South Carolina,2018,5,73700 ,3.2
+South Carolina,2018,6,73709 ,3.2
+South Carolina,2018,7,74588 ,3.3
+South Carolina,2018,8,75571 ,3.3
+South Carolina,2018,9,75984 ,3.3
+South Carolina,2018,10,75646 ,3.3
+South Carolina,2018,11,74977 ,3.3
+South Carolina,2018,12,74515 ,3.2
+South Carolina,2019,1,74297 ,3.2
+South Carolina,2019,2,73919 ,3.2
+South Carolina,2019,3,73010 ,3.1
+South Carolina,2019,4,71023 ,3.1
+South Carolina,2019,5,67798 ,2.9
+South Carolina,2019,6,63895 ,2.7
+South Carolina,2019,7,60266 ,2.6
+South Carolina,2019,8,57718 ,2.5
+South Carolina,2019,9,56580 ,2.4
+South Carolina,2019,10,57112 ,2.5
+South Carolina,2019,11,58984 ,2.5
+South Carolina,2019,12,61775 ,2.7
+South Carolina,2020,1,64986 ,2.8
+South Carolina,2020,2,68240 ,2.9
+South Carolina,2020,3,71028 ,3.1
+South Carolina,2020,4,271601 ,11.7
+South Carolina,2020,5,215260 ,9.2
+South Carolina,2020,6,181815 ,7.8
+South Carolina,2020,7,165893 ,7.1
+South Carolina,2020,8,145434 ,6.2
+South Carolina,2020,9,136177 ,5.8
+South Carolina,2020,10,124686 ,5.3
+South Carolina,2020,11,118324 ,5
+South Carolina,2020,12,114512 ,4.9
+South Carolina,2021,1,108334 ,4.6
+South Carolina,2021,2,103827 ,4.4
+South Carolina,2021,3,100594 ,4.3
+South Carolina,2021,4,98306 ,4.2
+South Carolina,2021,5,96556 ,4.1
+South Carolina,2021,6,95672 ,4.1
+South Carolina,2021,7,93510 ,4
+South Carolina,2021,8,90829 ,3.9
+South Carolina,2021,9,87492 ,3.7
+South Carolina,2021,10,84558 ,3.6
+South Carolina,2021,11,81830 ,3.5
+South Carolina,2021,12,79625 ,3.4
+South Carolina,2022,1,78422 ,3.3
+South Carolina,2022,2,77233 ,3.3
+South Carolina,2022,3,76169 ,3.2
+South Carolina,2022,4,75296 ,3.2
+South Carolina,2022,5,75133 ,3.2
+South Carolina,2022,6,75818 ,3.2
+South Carolina,2022,7,76979 ,3.2
+South Carolina,2022,8,78090 ,3.3
+South Carolina,2022,9,78407 ,3.3
+South Carolina,2022,10,78074 ,3.3
+South Carolina,2022,11,77457 ,3.3
+South Carolina,2022,12,77159 ,3.3
+South Carolina,2023,1,76046 ,3.2
+South Carolina,2023,2,76043 ,3.2
+South Carolina,2023,3,76414 ,3.2
+South Carolina,2023,4,75642 ,3.1
+South Carolina,2023,5,75621 ,3.1
+South Carolina,2023,6,76101 ,3.1
+South Carolina,2023,7,77071 ,3.1
+South Carolina,2023,8,73016 ,3
+South Carolina,2023,9,71669 ,2.9
+South Dakota,2014,1,15509 ,3.5
+South Dakota,2014,2,15389 ,3.4
+South Dakota,2014,3,15299 ,3.4
+South Dakota,2014,4,15224 ,3.4
+South Dakota,2014,5,15109 ,3.4
+South Dakota,2014,6,14959 ,3.3
+South Dakota,2014,7,14835 ,3.3
+South Dakota,2014,8,14784 ,3.3
+South Dakota,2014,9,14783 ,3.3
+South Dakota,2014,10,14770 ,3.3
+South Dakota,2014,11,14687 ,3.2
+South Dakota,2014,12,14559 ,3.2
+South Dakota,2015,1,14430 ,3.2
+South Dakota,2015,2,14339 ,3.2
+South Dakota,2015,3,14278 ,3.2
+South Dakota,2015,4,14218 ,3.1
+South Dakota,2015,5,14139 ,3.1
+South Dakota,2015,6,14009 ,3.1
+South Dakota,2015,7,13819 ,3.1
+South Dakota,2015,8,13597 ,3
+South Dakota,2015,9,13369 ,3
+South Dakota,2015,10,13170 ,2.9
+South Dakota,2015,11,13027 ,2.9
+South Dakota,2015,12,12926 ,2.8
+South Dakota,2016,1,12861 ,2.8
+South Dakota,2016,2,12865 ,2.8
+South Dakota,2016,3,12950 ,2.8
+South Dakota,2016,4,13129 ,2.9
+South Dakota,2016,5,13390 ,2.9
+South Dakota,2016,6,13680 ,3
+South Dakota,2016,7,13942 ,3.1
+South Dakota,2016,8,14157 ,3.1
+South Dakota,2016,9,14343 ,3.2
+South Dakota,2016,10,14484 ,3.2
+South Dakota,2016,11,14543 ,3.2
+South Dakota,2016,12,14518 ,3.2
+South Dakota,2017,1,14167 ,3.1
+South Dakota,2017,2,14017 ,3.1
+South Dakota,2017,3,13891 ,3.1
+South Dakota,2017,4,13831 ,3
+South Dakota,2017,5,13833 ,3
+South Dakota,2017,6,13879 ,3
+South Dakota,2017,7,13950 ,3.1
+South Dakota,2017,8,13984 ,3.1
+South Dakota,2017,9,13950 ,3.1
+South Dakota,2017,10,13844 ,3
+South Dakota,2017,11,13720 ,3
+South Dakota,2017,12,13581 ,3
+South Dakota,2018,1,13560 ,3
+South Dakota,2018,2,13433 ,2.9
+South Dakota,2018,3,13274 ,2.9
+South Dakota,2018,4,13064 ,2.8
+South Dakota,2018,5,12857 ,2.8
+South Dakota,2018,6,12678 ,2.8
+South Dakota,2018,7,12509 ,2.7
+South Dakota,2018,8,12400 ,2.7
+South Dakota,2018,9,12393 ,2.7
+South Dakota,2018,10,12489 ,2.7
+South Dakota,2018,11,12649 ,2.7
+South Dakota,2018,12,12814 ,2.8
+South Dakota,2019,1,12956 ,2.8
+South Dakota,2019,2,13034 ,2.8
+South Dakota,2019,3,13067 ,2.8
+South Dakota,2019,4,13067 ,2.8
+South Dakota,2019,5,13040 ,2.8
+South Dakota,2019,6,13025 ,2.8
+South Dakota,2019,7,13057 ,2.8
+South Dakota,2019,8,13095 ,2.8
+South Dakota,2019,9,13030 ,2.8
+South Dakota,2019,10,12861 ,2.8
+South Dakota,2019,11,12617 ,2.7
+South Dakota,2019,12,12361 ,2.7
+South Dakota,2020,1,12077 ,2.6
+South Dakota,2020,2,11716 ,2.5
+South Dakota,2020,3,11242 ,2.4
+South Dakota,2020,4,40653 ,8.8
+South Dakota,2020,5,30592 ,6.6
+South Dakota,2020,6,24583 ,5.3
+South Dakota,2020,7,21912 ,4.7
+South Dakota,2020,8,18998 ,4.1
+South Dakota,2020,9,17696 ,3.8
+South Dakota,2020,10,16049 ,3.4
+South Dakota,2020,11,15304 ,3.3
+South Dakota,2020,12,14754 ,3.2
+South Dakota,2021,1,13893 ,3
+South Dakota,2021,2,13470 ,2.9
+South Dakota,2021,3,13304 ,2.8
+South Dakota,2021,4,13254 ,2.8
+South Dakota,2021,5,13123 ,2.8
+South Dakota,2021,6,13106 ,2.8
+South Dakota,2021,7,12870 ,2.7
+South Dakota,2021,8,12490 ,2.7
+South Dakota,2021,9,11915 ,2.5
+South Dakota,2021,10,11287 ,2.4
+South Dakota,2021,11,10572 ,2.2
+South Dakota,2021,12,9934 ,2.1
+South Dakota,2022,1,9439 ,2
+South Dakota,2022,2,9096 ,1.9
+South Dakota,2022,3,8995 ,1.9
+South Dakota,2022,4,9100 ,1.9
+South Dakota,2022,5,9361 ,2
+South Dakota,2022,6,9689 ,2
+South Dakota,2022,7,10037 ,2.1
+South Dakota,2022,8,10311 ,2.2
+South Dakota,2022,9,10434 ,2.2
+South Dakota,2022,10,10458 ,2.2
+South Dakota,2022,11,10392 ,2.2
+South Dakota,2022,12,10346 ,2.2
+South Dakota,2023,1,10061 ,2.1
+South Dakota,2023,2,9842 ,2.1
+South Dakota,2023,3,9186 ,1.9
+South Dakota,2023,4,8980 ,1.9
+South Dakota,2023,5,8914 ,1.9
+South Dakota,2023,6,8865 ,1.8
+South Dakota,2023,7,8959 ,1.9
+South Dakota,2023,8,9073 ,1.9
+South Dakota,2023,9,9425 ,1.9
+Tennessee,2014,1,211669 ,6.9
+Tennessee,2014,2,207705 ,6.8
+Tennessee,2014,3,205322 ,6.8
+Tennessee,2014,4,204475 ,6.7
+Tennessee,2014,5,204079 ,6.7
+Tennessee,2014,6,203334 ,6.7
+Tennessee,2014,7,201969 ,6.6
+Tennessee,2014,8,200213 ,6.6
+Tennessee,2014,9,198271 ,6.5
+Tennessee,2014,10,195724 ,6.4
+Tennessee,2014,11,192577 ,6.3
+Tennessee,2014,12,189591 ,6.2
+Tennessee,2015,1,187253 ,6.1
+Tennessee,2015,2,185458 ,6.1
+Tennessee,2015,3,183470 ,6
+Tennessee,2015,4,180938 ,5.9
+Tennessee,2015,5,177838 ,5.8
+Tennessee,2015,6,174242 ,5.7
+Tennessee,2015,7,170433 ,5.5
+Tennessee,2015,8,166534 ,5.4
+Tennessee,2015,9,162361 ,5.3
+Tennessee,2015,10,158150 ,5.1
+Tennessee,2015,11,154392 ,5
+Tennessee,2015,12,151076 ,4.9
+Tennessee,2016,1,148180 ,4.8
+Tennessee,2016,2,146055 ,4.7
+Tennessee,2016,3,144905 ,4.7
+Tennessee,2016,4,144997 ,4.6
+Tennessee,2016,5,146321 ,4.7
+Tennessee,2016,6,148302 ,4.7
+Tennessee,2016,7,150254 ,4.8
+Tennessee,2016,8,151980 ,4.8
+Tennessee,2016,9,153482 ,4.9
+Tennessee,2016,10,154146 ,4.9
+Tennessee,2016,11,153174 ,4.8
+Tennessee,2016,12,150067 ,4.7
+Tennessee,2017,1,145592 ,4.6
+Tennessee,2017,2,139252 ,4.4
+Tennessee,2017,3,132113 ,4.2
+Tennessee,2017,4,124917 ,3.9
+Tennessee,2017,5,118383 ,3.7
+Tennessee,2017,6,113454 ,3.6
+Tennessee,2017,7,110576 ,3.5
+Tennessee,2017,8,109363 ,3.4
+Tennessee,2017,9,109289 ,3.4
+Tennessee,2017,10,109845 ,3.4
+Tennessee,2017,11,110703 ,3.4
+Tennessee,2017,12,111548 ,3.5
+Tennessee,2018,1,113406 ,3.5
+Tennessee,2018,2,113999 ,3.5
+Tennessee,2018,3,114076 ,3.5
+Tennessee,2018,4,113658 ,3.5
+Tennessee,2018,5,113148 ,3.5
+Tennessee,2018,6,112794 ,3.5
+Tennessee,2018,7,112591 ,3.5
+Tennessee,2018,8,112766 ,3.5
+Tennessee,2018,9,113277 ,3.5
+Tennessee,2018,10,113884 ,3.5
+Tennessee,2018,11,114336 ,3.5
+Tennessee,2018,12,114571 ,3.5
+Tennessee,2019,1,114560 ,3.5
+Tennessee,2019,2,114110 ,3.4
+Tennessee,2019,3,113100 ,3.4
+Tennessee,2019,4,111350 ,3.3
+Tennessee,2019,5,109213 ,3.3
+Tennessee,2019,6,107464 ,3.2
+Tennessee,2019,7,106945 ,3.2
+Tennessee,2019,8,107894 ,3.2
+Tennessee,2019,9,109707 ,3.3
+Tennessee,2019,10,112232 ,3.4
+Tennessee,2019,11,114752 ,3.4
+Tennessee,2019,12,116250 ,3.5
+Tennessee,2020,1,116164 ,3.5
+Tennessee,2020,2,115935 ,3.5
+Tennessee,2020,3,117170 ,3.5
+Tennessee,2020,4,504818 ,15.8
+Tennessee,2020,5,395579 ,12.1
+Tennessee,2020,6,330728 ,10.1
+Tennessee,2020,7,294663 ,9
+Tennessee,2020,8,251827 ,7.7
+Tennessee,2020,9,237068 ,7.1
+Tennessee,2020,10,212353 ,6.4
+Tennessee,2020,11,198660 ,6
+Tennessee,2020,12,189594 ,5.7
+Tennessee,2021,1,179864 ,5.4
+Tennessee,2021,2,175013 ,5.3
+Tennessee,2021,3,170523 ,5.1
+Tennessee,2021,4,166672 ,5
+Tennessee,2021,5,160332 ,4.8
+Tennessee,2021,6,154468 ,4.6
+Tennessee,2021,7,146910 ,4.4
+Tennessee,2021,8,139485 ,4.2
+Tennessee,2021,9,132485 ,4
+Tennessee,2021,10,127067 ,3.8
+Tennessee,2021,11,122088 ,3.7
+Tennessee,2021,12,118815 ,3.6
+Tennessee,2022,1,116669 ,3.5
+Tennessee,2022,2,114796 ,3.4
+Tennessee,2022,3,112990 ,3.3
+Tennessee,2022,4,111079 ,3.3
+Tennessee,2022,5,109470 ,3.2
+Tennessee,2022,6,108999 ,3.2
+Tennessee,2022,7,109933 ,3.3
+Tennessee,2022,8,111925 ,3.3
+Tennessee,2022,9,114211 ,3.4
+Tennessee,2022,10,115978 ,3.5
+Tennessee,2022,11,116059 ,3.5
+Tennessee,2022,12,115593 ,3.5
+Tennessee,2023,1,115667 ,3.5
+Tennessee,2023,2,116474 ,3.5
+Tennessee,2023,3,113866 ,3.4
+Tennessee,2023,4,110171 ,3.3
+Tennessee,2023,5,109718 ,3.3
+Tennessee,2023,6,107202 ,3.2
+Tennessee,2023,7,105653 ,3.1
+Tennessee,2023,8,105102 ,3.1
+Tennessee,2023,9,108450 ,3.2
+Texas,2014,1,737912 ,5.7
+Texas,2014,2,721554 ,5.6
+Texas,2014,3,707527 ,5.5
+Texas,2014,4,696883 ,5.4
+Texas,2014,5,688007 ,5.3
+Texas,2014,6,679936 ,5.2
+Texas,2014,7,671669 ,5.2
+Texas,2014,8,662652 ,5.1
+Texas,2014,9,651774 ,5
+Texas,2014,10,637462 ,4.9
+Texas,2014,11,620956 ,4.8
+Texas,2014,12,605779 ,4.6
+Texas,2015,1,594325 ,4.6
+Texas,2015,2,587606 ,4.5
+Texas,2015,3,583837 ,4.5
+Texas,2015,4,581180 ,4.5
+Texas,2015,5,579318 ,4.4
+Texas,2015,6,578704 ,4.4
+Texas,2015,7,580450 ,4.4
+Texas,2015,8,584340 ,4.5
+Texas,2015,9,587926 ,4.5
+Texas,2015,10,590060 ,4.5
+Texas,2015,11,590950 ,4.5
+Texas,2015,12,590447 ,4.5
+Texas,2016,1,589132 ,4.5
+Texas,2016,2,589237 ,4.4
+Texas,2016,3,592358 ,4.5
+Texas,2016,4,599706 ,4.5
+Texas,2016,5,610415 ,4.6
+Texas,2016,6,621145 ,4.7
+Texas,2016,7,629445 ,4.7
+Texas,2016,8,635306 ,4.7
+Texas,2016,9,640417 ,4.8
+Texas,2016,10,644755 ,4.8
+Texas,2016,11,646999 ,4.8
+Texas,2016,12,646838 ,4.8
+Texas,2017,1,640414 ,4.8
+Texas,2017,2,633917 ,4.7
+Texas,2017,3,623247 ,4.6
+Texas,2017,4,609926 ,4.5
+Texas,2017,5,595121 ,4.4
+Texas,2017,6,581414 ,4.3
+Texas,2017,7,570815 ,4.2
+Texas,2017,8,563119 ,4.2
+Texas,2017,9,557804 ,4.1
+Texas,2017,10,554048 ,4.1
+Texas,2017,11,552034 ,4.1
+Texas,2017,12,550999 ,4.1
+Texas,2018,1,551375 ,4.1
+Texas,2018,2,551469 ,4
+Texas,2018,3,550113 ,4
+Texas,2018,4,546136 ,4
+Texas,2018,5,540919 ,3.9
+Texas,2018,6,535155 ,3.9
+Texas,2018,7,529213 ,3.9
+Texas,2018,8,525426 ,3.8
+Texas,2018,9,525192 ,3.8
+Texas,2018,10,527062 ,3.8
+Texas,2018,11,528058 ,3.8
+Texas,2018,12,525074 ,3.8
+Texas,2019,1,516751 ,3.7
+Texas,2019,2,503993 ,3.6
+Texas,2019,3,490811 ,3.6
+Texas,2019,4,480632 ,3.5
+Texas,2019,5,476153 ,3.4
+Texas,2019,6,478487 ,3.4
+Texas,2019,7,485991 ,3.5
+Texas,2019,8,494107 ,3.5
+Texas,2019,9,497073 ,3.6
+Texas,2019,10,495284 ,3.5
+Texas,2019,11,491398 ,3.5
+Texas,2019,12,489369 ,3.5
+Texas,2020,1,491930 ,3.5
+Texas,2020,2,499906 ,3.6
+Texas,2020,3,694228 ,5
+Texas,2020,4,1700255 ,12.8
+Texas,2020,5,1614044 ,11.6
+Texas,2020,6,1400609 ,10.1
+Texas,2020,7,1296457 ,9.3
+Texas,2020,8,1128989 ,8.1
+Texas,2020,9,1082014 ,7.7
+Texas,2020,10,1003144 ,7.1
+Texas,2020,11,985516 ,7
+Texas,2020,12,980758 ,6.9
+Texas,2021,1,952869 ,6.7
+Texas,2021,2,934027 ,6.6
+Texas,2021,3,908409 ,6.4
+Texas,2021,4,882019 ,6.2
+Texas,2021,5,847622 ,5.9
+Texas,2021,6,835932 ,5.8
+Texas,2021,7,797258 ,5.6
+Texas,2021,8,771033 ,5.4
+Texas,2021,9,731473 ,5.1
+Texas,2021,10,707630 ,4.9
+Texas,2021,11,674136 ,4.7
+Texas,2021,12,651259 ,4.5
+Texas,2022,1,630892 ,4.3
+Texas,2022,2,598105 ,4.1
+Texas,2022,3,569834 ,3.9
+Texas,2022,4,559081 ,3.8
+Texas,2022,5,555317 ,3.8
+Texas,2022,6,554154 ,3.8
+Texas,2022,7,552038 ,3.8
+Texas,2022,8,545468 ,3.7
+Texas,2022,9,560829 ,3.8
+Texas,2022,10,567778 ,3.9
+Texas,2022,11,564593 ,3.8
+Texas,2022,12,560929 ,3.8
+Texas,2023,1,569291 ,3.9
+Texas,2023,2,587211 ,4
+Texas,2023,3,599832 ,4
+Texas,2023,4,605684 ,4
+Texas,2023,5,616245 ,4.1
+Texas,2023,6,609763 ,4.1
+Texas,2023,7,613691 ,4.1
+Texas,2023,8,622845 ,4.1
+Texas,2023,9,625522 ,4.1
+Utah,2014,1,53459 ,3.8
+Utah,2014,2,52469 ,3.7
+Utah,2014,3,51643 ,3.7
+Utah,2014,4,51077 ,3.6
+Utah,2014,5,50757 ,3.6
+Utah,2014,6,50708 ,3.6
+Utah,2014,7,50879 ,3.6
+Utah,2014,8,51170 ,3.6
+Utah,2014,9,51448 ,3.6
+Utah,2014,10,51514 ,3.6
+Utah,2014,11,51343 ,3.6
+Utah,2014,12,51160 ,3.6
+Utah,2015,1,51038 ,3.6
+Utah,2015,2,51033 ,3.5
+Utah,2015,3,51118 ,3.5
+Utah,2015,4,51246 ,3.5
+Utah,2015,5,51362 ,3.5
+Utah,2015,6,51441 ,3.5
+Utah,2015,7,51531 ,3.5
+Utah,2015,8,51651 ,3.5
+Utah,2015,9,51706 ,3.5
+Utah,2015,10,51703 ,3.5
+Utah,2015,11,51765 ,3.5
+Utah,2015,12,51860 ,3.5
+Utah,2016,1,51924 ,3.5
+Utah,2016,2,51929 ,3.5
+Utah,2016,3,51720 ,3.5
+Utah,2016,4,51291 ,3.4
+Utah,2016,5,50778 ,3.4
+Utah,2016,6,50245 ,3.4
+Utah,2016,7,49730 ,3.3
+Utah,2016,8,49326 ,3.3
+Utah,2016,9,49147 ,3.3
+Utah,2016,10,49138 ,3.2
+Utah,2016,11,49133 ,3.2
+Utah,2016,12,49069 ,3.2
+Utah,2017,1,49082 ,3.2
+Utah,2017,2,48988 ,3.2
+Utah,2017,3,49021 ,3.2
+Utah,2017,4,49192 ,3.2
+Utah,2017,5,49344 ,3.2
+Utah,2017,6,49427 ,3.2
+Utah,2017,7,49461 ,3.2
+Utah,2017,8,49360 ,3.2
+Utah,2017,9,49114 ,3.1
+Utah,2017,10,48733 ,3.1
+Utah,2017,11,48309 ,3.1
+Utah,2017,12,47831 ,3.1
+Utah,2018,1,47646 ,3
+Utah,2018,2,47263 ,3
+Utah,2018,3,46902 ,3
+Utah,2018,4,46567 ,2.9
+Utah,2018,5,46311 ,2.9
+Utah,2018,6,46127 ,2.9
+Utah,2018,7,45964 ,2.9
+Utah,2018,8,45881 ,2.9
+Utah,2018,9,45867 ,2.9
+Utah,2018,10,45805 ,2.9
+Utah,2018,11,45585 ,2.9
+Utah,2018,12,45161 ,2.8
+Utah,2019,1,44533 ,2.8
+Utah,2019,2,43720 ,2.7
+Utah,2019,3,42870 ,2.7
+Utah,2019,4,42044 ,2.6
+Utah,2019,5,41308 ,2.6
+Utah,2019,6,40693 ,2.5
+Utah,2019,7,40221 ,2.5
+Utah,2019,8,39871 ,2.5
+Utah,2019,9,39496 ,2.4
+Utah,2019,10,39307 ,2.4
+Utah,2019,11,39403 ,2.4
+Utah,2019,12,39732 ,2.4
+Utah,2020,1,40130 ,2.5
+Utah,2020,2,40445 ,2.5
+Utah,2020,3,40455 ,2.5
+Utah,2020,4,162505 ,10
+Utah,2020,5,126297 ,7.7
+Utah,2020,6,105314 ,6.4
+Utah,2020,7,94286 ,5.7
+Utah,2020,8,80291 ,4.9
+Utah,2020,9,75041 ,4.5
+Utah,2020,10,67385 ,4.1
+Utah,2020,11,63201 ,3.8
+Utah,2020,12,60351 ,3.6
+Utah,2021,1,56457 ,3.4
+Utah,2021,2,53911 ,3.2
+Utah,2021,3,51529 ,3.1
+Utah,2021,4,49971 ,3
+Utah,2021,5,48156 ,2.9
+Utah,2021,6,46977 ,2.8
+Utah,2021,7,45392 ,2.7
+Utah,2021,8,43722 ,2.6
+Utah,2021,9,41840 ,2.5
+Utah,2021,10,40277 ,2.4
+Utah,2021,11,38939 ,2.3
+Utah,2021,12,37990 ,2.2
+Utah,2022,1,37675 ,2.2
+Utah,2022,2,37659 ,2.2
+Utah,2022,3,37888 ,2.2
+Utah,2022,4,38322 ,2.2
+Utah,2022,5,38954 ,2.2
+Utah,2022,6,39773 ,2.3
+Utah,2022,7,40749 ,2.3
+Utah,2022,8,41698 ,2.4
+Utah,2022,9,42398 ,2.4
+Utah,2022,10,42819 ,2.4
+Utah,2022,11,42734 ,2.4
+Utah,2022,12,42567 ,2.4
+Utah,2023,1,42619 ,2.4
+Utah,2023,2,42302 ,2.4
+Utah,2023,3,41696 ,2.4
+Utah,2023,4,41313 ,2.3
+Utah,2023,5,41958 ,2.3
+Utah,2023,6,42560 ,2.4
+Utah,2023,7,43846 ,2.4
+Utah,2023,8,45772 ,2.5
+Utah,2023,9,47538 ,2.6
+Vermont,2014,1,14278 ,4.1
+Vermont,2014,2,14105 ,4
+Vermont,2014,3,13980 ,4
+Vermont,2014,4,13933 ,4
+Vermont,2014,5,13936 ,4
+Vermont,2014,6,13958 ,4
+Vermont,2014,7,13987 ,4
+Vermont,2014,8,14020 ,4
+Vermont,2014,9,14022 ,4
+Vermont,2014,10,13935 ,4
+Vermont,2014,11,13730 ,3.9
+Vermont,2014,12,13460 ,3.9
+Vermont,2015,1,13194 ,3.8
+Vermont,2015,2,12966 ,3.7
+Vermont,2015,3,12756 ,3.7
+Vermont,2015,4,12567 ,3.6
+Vermont,2015,5,12404 ,3.6
+Vermont,2015,6,12270 ,3.5
+Vermont,2015,7,12153 ,3.5
+Vermont,2015,8,12035 ,3.5
+Vermont,2015,9,11901 ,3.4
+Vermont,2015,10,11758 ,3.4
+Vermont,2015,11,11607 ,3.4
+Vermont,2015,12,11421 ,3.3
+Vermont,2016,1,11209 ,3.2
+Vermont,2016,2,11023 ,3.2
+Vermont,2016,3,10888 ,3.2
+Vermont,2016,4,10814 ,3.1
+Vermont,2016,5,10792 ,3.1
+Vermont,2016,6,10788 ,3.1
+Vermont,2016,7,10770 ,3.1
+Vermont,2016,8,10736 ,3.1
+Vermont,2016,9,10707 ,3.1
+Vermont,2016,10,10706 ,3.1
+Vermont,2016,11,10745 ,3.1
+Vermont,2016,12,10834 ,3.1
+Vermont,2017,1,11143 ,3.1
+Vermont,2017,2,11134 ,3.1
+Vermont,2017,3,11037 ,3.1
+Vermont,2017,4,10869 ,3.1
+Vermont,2017,5,10664 ,3
+Vermont,2017,6,10497 ,3
+Vermont,2017,7,10417 ,2.9
+Vermont,2017,8,10415 ,2.9
+Vermont,2017,9,10463 ,2.9
+Vermont,2017,10,10515 ,3
+Vermont,2017,11,10570 ,3
+Vermont,2017,12,10589 ,3
+Vermont,2018,1,9869 ,2.8
+Vermont,2018,2,9678 ,2.7
+Vermont,2018,3,9426 ,2.7
+Vermont,2018,4,9131 ,2.6
+Vermont,2018,5,8845 ,2.5
+Vermont,2018,6,8599 ,2.4
+Vermont,2018,7,8421 ,2.4
+Vermont,2018,8,8340 ,2.3
+Vermont,2018,9,8335 ,2.3
+Vermont,2018,10,8350 ,2.4
+Vermont,2018,11,8353 ,2.4
+Vermont,2018,12,8296 ,2.3
+Vermont,2019,1,8132 ,2.3
+Vermont,2019,2,7832 ,2.2
+Vermont,2019,3,7467 ,2.1
+Vermont,2019,4,7127 ,2
+Vermont,2019,5,6900 ,2
+Vermont,2019,6,6869 ,1.9
+Vermont,2019,7,7053 ,2
+Vermont,2019,8,7365 ,2.1
+Vermont,2019,9,7642 ,2.2
+Vermont,2019,10,7763 ,2.2
+Vermont,2019,11,7581 ,2.1
+Vermont,2019,12,7304 ,2.1
+Vermont,2020,1,7294 ,2.1
+Vermont,2020,2,7777 ,2.2
+Vermont,2020,3,8745 ,2.5
+Vermont,2020,4,49506 ,14
+Vermont,2020,5,32365 ,9.5
+Vermont,2020,6,26225 ,7.8
+Vermont,2020,7,22448 ,6.7
+Vermont,2020,8,18494 ,5.6
+Vermont,2020,9,16490 ,5
+Vermont,2020,10,14761 ,4.5
+Vermont,2020,11,14344 ,4.3
+Vermont,2020,12,14600 ,4.4
+Vermont,2021,1,14877 ,4.5
+Vermont,2021,2,15047 ,4.5
+Vermont,2021,3,14796 ,4.4
+Vermont,2021,4,14171 ,4.2
+Vermont,2021,5,13287 ,4
+Vermont,2021,6,12464 ,3.7
+Vermont,2021,7,11788 ,3.5
+Vermont,2021,8,11304 ,3.4
+Vermont,2021,9,10950 ,3.3
+Vermont,2021,10,10594 ,3.1
+Vermont,2021,11,10146 ,3
+Vermont,2021,12,9571 ,2.8
+Vermont,2022,1,8939 ,2.6
+Vermont,2022,2,8314 ,2.4
+Vermont,2022,3,7825 ,2.3
+Vermont,2022,4,7557 ,2.2
+Vermont,2022,5,7583 ,2.2
+Vermont,2022,6,7947 ,2.3
+Vermont,2022,7,8627 ,2.5
+Vermont,2022,8,9432 ,2.8
+Vermont,2022,9,10123 ,3
+Vermont,2022,10,10528 ,3.1
+Vermont,2022,11,10503 ,3.1
+Vermont,2022,12,10378 ,3
+Vermont,2023,1,10103 ,2.9
+Vermont,2023,2,9831 ,2.8
+Vermont,2023,3,9217 ,2.7
+Vermont,2023,4,8341 ,2.4
+Vermont,2023,5,7383 ,2.1
+Vermont,2023,6,6722 ,1.9
+Vermont,2023,7,6300 ,1.8
+Vermont,2023,8,6407 ,1.8
+Vermont,2023,9,6605 ,1.9
+Virginia,2014,1,227687 ,5.3
+Virginia,2014,2,226349 ,5.3
+Virginia,2014,3,225266 ,5.3
+Virginia,2014,4,224459 ,5.3
+Virginia,2014,5,223182 ,5.2
+Virginia,2014,6,221026 ,5.2
+Virginia,2014,7,218320 ,5.1
+Virginia,2014,8,215508 ,5.1
+Virginia,2014,9,212780 ,5
+Virginia,2014,10,209908 ,4.9
+Virginia,2014,11,206898 ,4.9
+Virginia,2014,12,204368 ,4.8
+Virginia,2015,1,202566 ,4.8
+Virginia,2015,2,201303 ,4.7
+Virginia,2015,3,199525 ,4.7
+Virginia,2015,4,196425 ,4.6
+Virginia,2015,5,192073 ,4.5
+Virginia,2015,6,186972 ,4.4
+Virginia,2015,7,181958 ,4.3
+Virginia,2015,8,177756 ,4.2
+Virginia,2015,9,174521 ,4.1
+Virginia,2015,10,172279 ,4.1
+Virginia,2015,11,170868 ,4
+Virginia,2015,12,169526 ,4
+Virginia,2016,1,167737 ,4
+Virginia,2016,2,165822 ,3.9
+Virginia,2016,3,164397 ,3.9
+Virginia,2016,4,164185 ,3.9
+Virginia,2016,5,165482 ,3.9
+Virginia,2016,6,167919 ,4
+Virginia,2016,7,170677 ,4
+Virginia,2016,8,173126 ,4.1
+Virginia,2016,9,174976 ,4.1
+Virginia,2016,10,175721 ,4.1
+Virginia,2016,11,175169 ,4.1
+Virginia,2016,12,173734 ,4
+Virginia,2017,1,173994 ,4
+Virginia,2017,2,172031 ,4
+Virginia,2017,3,169313 ,3.9
+Virginia,2017,4,166070 ,3.8
+Virginia,2017,5,162515 ,3.7
+Virginia,2017,6,159160 ,3.7
+Virginia,2017,7,156506 ,3.6
+Virginia,2017,8,154468 ,3.5
+Virginia,2017,9,152709 ,3.5
+Virginia,2017,10,150924 ,3.5
+Virginia,2017,11,149011 ,3.4
+Virginia,2017,12,146816 ,3.4
+Virginia,2018,1,147028 ,3.4
+Virginia,2018,2,144172 ,3.3
+Virginia,2018,3,139924 ,3.2
+Virginia,2018,4,134432 ,3.1
+Virginia,2018,5,128628 ,2.9
+Virginia,2018,6,123675 ,2.8
+Virginia,2018,7,120456 ,2.8
+Virginia,2018,8,119875 ,2.8
+Virginia,2018,9,122148 ,2.8
+Virginia,2018,10,126411 ,2.9
+Virginia,2018,11,131110 ,3
+Virginia,2018,12,135001 ,3.1
+Virginia,2019,1,136844 ,3.1
+Virginia,2019,2,135582 ,3.1
+Virginia,2019,3,131036 ,3
+Virginia,2019,4,124199 ,2.8
+Virginia,2019,5,116952 ,2.7
+Virginia,2019,6,111539 ,2.5
+Virginia,2019,7,109562 ,2.5
+Virginia,2019,8,111215 ,2.5
+Virginia,2019,9,115024 ,2.6
+Virginia,2019,10,119642 ,2.7
+Virginia,2019,11,123500 ,2.8
+Virginia,2019,12,124847 ,2.8
+Virginia,2020,1,125622 ,2.8
+Virginia,2020,2,130436 ,2.9
+Virginia,2020,3,141692 ,3.2
+Virginia,2020,4,517063 ,12
+Virginia,2020,5,429069 ,10
+Virginia,2020,6,379799 ,8.9
+Virginia,2020,7,355335 ,8.2
+Virginia,2020,8,313893 ,7.3
+Virginia,2020,9,285769 ,6.6
+Virginia,2020,10,251377 ,5.8
+Virginia,2020,11,229241 ,5.3
+Virginia,2020,12,218435 ,5.1
+Virginia,2021,1,208846 ,4.8
+Virginia,2021,2,202956 ,4.7
+Virginia,2021,3,196916 ,4.6
+Virginia,2021,4,189146 ,4.4
+Virginia,2021,5,180570 ,4.2
+Virginia,2021,6,172197 ,4
+Virginia,2021,7,162055 ,3.7
+Virginia,2021,8,153496 ,3.5
+Virginia,2021,9,145814 ,3.4
+Virginia,2021,10,139967 ,3.2
+Virginia,2021,11,134910 ,3.1
+Virginia,2021,12,131140 ,3
+Virginia,2022,1,128919 ,2.9
+Virginia,2022,2,125865 ,2.9
+Virginia,2022,3,121725 ,2.8
+Virginia,2022,4,116879 ,2.6
+Virginia,2022,5,112638 ,2.5
+Virginia,2022,6,111485 ,2.5
+Virginia,2022,7,115408 ,2.6
+Virginia,2022,8,123031 ,2.8
+Virginia,2022,9,132310 ,3
+Virginia,2022,10,139756 ,3.1
+Virginia,2022,11,140890 ,3.2
+Virginia,2022,12,139741 ,3.1
+Virginia,2023,1,144917 ,3.2
+Virginia,2023,2,145877 ,3.2
+Virginia,2023,3,143569 ,3.2
+Virginia,2023,4,140260 ,3.1
+Virginia,2023,5,134408 ,2.9
+Virginia,2023,6,125180 ,2.7
+Virginia,2023,7,116341 ,2.5
+Virginia,2023,8,113102 ,2.5
+Virginia,2023,9,116293 ,2.5
+Washington,2014,1,215692 ,6.2
+Washington,2014,2,213189 ,6.1
+Washington,2014,3,210903 ,6.1
+Washington,2014,4,209047 ,6
+Washington,2014,5,207420 ,6
+Washington,2014,6,206055 ,5.9
+Washington,2014,7,205242 ,5.9
+Washington,2014,8,205109 ,5.9
+Washington,2014,9,205283 ,5.8
+Washington,2014,10,204613 ,5.8
+Washington,2014,11,202513 ,5.7
+Washington,2014,12,199589 ,5.7
+Washington,2015,1,196696 ,5.6
+Washington,2015,2,194638 ,5.5
+Washington,2015,3,193303 ,5.5
+Washington,2015,4,192371 ,5.4
+Washington,2015,5,191636 ,5.4
+Washington,2015,6,190925 ,5.4
+Washington,2015,7,190672 ,5.4
+Washington,2015,8,191209 ,5.4
+Washington,2015,9,192067 ,5.4
+Washington,2015,10,193033 ,5.4
+Washington,2015,11,194217 ,5.4
+Washington,2015,12,195147 ,5.4
+Washington,2016,1,195336 ,5.4
+Washington,2016,2,194937 ,5.4
+Washington,2016,3,194234 ,5.4
+Washington,2016,4,193664 ,5.3
+Washington,2016,5,193410 ,5.3
+Washington,2016,6,193166 ,5.3
+Washington,2016,7,192069 ,5.3
+Washington,2016,8,190072 ,5.2
+Washington,2016,9,187859 ,5.1
+Washington,2016,10,185314 ,5.1
+Washington,2016,11,182081 ,5
+Washington,2016,12,178409 ,4.9
+Washington,2017,1,175856 ,4.8
+Washington,2017,2,173317 ,4.7
+Washington,2017,3,171359 ,4.6
+Washington,2017,4,170323 ,4.6
+Washington,2017,5,170120 ,4.6
+Washington,2017,6,170679 ,4.6
+Washington,2017,7,171973 ,4.6
+Washington,2017,8,173402 ,4.6
+Washington,2017,9,174318 ,4.7
+Washington,2017,10,174503 ,4.7
+Washington,2017,11,174179 ,4.6
+Washington,2017,12,173352 ,4.6
+Washington,2018,1,173126 ,4.6
+Washington,2018,2,171874 ,4.6
+Washington,2018,3,170102 ,4.5
+Washington,2018,4,167594 ,4.4
+Washington,2018,5,164950 ,4.3
+Washington,2018,6,162988 ,4.3
+Washington,2018,7,162332 ,4.3
+Washington,2018,8,163279 ,4.3
+Washington,2018,9,166037 ,4.3
+Washington,2018,10,170356 ,4.4
+Washington,2018,11,175364 ,4.5
+Washington,2018,12,179593 ,4.6
+Washington,2019,1,181746 ,4.7
+Washington,2019,2,180976 ,4.6
+Washington,2019,3,177921 ,4.6
+Washington,2019,4,173568 ,4.4
+Washington,2019,5,169051 ,4.3
+Washington,2019,6,165405 ,4.2
+Washington,2019,7,163149 ,4.1
+Washington,2019,8,162094 ,4.1
+Washington,2019,9,160713 ,4.1
+Washington,2019,10,158176 ,4
+Washington,2019,11,154258 ,3.9
+Washington,2019,12,150613 ,3.8
+Washington,2020,1,149361 ,3.8
+Washington,2020,2,151851 ,3.8
+Washington,2020,3,206520 ,5.2
+Washington,2020,4,671176 ,16.6
+Washington,2020,5,524754 ,13.2
+Washington,2020,6,445483 ,11.3
+Washington,2020,7,399917 ,10.2
+Washington,2020,8,338805 ,8.7
+Washington,2020,9,312035 ,8
+Washington,2020,10,279410 ,7.2
+Washington,2020,11,264556 ,6.8
+Washington,2020,12,257731 ,6.6
+Washington,2021,1,246141 ,6.3
+Washington,2021,2,237443 ,6.1
+Washington,2021,3,228713 ,5.9
+Washington,2021,4,220469 ,5.7
+Washington,2021,5,211821 ,5.4
+Washington,2021,6,206942 ,5.3
+Washington,2021,7,200457 ,5.1
+Washington,2021,8,193949 ,5
+Washington,2021,9,185830 ,4.8
+Washington,2021,10,177416 ,4.5
+Washington,2021,11,169041 ,4.3
+Washington,2021,12,162601 ,4.1
+Washington,2022,1,158911 ,4
+Washington,2022,2,156359 ,4
+Washington,2022,3,154988 ,3.9
+Washington,2022,4,154558 ,3.9
+Washington,2022,5,155078 ,3.9
+Washington,2022,6,157492 ,3.9
+Washington,2022,7,162843 ,4.1
+Washington,2022,8,170334 ,4.3
+Washington,2022,9,177698 ,4.4
+Washington,2022,10,183083 ,4.6
+Washington,2022,11,183636 ,4.6
+Washington,2022,12,182517 ,4.5
+Washington,2023,1,184387 ,4.6
+Washington,2023,2,185457 ,4.6
+Washington,2023,3,180382 ,4.5
+Washington,2023,4,174456 ,4.3
+Washington,2023,5,164997 ,4.1
+Washington,2023,6,154358 ,3.8
+Washington,2023,7,147381 ,3.6
+Washington,2023,8,145895 ,3.6
+Washington,2023,9,146945 ,3.6
+West Virginia,2014,1,53817 ,6.7
+West Virginia,2014,2,53652 ,6.7
+West Virginia,2014,3,53240 ,6.7
+West Virginia,2014,4,52704 ,6.6
+West Virginia,2014,5,52096 ,6.5
+West Virginia,2014,6,51537 ,6.5
+West Virginia,2014,7,51142 ,6.4
+West Virginia,2014,8,50937 ,6.4
+West Virginia,2014,9,50800 ,6.4
+West Virginia,2014,10,50599 ,6.4
+West Virginia,2014,11,50415 ,6.3
+West Virginia,2014,12,50482 ,6.4
+West Virginia,2015,1,50936 ,6.4
+West Virginia,2015,2,51818 ,6.5
+West Virginia,2015,3,52884 ,6.7
+West Virginia,2015,4,53799 ,6.8
+West Virginia,2015,5,54235 ,6.8
+West Virginia,2015,6,54018 ,6.8
+West Virginia,2015,7,53242 ,6.7
+West Virginia,2015,8,52197 ,6.6
+West Virginia,2015,9,51189 ,6.5
+West Virginia,2015,10,50476 ,6.4
+West Virginia,2015,11,50152 ,6.4
+West Virginia,2015,12,50108 ,6.4
+West Virginia,2016,1,50166 ,6.4
+West Virginia,2016,2,50104 ,6.3
+West Virginia,2016,3,49744 ,6.3
+West Virginia,2016,4,49189 ,6.2
+West Virginia,2016,5,48683 ,6.2
+West Virginia,2016,6,48320 ,6.2
+West Virginia,2016,7,48007 ,6.1
+West Virginia,2016,8,47663 ,6.1
+West Virginia,2016,9,47191 ,6
+West Virginia,2016,10,46437 ,5.9
+West Virginia,2016,11,45349 ,5.8
+West Virginia,2016,12,43956 ,5.6
+West Virginia,2017,1,42346 ,5.4
+West Virginia,2017,2,40900 ,5.2
+West Virginia,2017,3,39894 ,5.1
+West Virginia,2017,4,39434 ,5
+West Virginia,2017,5,39378 ,5
+West Virginia,2017,6,39655 ,5.1
+West Virginia,2017,7,40249 ,5.1
+West Virginia,2017,8,40918 ,5.2
+West Virginia,2017,9,41486 ,5.3
+West Virginia,2017,10,41921 ,5.3
+West Virginia,2017,11,42267 ,5.4
+West Virginia,2017,12,42506 ,5.4
+West Virginia,2018,1,42473 ,5.4
+West Virginia,2018,2,42470 ,5.4
+West Virginia,2018,3,42299 ,5.3
+West Virginia,2018,4,41896 ,5.3
+West Virginia,2018,5,41389 ,5.2
+West Virginia,2018,6,40823 ,5.1
+West Virginia,2018,7,40208 ,5.1
+West Virginia,2018,8,39774 ,5
+West Virginia,2018,9,39710 ,5
+West Virginia,2018,10,39934 ,5
+West Virginia,2018,11,40193 ,5.1
+West Virginia,2018,12,40200 ,5.1
+West Virginia,2019,1,39845 ,5
+West Virginia,2019,2,39143 ,4.9
+West Virginia,2019,3,38370 ,4.8
+West Virginia,2019,4,37778 ,4.8
+West Virginia,2019,5,37548 ,4.7
+West Virginia,2019,6,37814 ,4.8
+West Virginia,2019,7,38564 ,4.8
+West Virginia,2019,8,39500 ,5
+West Virginia,2019,9,40145 ,5
+West Virginia,2019,10,40535 ,5.1
+West Virginia,2019,11,40826 ,5.1
+West Virginia,2019,12,41263 ,5.2
+West Virginia,2020,1,41747 ,5.2
+West Virginia,2020,2,42067 ,5.3
+West Virginia,2020,3,42021 ,5.3
+West Virginia,2020,4,119779 ,15.7
+West Virginia,2020,5,96042 ,12.4
+West Virginia,2020,6,81219 ,10.5
+West Virginia,2020,7,73284 ,9.4
+West Virginia,2020,8,63719 ,8.2
+West Virginia,2020,9,58957 ,7.6
+West Virginia,2020,10,53695 ,6.9
+West Virginia,2020,11,50730 ,6.5
+West Virginia,2020,12,49097 ,6.3
+West Virginia,2021,1,46898 ,6
+West Virginia,2021,2,45628 ,5.9
+West Virginia,2021,3,44723 ,5.8
+West Virginia,2021,4,43800 ,5.6
+West Virginia,2021,5,42665 ,5.5
+West Virginia,2021,6,41592 ,5.3
+West Virginia,2021,7,39935 ,5.1
+West Virginia,2021,8,38122 ,4.9
+West Virginia,2021,9,36124 ,4.6
+West Virginia,2021,10,34333 ,4.4
+West Virginia,2021,11,32672 ,4.2
+West Virginia,2021,12,31107 ,4
+West Virginia,2022,1,29877 ,3.8
+West Virginia,2022,2,28917 ,3.7
+West Virginia,2022,3,28568 ,3.6
+West Virginia,2022,4,28821 ,3.7
+West Virginia,2022,5,29567 ,3.8
+West Virginia,2022,6,30592 ,3.9
+West Virginia,2022,7,31603 ,4
+West Virginia,2022,8,32290 ,4.1
+West Virginia,2022,9,32429 ,4.1
+West Virginia,2022,10,32257 ,4.1
+West Virginia,2022,11,32000 ,4.1
+West Virginia,2022,12,31859 ,4.1
+West Virginia,2023,1,30916 ,3.9
+West Virginia,2023,2,28813 ,3.7
+West Virginia,2023,3,26866 ,3.4
+West Virginia,2023,4,25965 ,3.3
+West Virginia,2023,5,25546 ,3.3
+West Virginia,2023,6,25826 ,3.3
+West Virginia,2023,7,26482 ,3.4
+West Virginia,2023,8,28256 ,3.6
+West Virginia,2023,9,30328 ,3.8
+Wisconsin,2014,1,184274 ,6
+Wisconsin,2014,2,179721 ,5.9
+Wisconsin,2014,3,175516 ,5.7
+Wisconsin,2014,4,171921 ,5.6
+Wisconsin,2014,5,168661 ,5.5
+Wisconsin,2014,6,165362 ,5.4
+Wisconsin,2014,7,161841 ,5.3
+Wisconsin,2014,8,158481 ,5.1
+Wisconsin,2014,9,155594 ,5
+Wisconsin,2014,10,152895 ,5
+Wisconsin,2014,11,150061 ,4.9
+Wisconsin,2014,12,147470 ,4.8
+Wisconsin,2015,1,145465 ,4.7
+Wisconsin,2015,2,144085 ,4.7
+Wisconsin,2015,3,142782 ,4.6
+Wisconsin,2015,4,141124 ,4.6
+Wisconsin,2015,5,139017 ,4.5
+Wisconsin,2015,6,136665 ,4.4
+Wisconsin,2015,7,134510 ,4.4
+Wisconsin,2015,8,132824 ,4.3
+Wisconsin,2015,9,131533 ,4.3
+Wisconsin,2015,10,130578 ,4.2
+Wisconsin,2015,11,129965 ,4.2
+Wisconsin,2015,12,129315 ,4.2
+Wisconsin,2016,1,128212 ,4.1
+Wisconsin,2016,2,126841 ,4.1
+Wisconsin,2016,3,125375 ,4
+Wisconsin,2016,4,124130 ,4
+Wisconsin,2016,5,123293 ,4
+Wisconsin,2016,6,122758 ,3.9
+Wisconsin,2016,7,122092 ,3.9
+Wisconsin,2016,8,121097 ,3.9
+Wisconsin,2016,9,119970 ,3.9
+Wisconsin,2016,10,118502 ,3.8
+Wisconsin,2016,11,116287 ,3.7
+Wisconsin,2016,12,113305 ,3.6
+Wisconsin,2017,1,110078 ,3.5
+Wisconsin,2017,2,106724 ,3.4
+Wisconsin,2017,3,104085 ,3.3
+Wisconsin,2017,4,102551 ,3.3
+Wisconsin,2017,5,102054 ,3.2
+Wisconsin,2017,6,102357 ,3.3
+Wisconsin,2017,7,103011 ,3.3
+Wisconsin,2017,8,103074 ,3.3
+Wisconsin,2017,9,101875 ,3.2
+Wisconsin,2017,10,99463 ,3.2
+Wisconsin,2017,11,96571 ,3.1
+Wisconsin,2017,12,93796 ,3
+Wisconsin,2018,1,92232 ,2.9
+Wisconsin,2018,2,91739 ,2.9
+Wisconsin,2018,3,92311 ,2.9
+Wisconsin,2018,4,93220 ,3
+Wisconsin,2018,5,93990 ,3
+Wisconsin,2018,6,94304 ,3
+Wisconsin,2018,7,94090 ,3
+Wisconsin,2018,8,93745 ,3
+Wisconsin,2018,9,93558 ,3
+Wisconsin,2018,10,93587 ,3
+Wisconsin,2018,11,93805 ,3
+Wisconsin,2018,12,94077 ,3
+Wisconsin,2019,1,94430 ,3
+Wisconsin,2019,2,94905 ,3
+Wisconsin,2019,3,95849 ,3.1
+Wisconsin,2019,4,97357 ,3.1
+Wisconsin,2019,5,99186 ,3.2
+Wisconsin,2019,6,100908 ,3.2
+Wisconsin,2019,7,102203 ,3.3
+Wisconsin,2019,8,102843 ,3.3
+Wisconsin,2019,9,102355 ,3.3
+Wisconsin,2019,10,101064 ,3.2
+Wisconsin,2019,11,99432 ,3.2
+Wisconsin,2019,12,97769 ,3.1
+Wisconsin,2020,1,95537 ,3.1
+Wisconsin,2020,2,92506 ,3
+Wisconsin,2020,3,88622 ,2.9
+Wisconsin,2020,4,433266 ,14.1
+Wisconsin,2020,5,324130 ,10.5
+Wisconsin,2020,6,267918 ,8.7
+Wisconsin,2020,7,235591 ,7.6
+Wisconsin,2020,8,194027 ,6.3
+Wisconsin,2020,9,178271 ,5.7
+Wisconsin,2020,10,159001 ,5.1
+Wisconsin,2020,11,152058 ,4.9
+Wisconsin,2020,12,148370 ,4.8
+Wisconsin,2021,1,141623 ,4.6
+Wisconsin,2021,2,139092 ,4.5
+Wisconsin,2021,3,135938 ,4.4
+Wisconsin,2021,4,133080 ,4.3
+Wisconsin,2021,5,128576 ,4.1
+Wisconsin,2021,6,125149 ,4
+Wisconsin,2021,7,119485 ,3.8
+Wisconsin,2021,8,113330 ,3.7
+Wisconsin,2021,9,106629 ,3.4
+Wisconsin,2021,10,100580 ,3.3
+Wisconsin,2021,11,95025 ,3.1
+Wisconsin,2021,12,90507 ,2.9
+Wisconsin,2022,1,87494 ,2.8
+Wisconsin,2022,2,85558 ,2.8
+Wisconsin,2022,3,85176 ,2.8
+Wisconsin,2022,4,86160 ,2.8
+Wisconsin,2022,5,88228 ,2.9
+Wisconsin,2022,6,90966 ,2.9
+Wisconsin,2022,7,93534 ,3
+Wisconsin,2022,8,94905 ,3.1
+Wisconsin,2022,9,94606 ,3.1
+Wisconsin,2022,10,93458 ,3
+Wisconsin,2022,11,92362 ,3
+Wisconsin,2022,12,91940 ,3
+Wisconsin,2023,1,87962 ,2.9
+Wisconsin,2023,2,82956 ,2.7
+Wisconsin,2023,3,76581 ,2.5
+Wisconsin,2023,4,72950 ,2.4
+Wisconsin,2023,5,73358 ,2.4
+Wisconsin,2023,6,76735 ,2.5
+Wisconsin,2023,7,81078 ,2.6
+Wisconsin,2023,8,89517 ,2.9
+Wisconsin,2023,9,96613 ,3.1
+Wyoming,2014,1,13633 ,4.5
+Wyoming,2014,2,13422 ,4.4
+Wyoming,2014,3,13258 ,4.4
+Wyoming,2014,4,13201 ,4.4
+Wyoming,2014,5,13213 ,4.4
+Wyoming,2014,6,13309 ,4.4
+Wyoming,2014,7,13436 ,4.4
+Wyoming,2014,8,13471 ,4.4
+Wyoming,2014,9,13333 ,4.4
+Wyoming,2014,10,13003 ,4.3
+Wyoming,2014,11,12562 ,4.1
+Wyoming,2014,12,12157 ,4
+Wyoming,2015,1,11923 ,3.9
+Wyoming,2015,2,11922 ,3.9
+Wyoming,2015,3,12116 ,4
+Wyoming,2015,4,12400 ,4.1
+Wyoming,2015,5,12661 ,4.2
+Wyoming,2015,6,12803 ,4.2
+Wyoming,2015,7,12800 ,4.2
+Wyoming,2015,8,12772 ,4.2
+Wyoming,2015,9,12819 ,4.3
+Wyoming,2015,10,13030 ,4.3
+Wyoming,2015,11,13502 ,4.5
+Wyoming,2015,12,14250 ,4.7
+Wyoming,2016,1,15157 ,5
+Wyoming,2016,2,16057 ,5.3
+Wyoming,2016,3,16749 ,5.5
+Wyoming,2016,4,17102 ,5.7
+Wyoming,2016,5,17099 ,5.7
+Wyoming,2016,6,16760 ,5.6
+Wyoming,2016,7,16274 ,5.4
+Wyoming,2016,8,15841 ,5.3
+Wyoming,2016,9,15557 ,5.2
+Wyoming,2016,10,15411 ,5.2
+Wyoming,2016,11,15250 ,5.1
+Wyoming,2016,12,14919 ,5
+Wyoming,2017,1,14282 ,4.8
+Wyoming,2017,2,13596 ,4.6
+Wyoming,2017,3,12921 ,4.4
+Wyoming,2017,4,12400 ,4.2
+Wyoming,2017,5,12118 ,4.1
+Wyoming,2017,6,12122 ,4.1
+Wyoming,2017,7,12306 ,4.2
+Wyoming,2017,8,12497 ,4.3
+Wyoming,2017,9,12646 ,4.3
+Wyoming,2017,10,12691 ,4.3
+Wyoming,2017,11,12624 ,4.3
+Wyoming,2017,12,12457 ,4.3
+Wyoming,2018,1,12323 ,4.2
+Wyoming,2018,2,12139 ,4.2
+Wyoming,2018,3,11963 ,4.1
+Wyoming,2018,4,11820 ,4
+Wyoming,2018,5,11743 ,4
+Wyoming,2018,6,11735 ,4
+Wyoming,2018,7,11787 ,4
+Wyoming,2018,8,11886 ,4.1
+Wyoming,2018,9,11950 ,4.1
+Wyoming,2018,10,11903 ,4.1
+Wyoming,2018,11,11715 ,4
+Wyoming,2018,12,11385 ,3.9
+Wyoming,2019,1,10942 ,3.7
+Wyoming,2019,2,10473 ,3.6
+Wyoming,2019,3,10124 ,3.5
+Wyoming,2019,4,9976 ,3.4
+Wyoming,2019,5,10048 ,3.4
+Wyoming,2019,6,10308 ,3.5
+Wyoming,2019,7,10687 ,3.6
+Wyoming,2019,8,11083 ,3.8
+Wyoming,2019,9,11375 ,3.9
+Wyoming,2019,10,11634 ,3.9
+Wyoming,2019,11,11961 ,4.1
+Wyoming,2019,12,12429 ,4.2
+Wyoming,2020,1,13076 ,4.4
+Wyoming,2020,2,13854 ,4.7
+Wyoming,2020,3,14573 ,4.9
+Wyoming,2020,4,15104 ,5.2
+Wyoming,2020,5,26026 ,8.7
+Wyoming,2020,6,21704 ,7.4
+Wyoming,2020,7,20194 ,6.9
+Wyoming,2020,8,18251 ,6.2
+Wyoming,2020,9,17293 ,5.9
+Wyoming,2020,10,16332 ,5.6
+Wyoming,2020,11,15930 ,5.5
+Wyoming,2020,12,15832 ,5.4
+Wyoming,2021,1,15655 ,5.4
+Wyoming,2021,2,15490 ,5.3
+Wyoming,2021,3,15155 ,5.2
+Wyoming,2021,4,14704 ,5.1
+Wyoming,2021,5,14095 ,4.9
+Wyoming,2021,6,13567 ,4.7
+Wyoming,2021,7,13075 ,4.5
+Wyoming,2021,8,12652 ,4.4
+Wyoming,2021,9,12229 ,4.3
+Wyoming,2021,10,11781 ,4.1
+Wyoming,2021,11,11278 ,3.9
+Wyoming,2021,12,10729 ,3.7
+Wyoming,2022,1,10211 ,3.5
+Wyoming,2022,2,9749 ,3.4
+Wyoming,2022,3,9436 ,3.3
+Wyoming,2022,4,9337 ,3.2
+Wyoming,2022,5,9481 ,3.3
+Wyoming,2022,6,9830 ,3.4
+Wyoming,2022,7,10331 ,3.5
+Wyoming,2022,8,10840 ,3.7
+Wyoming,2022,9,11228 ,3.8
+Wyoming,2022,10,11452 ,3.9
+Wyoming,2022,11,11422 ,3.9
+Wyoming,2022,12,11348 ,3.9
+Wyoming,2023,1,11360 ,3.9
+Wyoming,2023,2,11117 ,3.8
+Wyoming,2023,3,10890 ,3.7
+Wyoming,2023,4,10554 ,3.5
+Wyoming,2023,5,9915 ,3.3
+Wyoming,2023,6,9275 ,3.1
+Wyoming,2023,7,8883 ,3
+Wyoming,2023,8,8739 ,2.9
+Wyoming,2023,9,8697 ,2.9
