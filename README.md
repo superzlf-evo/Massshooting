@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-
+<h1 >某国大型枪支事件预测系统</h1>
 <h1 id="背景与目的">背景与目的</h1>
 <p>众所周知，霉国犯罪事件频发，尤其枪击事件类型。所以该系统主要是分析该国每年各州的枪击犯罪事件，通过深度学习去预测大型枪支暴力事件。</p>
 <hr>
@@ -65,74 +65,6 @@ model.compile(loss='mean_squared_error', optimizer='adam')  # 使用均方误差
 <hr>
 <h1 id="代码">代码</h1>
 <p><a href="https://github.com/superzlf-evo/Massshooting">代码链接</a></p>
-<hr>
-
-            </div>
-            
-              <div class="tag-container">
-                
-                  <a href="https://superzlf-evo.github.io/tag/h8SEnBtoV/" class="tag">
-                    python
-                  </a>
-                
-              </div>
-            
-            
-
-            
-              
-                <div id="gitalk-container" data-aos="fade-in"></div>
-              
-
-              
-            
-
-          </div>
-
-        </div>
-      </div>
-    </div>
-
-    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-<script type="application/javascript">
-
-AOS.init();
-
-var app = new Vue({
-  el: '#app',
-  data: {
-    menuVisible: false,
-  },
-})
-
-</script>
-
-
-
-
-
-  
-    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-    <script>
-
-      var gitalk = new Gitalk({
-        clientID: '98e722c8eede4cb43002',
-        clientSecret: '35fca1d7567720e4cbecea65706eabd62596befd',
-        repo: 'https://superzlf-evo.github.io',
-        owner: 'superzlf-evo',
-        admin: ['superzlf-evo'],
-        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
-        distractionFreeMode: false  // Facebook-like distraction free mode
-      })
-
-      gitalk.render('gitalk-container')
-
-    </script>
-  
-
-  
-
-
 
 
   </body>
