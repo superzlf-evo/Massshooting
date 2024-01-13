@@ -63,8 +63,7 @@ model.compile(loss='mean_squared_error', optimizer='adam')  # 使用均方误差
 <p>通过14到22年的数据预测得出23年4个季度的各州犯罪时间数,取预测的前3季度和真实23年数据对比:<br>
 <img src="https://superzlf-evo.github.io/post-images/1705077851315.png" alt="" loading="lazy"></p>
 <hr>
-<h1 id="代码">代码</h1>
-<p><a href="https://github.com/superzlf-evo/Massshooting">代码链接</a></p>
+
 
 
   </body>
